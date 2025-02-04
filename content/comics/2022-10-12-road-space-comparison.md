@@ -38,7 +38,7 @@ Road Space Comparison
 
 30 cars riding on 6 buses
 
-[39 evenly-spaced hamster balls with a person inside each, taking up the majority of the highway except a space at the top]
+[50 evenly-spaced hamster balls with a person inside each, taking up the majority of the highway except a space at the top]
 
 50 people in human-sized hamster balls
 

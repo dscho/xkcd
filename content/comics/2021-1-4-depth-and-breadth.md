@@ -20,7 +20,7 @@ Depth-first search
 
 Breadth-first search
 
-[The arrow visits nodes 1, 2, 3, 4, 5, 7<sup>[*sic*]</sup>, 6, 8.]
+[The arrow visits nodes 1, 2, 3, 4, 5, 7{{asic}}, 6, 8.]
 
 Brepth-first search
 
