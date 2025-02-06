@@ -6,8 +6,6 @@ alt: >-
   The best case is O(n), and the worst case is that someone checks why.
 img: https://imgs.xkcd.com/comics/linear_sort_2x.png
 ---
-{{incomplete transcript|Do NOT delete this tag too soon.}}
-
 [The panel shows five lines of code:]
 
 function LinearSort(list):
