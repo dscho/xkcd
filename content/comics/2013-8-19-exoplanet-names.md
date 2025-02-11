@@ -6,8 +6,6 @@ alt: >-
   If you have any ideas, I hear you can send them to <nowiki>iaupublic@iap.fr</nowiki>.
 img: https://imgs.xkcd.com/comics/exoplanet_names.png
 ---
-{{incomplete transcript}}
-
 [Text above the first frame of the comic:]
 
 August 2013:

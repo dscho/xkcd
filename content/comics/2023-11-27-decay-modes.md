@@ -6,8 +6,6 @@ alt: >-
   Unlike an Iron Age collapse, a Bronze Age collapse releases energy, since copper and tin are past the iron peak on the curve of binding energy.
 img: https://imgs.xkcd.com/comics/decay_modes_2x.png
 ---
-{{incomplete transcript|Do NOT delete this tag too soon.}}
-
 Radioactive Decay Modes
 
 [A 6x2 table of illustrations of atoms, depicting types of atomic decay, with a label underneath.]

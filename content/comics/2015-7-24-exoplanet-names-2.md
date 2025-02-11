@@ -6,8 +6,6 @@ alt: >-
   I'm going to drive this Netherlands joke so far into the ground they'll have to build levees around it to keep the sea out.
 img: https://imgs.xkcd.com/comics/exoplanet_names_2.png
 ---
-{{incomplete transcript}}
-
 [Black Hat points with a stick at a slide showing an image of a planet with unknown features marked by questions marks.]
 
 Kepler-452b
