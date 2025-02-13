@@ -48,7 +48,7 @@ Inverted pendulum
 
 Nightmare pendulum
 
-[An inverted double pendulum, with an additional uninverted pendulum swinging within a large weight adorned with archaic/mystical symbols]
+[An inverted double pendulum on a vibrating base, with an additional uninverted pendulum swinging within a large weight adorned with grawlixes]
 
 \* Forbidden
 
