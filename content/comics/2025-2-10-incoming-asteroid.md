@@ -36,7 +36,7 @@ Asteroid size
 
 10,000 km
 
-[Around but not preciously at each labeled size there are ten descriptions of what should follow the header given such a size asteroid was about to hit Earth:]
+[Around but not precisely at each labeled size there are ten descriptions of what should follow the header given such a size asteroid was about to hit Earth:]
 
 [1 cm:] ...Good news! Meteors are pretty!
 
