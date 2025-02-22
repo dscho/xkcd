@@ -23,3 +23,7 @@ FB: 248k, Twitter: 0, Reddit: 0, G+: 74
 DIY: Installing a Custom ROM on a Realdoll
 
 FB: 0, Twitter: 0, Reddit: 0, G+: 2
+
+[Caption Below the comic]
+
+Sometimes the most interesting part of an article is the share button vote breakdown
