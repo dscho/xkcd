@@ -10,7 +10,7 @@ img: https://imgs.xkcd.com/comics/rotary_tool_2x.png
 
 Multi-function rotary tool
 
-[A slider on the side of a tool with various settings.]
+[A close-up of a stick-shaped tool, where on the side of a section is a panel with a slider adjustable in various levels annotated with numbers and texts. Besides the panel there are some invisible inlays. One visible end of the section is attached to another section.]
 
 <u>Speed (rpm)</u> <u>Function</u>
 

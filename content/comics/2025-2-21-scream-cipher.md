@@ -6,9 +6,7 @@ alt: >-
   AAAAAA A ÃA̧AȂA̦ ǍÅÂÃĀÁȂ AAAAAAA!
 img: https://imgs.xkcd.com/comics/scream_cipher_2x.png
 ---
-{{incomplete transcript|Do NOT delete this tag too soon.}}
-
-[Top of the panel has 26 letters of the alphabet, each followed by a hyphen and the letter "A" with a unique diacritical mark for each. "A - A" at the top is an exception, where the latter doesn't have a diacritic.]
+[The top of the panel has the 26 letters of the alphabet written, each followed by a hyphen and the letter "A" with a unique diacritical mark for each. "A - A" is the only letter in the top row, and the only one where that A on the right side doesn't have a diacritic. The next 25 is sorted in a 5 by 5 grid, with the first five letters after A in the first column, then the next 5 in the second column and so on:]
 
 {|
 
@@ -76,7 +74,7 @@ img: https://imgs.xkcd.com/comics/scream_cipher_2x.png
 
 |}
 
-[Cueball and Megan typing on their phones, Cueball with two hands and Megan with one hand.]
+[Beneath these letters we see Cueball and Megan typing on their phones, Cueball with two hands and Megan with one hand, small lines indicating the movement of their hands. Cueball and Megan is turned towards each other but with more separation than if they were engaged in normal discussion. They both look down at their phones not towards each other. The text they type is shown above their phone with a line starting in a starburst at the top of their phones going up the to the text.]
 
 Cueball's phone: A̰ÁĂĂÅ
 
@@ -84,4 +82,4 @@ Megan's phone: A̰Ả
 
 [Caption below the panel:]
 
-In the *Scream Cipher*, messages consist of all As, with different letters distinguished using diacritics.
+In the ***Scream Cipher***, messages consist of all As, with different letters distinguished using diacritics.
