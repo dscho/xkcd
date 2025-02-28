@@ -28,7 +28,7 @@
   const leftPad = (num, pad) => pad ? new String(num).padStart(2, '0') : num
   const dateStringToKey = (date, pad) => {
     const d = new Date(date)
-if (`${d.getFullYear()}` == 'NaN') throw new Error(`NaN for date ${date}, ${d}`)
+    if (`${d.getFullYear()}` == 'NaN') throw new Error(`NaN for date ${date}, ${d}`)
     return `${d.getFullYear()}-${leftPad(1 + d.getMonth(), pad)}-${leftPad(d.getDate(), pad)}`
   }
 
