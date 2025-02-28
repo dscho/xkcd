@@ -23,7 +23,7 @@
     </script>
 
     <ul>
-	{{ range sort (where .Site.Pages "Section" "comics") ".Params.num" }}
+	{{ range sort (where .Site.Pages "Section" "comics") ".Params.num" "desc" }}
         {{ if .Params.title }}
             <li>
                 <h2><a href="{{ .Permalink | relURL }}">#{{ .Params.num }}: {{ .Params.title }}</a></h2>
