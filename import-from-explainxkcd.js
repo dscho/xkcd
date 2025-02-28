@@ -129,6 +129,7 @@
         // See https://www.explainxkcd.com/wiki/index.php/36:_Scientists#Discussion
         if (page.infobox.date === '' && page.infobox.number === '36') page.infobox.date = 'April 28, 2006'
 
+        if (page.infobox.date === '') throw new Error(`No date in infobox? ${JSON.stringify(page, null, 2)}`)
         page.filePath = [
           `content/comics/`,
           dateStringToKey(page.infobox.date, false),
