@@ -14,7 +14,7 @@ I don't know why. I just woke up here one day.
 
 [The next four panels take up the second line of the comic.]
 
-[Cueball stand in the desert.]
+[Cueball stands in the desert.]
 
 I never feel hungry or thirsty.
 

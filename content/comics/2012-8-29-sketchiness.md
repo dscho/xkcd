@@ -6,13 +6,13 @@ alt: >-
   factory --- spire --- onslaught --- extractor --- judge
 img: https://imgs.xkcd.com/comics/sketchiness.png
 ---
-[A timeline style graph.]
+[A timeline-style graph.]
 
-**WORDS**
+**Words**
 
 Arranged by how sketchy they make the sentence
 
-**´´HEY BABY, WANNA COME BACK TO MY SEX \_\_\_\_\_\_\_\_?``**
+**"Hey baby, wanna come back to my sex \_\_\_\_\_\_\_?"**
 
 sketchy <--------> very sketchy
 
