@@ -6,8 +6,6 @@ alt: >-
   The most awkward part is when you have to pause to put on your shoes before you continue rolling out the door.
 img: https://imgs.xkcd.com/comics/excusing_yourself_2x.png
 ---
-{{incomplete transcript|Do NOT delete this tag too soon.}}
-
 [Caption above the panel:]
 
 Ways to leave a social interaction:

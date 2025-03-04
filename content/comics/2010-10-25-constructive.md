@@ -8,7 +8,7 @@ img: https://imgs.xkcd.com/comics/constructive.png
 ---
 [Cueball is talking to Megan.]
 
-Cueball: Spammers are breaking traditional Captchas with AI, so I've built a new system. It asks users to rate a slate of comments as "Constructive" or "Not constructive."
+Cueball: Spammers are breaking traditional CAPTCHAs with AI, so I've built a new system. It asks users to rate a slate of comments as "Constructive" or "Not constructive."
 
 [Close up of Cueball.]
 
