@@ -1,0 +1,29 @@
+---
+date: 2025-03-05
+title: "Water Damage"
+num: 3059
+alt: >-
+  Your homeowner's insurance might cover it, but be sure to check the subductible.
+img: https://imgs.xkcd.com/comics/water_damage_2x.png
+---
+{{incomplete transcript|Do NOT delete this tag too soon.}}
+
+[Ponytail stands to the left of Cueball. She is looking down at a meter of some sort in one hand, and is holding a clipboard in the other hand.]
+
+Ponytail: The crust under your house shows signs of water damage. Is there a subduction zone nearby?
+
+Cueball: Uh, I think there's one off the coast.
+
+Ponytail: Oof. I was afraid of that.
+
+[Closeup on Ponytail who is pointing to a diagram of subducting faults.]
+
+Ponytail: Subducting hydrous minerals carry water down into the mantle, causing melting in the overlying crust. If you let this go, you'll have volcanoes everywhere.
+
+[Cueball, with his hand to his chin, looks at the diagram. Ponytail, holding her equipment, is standing behind him.]
+
+Cueball: Is there any solution?
+
+Ponytail: Giant lithospheric dehumidifiers. But the installation won't be cheap.
+
+Cueball: *Oh no...*

@@ -6,8 +6,6 @@ alt: >-
   Briefly set a new record for tallest human-made structure by getting my knit sweater snagged on the skydiving plane door as I jumped and not noticing until I'd landed.
 img: https://imgs.xkcd.com/comics/tall_structures_2x.png
 ---
-{{incomplete transcript|Do NOT delete this tag too soon.}}
-
 [Labels below structures shown in a black silhouette, from left to right, shortest to tallest:]
 
 The Great Pyramid (Giza)
@@ -36,4 +34,4 @@ Some random aerostat that happens to be operating today
 
 [Caption below the panel:]
 
-The Burj Khalifa is the world's tallest artificial structure, but only on days when no one is flying a high-altitude balloon aerostat.
+The Burj Khalifa is the world's tallest artificial structure, but only on days when no one is flying a high-altitude kite balloon aerostat.
