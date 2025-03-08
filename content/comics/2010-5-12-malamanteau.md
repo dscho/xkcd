@@ -24,11 +24,11 @@ Navigation
 
 -Featured Content
 
--Current Events
+-Current Events [cutoff]
 
 [Wikipedia header options.]
 
-Article  Discussion  Edit this page  History
+Article  Discussion  Edit this page [cutoff text: History]
 
 [The article itself.]
 
