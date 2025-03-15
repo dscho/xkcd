@@ -1,0 +1,49 @@
+---
+date: 2025-03-14
+title: "Planet Definitions"
+num: 3063
+alt: >-
+  Under the 'has cleared its orbital neighborhood' and 'fuses hydrogen into helium' definitions, thanks to human activities Earth technically no longer qualifies as a planet but DOES count as a star.
+img: https://imgs.xkcd.com/comics/planet_definitions_2x.png
+---
+{{incomplete transcript|Do NOT delete this tag too soon.}}
+
+[A table with 3 columns, and 17 rows below the the header row, labelled "Definition", "# of planets" and "Solar system".]
+
+[In each row, the first column has a single word, in bold, then a descriptive sentence. The second column has a digit or other 'value'. The third column is a not-to-scale drawing of the Solar system, featuring the Sun, various 'planetary' bodies and an apparently selective sample of moons/asteroids, as follows: The Sun, Mercury, Venus, Earth + The Moon, Mars + two moons (Phobos and Deimos), a small selection of Asteroid Belt bodies (Ceres in the midst of other, smaller, examples), Jupiter + four moons (likely Io, Europa, Ganymede and Callisto), a ringed Saturn + usually one moon (probably Titan) or two (possibly Enceladus or Iapetus, as required), Uranus + four or five moons (likely to be Miranda, Ariel, Umbriel, Titania and Oberon, but one of these (shown upon the face of Uranus) only appears in some iterations of the base image), Neptune + one moon (probably Triton), Pluto + one moon (Charon), four more plutoid/Kuiper Belt objeccts (too little context to identify, but possibly Haumea, Makemake, Gonggong and Eris, in distance order), the first two of them with distinct moons indicated (entirely dependent upon which main objects they are).]
+
+[Each row's illustrated solar system has indivudal combinations of green highlights applied to the otherwise repeated diagram.]
+
+[Row 1: Definition:] Traditionalist: Pluto is a planet [Number:] 9 [Highlit: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune and Pluto]
+
+[Row 2: Definition:] Modern: Pluto is not a planet [Number:] 8 [Highlit: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus and Neptune]
+
+[Row 3: Definition:] Expansive: Dwarf planets are planets [Number:] 17+ [Highlit: Mercury, Venus, Earth, Mars, Ceres (in Asteroid Belt), Jupiter, Saturn, Uranus, Neptune, Pluto and the further main bodies]
+
+[Row 4: Definition:] Ultratraditionalist: Only the classical planets are planets [Number:] 5 [Highlit: Mercury, Venus, Mars, Jupiter, Saturn]
+
+[Row 5: Definition:] Condescending: Only giant planets are planets; the rest are big asteroids. [Number:] 4 [Highlit: Jupiter, Saturn, Uranus, Neptune]
+
+[Row 6: Definition:] Simplistic: Anything gravitationally round is a planet [Number:] 37+ [Highlit: The Sun, Mercury, Venus, Earth, The Moon, Mars, Ceres (without other asteroids), Jupiter + moons, Saturn with Titan, Uranus and its moons, Neptune with its moon, Pluto and the four further dwarf planets]
+
+[Row 7: Definition:] Grounded: Only objects a spaceship has landed on are planets [Number:] 10 [Highlit: Venus, Earth, The Moon, Mars, five (non-Ceriese) asteroids and Titan]
+
+[Row 8: Definition:] Regolithic: Anything covered in dirt and ice and stuff is a planet [Number:] [infinity symbol] [Highlit: Mercury, Venus, Earth, The Moon, Mars, Ceres with all other asteroids depicted in the Asteroid Belt, the moons of Jupiter, the sole moon! of Saturn, the moons of Uranus, the moon of Neptune, Pluto with  Charon, and all remaining dwarf planets with their moons]
+
+[Row 9: Definition:] Lunar: You can't be a planet if you don't have a moon [Number:] 12+ [Highlit: Earth, Mars, Jupiter, Saturn, Uranus, Neptune, Pluto and three of the other dwarf planets in the Kuiper belt, including one with no obviously drawn moon]
+
+[Row 10: Definition:] Solipsitic: Earth is the only planet [Number:] 1 [Highlit: The Earth]
+
+[Row 11: Definition:] Judgemental: Only the prettiest ones are planets [Number:] 6 [Highlit: The Earth, Jupiter with one of its moons (not identified), Saturn, one of *two* Saturnian moons in this image and Pluto]
+
+[Row 12: Definition:] Empiricist: Only worlds that I, author of this table, have personally seen are planets [Number:] 12 [Highlit: Mercury, Venus, The Earth, The Moon, Mars, Jupiter with its four moons, Saturn and Uranus]
+
+[Row 13: Definition:] Marine biologist: Only objects with oceans are planets [Number:] 6+ [Highlit: The Earth, three Jovian moons, the two illustrated Saturnian moons]
+
+[Row 14: Definition:] Maritime: Only objects with [next word in italics] surface oceans are planets [Number:] 2 [Highlit: The Earth and Titan]
+
+[Row 15: Definition:] Universalist: They're all planets [Number:] [infinity symbol] [Highlit: All drawn objects, including The Sun and all other objects including all the moons/asteroids]
+
+[Row 16: Definition:] Existantialist: What if space [next word in italics] itself is a planet??? [Word, in italics:] Duude [Highlit: The whole third column cell]
+
+[Row 17: Definition:] Spiteful: [next word in italics] Only Pluto is a planet [Number:] 1 [Highlit: Pluto]
