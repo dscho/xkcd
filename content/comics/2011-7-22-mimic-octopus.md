@@ -12,7 +12,7 @@ img: https://imgs.xkcd.com/comics/mimic_octopus.png
 
 Identification Chart
 
-[The chart consist of 14 black silhouettes which includes eight individual fish and several other object/animals. From top left: A Moorish idol, unknown fish, a rockfish, a clownfish, unknown fish, a lionfish, a shark, a sea lily, an w|angler fish, an anchor with chain, a submarine, a scuba diver, a school of seven large and four small fish, and and at the bottom right a silhouette of an octopus displaying eight arms and a tilted head with large white eyes. All 14 are labeled the same except the octopus:]
+[The chart consist of 14 black silhouettes which includes eight individual fish and several other object/animals. From top left: A Moorish idol, unknown fish, a rockfish, a clownfish, unknown fish, a lionfish, a shark, a sea lily, an angler fish, an anchor with chain, a submarine, a scuba diver, a school of seven large and four small fish, and and at the bottom right a silhouette of an octopus displaying eight arms and a tilted head with large white eyes. All 14 are labeled the same except the octopus:]
 
 Mimic Octopus
 

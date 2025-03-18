@@ -8,8 +8,8 @@ img: https://imgs.xkcd.com/comics/snacktime_rules.png
 ---
 My dad was always the one who taught me about science, but looking back, I'm starting to realize how much my nerdiness was influenced by my mom.
 
-[A woman and a child talk.]
+[A mother and a child talk.]
 
 Child: Mom, can I have a snack in my room before bed?
 
-Mom: No, dear. You know you only get that privilege when your age is one less than a multiple of three.
+Mother: No, dear. You know you only get that privilege when your age is one less than a multiple of three.

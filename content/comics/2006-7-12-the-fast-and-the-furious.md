@@ -6,6 +6,8 @@ alt: >-
   Sometimes when I steer shopping carts around corners, I slide them a little and pretend I'm getting the blue spark boost.
 img: https://imgs.xkcd.com/comics/the_fast_and_the_furious.jpg
 ---
+[Text in panel:]
+
 **on the other side of the world**
 
 **a new style of street racing**
@@ -30,4 +32,4 @@ img: https://imgs.xkcd.com/comics/the_fast_and_the_furious.jpg
 
 **You get blue sparks.**
 
-The FAST and the FURIOUS: *TOKYO DASH!!*
+The FAST and the FURIOUS: *Tokyo Dash!!*

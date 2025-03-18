@@ -6,4 +6,4 @@ alt: >-
   I don't remember her name at all, but she fell asleep on the floor in front of me.
 img: https://imgs.xkcd.com/comics/girl_sleeping_noline_(1).jpg
 ---
-[Girl sleeping on her side, facing away from view.]
+[Girl sleeping on her side, head to the left, facing away from view.]
