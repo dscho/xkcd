@@ -14,7 +14,11 @@ img: https://imgs.xkcd.com/comics/emoticon.png
 
 <NICKM> A/S/L?
 
+[Next unframed panel]
+
 <BSLSK05> :)
+
+[Two smaller panels where the smiley appears bigger]
 
 [Cueball looks stunned, flies backward.]
 

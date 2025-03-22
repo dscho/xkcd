@@ -12,11 +12,9 @@ Hairbun : Where do you see yourself in five years?
 
 Beret Guy: Oh man, I don't know! Let's find out!
 
-[The characters stare at one another.]
+[Beat panel.]
 
-[Cobwebs and hair grow; the desk and chairs fall into disrepair.]
-
-[Five years pass.]
+[Another beat panel, this time showing the effects of waiting five years in the same spot: cobwebs and hair grow, and the desk and chairs fall into disrepair.]
 
 Beret Guy: Hah—
 
