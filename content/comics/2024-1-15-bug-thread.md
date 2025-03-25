@@ -6,7 +6,7 @@ alt: >-
   After some account issues, we've added 6 new people from the beach house rental website support forum.
 img: https://imgs.xkcd.com/comics/bug_thread_2x.png
 ---
-{{incomplete transcript|character names}}
+{{incomplete transcript|add transcripts for commenter icons.}}
 
 [Part of a discussion thread in progress on an online forum is shown. Each comment has the writer's avatar to the left of the text and small illegible text immediately above the text. Part of the first comment's text is cut off at the top.]
 
