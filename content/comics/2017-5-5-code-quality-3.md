@@ -16,7 +16,7 @@ Cueball (off-panel): Sorry.
 
 Ponytail: It's like a JSON table of model numbers for flashlights with "tactical" in their names.
 
-[Zoom back out again. Ponytail has lifted her hands off the table and is slightly leaning back against the chair.]
+[Zoom out again. Ponytail has lifted her hands off the table and is slightly leaning back against the chair.]
 
 Ponytail: Like you read Turing's 1936 paper on computing and a page of JavaScript example code and guessed at everything in between.
 
