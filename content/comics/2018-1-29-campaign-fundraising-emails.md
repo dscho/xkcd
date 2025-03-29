@@ -24,7 +24,7 @@ img: https://imgs.xkcd.com/comics/campaign_fundraising_emails.png
 
 <span style=color:#5c5c5c>When Amy decided to run for Congress, I was like "Huh?" but I checked Wikipedia, and apparently it's a branch of…</span>
 
-**Are you familiar** <span style=color:#5c5c5c>with the Dutch painter Hieronymous Bosch? His work illustrates my opponent's plan for…</span>
+**Are you familiar** <span style=color:#5c5c5c>with the Dutch painter Hieronymus Bosch? His work illustrates my opponent's plan for…</span>
 
 <span style=color:#5c5c5c>Being a single mom running a small business while going to law school while being deployed to Iraq taught me…</span>
 
