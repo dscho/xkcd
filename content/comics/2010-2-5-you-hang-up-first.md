@@ -10,7 +10,7 @@ img: https://imgs.xkcd.com/comics/you_hang_up_first.png
 
 Cueball: You hang up first.
 
-[Megan is lying on a bed, on the phone.]
+[Megan is lying on a different bed elsewhere, on the phone.]
 
 Megan: No, *you* hang up first.
 
