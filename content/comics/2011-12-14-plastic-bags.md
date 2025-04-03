@@ -6,6 +6,8 @@ alt: >-
   The high I feel when I actually remember to bring my reusable bags to the store--and take them inside rather than leaving them in the parked car--can last for days.
 img: https://imgs.xkcd.com/comics/plastic_bags.png
 ---
+[Above the panels]
+
 Fun Fact: Stores have a competition to see who can spread your items across the most plastic shopping bags.
 
 [5 items placed in a single bag; heaviest item placed at the bottom.]
@@ -48,4 +50,4 @@ Shopper: OK! I give up! I'll buy a reusable bag!
 
 Bag Packer: Here you go!
 
-Shopper: Augh!
+Shopper: AUGH!

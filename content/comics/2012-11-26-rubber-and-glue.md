@@ -6,7 +6,7 @@ alt: >-
   I'm rubber. You're rubber. We contemplate the reality of our existence in mute, vulcanized horror.
 img: https://imgs.xkcd.com/comics/rubber_and_glue.png
 ---
-[Playground. A girl, with hair like Megan, is balancing on a swing, two Cueball-like kids are swinging and two more kids, a young Cueball and a young Hairy are approaching a reading young Black Hat, whose hat is almost too big for his small head.]
+[Playground. A girl, with hair similar to Megan's, is balancing on a swing, two Cueball-like kids are swinging and two more kids, a young Cueball and a young Hairy are approaching a reading young Black Hat, whose hat is almost too big for his small head.]
 
 Hairy: Whatchya reading, Hatboy?
 
