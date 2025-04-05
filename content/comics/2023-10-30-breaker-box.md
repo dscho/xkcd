@@ -6,11 +6,9 @@ alt: >-
   Any electrician will warn you to first locate and flip the house's CAUSALITY circuit breaker before touching the CIRCUIT BREAKERS one.
 img: https://imgs.xkcd.com/comics/breaker_box_2x.png
 ---
-{{incomplete transcript|Do NOT delete this tag too soon.}}
+[An open breaker box is shown. There are 26 labelled breakers, all of which are on, paired back to back in thirteen rows as a label, switch, switch and label. The labels are all white, contrasting with various dark shades of the breaker box and switches.]
 
-[An open breaker box is shown. There are 26 labelled breakers, all of which are on, paired back to back in thirteen rows as a label, switch, switch and label.]
-
-Kitchen lights / A whirring fan you didn't realize was on until now
+Kitchen lights / A whirring fan you didn't realize was running until now
 
 Living room lights / Dishwasher
 

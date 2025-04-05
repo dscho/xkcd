@@ -6,54 +6,64 @@ alt: >-
   Calligraphy exam: Write down the number 37, spelled out, nicely.
 img: https://imgs.xkcd.com/comics/exam_numbers_2x.png
 ---
-{{incomplete transcript|Do NOT delete this tag too soon.}}
-
-[6 different math test questions.]
+[6 different math test questions are arranged in a three by two grid. All subject headers include the words "Final exam" underlined, or given a similarly wide horizontal rule before the question itself.]
 
 [The first panel:]
 
-Kindergarten math final exam
+Kindergarten math
+
+<u>Final exam</u>
 
 Q. Write down the biggest number you can think of
 
-A. [empty box]
+A. [Empty box.]
 
 [The second panel:]
 
-Pre-algebra final exam
+Pre-algebra
+
+<u>Final exam</u>
 
 Q. Write down the value of x if x=3x-8
 
-A. [empty box]
+A. [Empty box.]
 
 [The third panel:]
 
-Calculus final exam
+Calculus
+
+<u>Final exam</u>
 
 Q. Write down the value of [integral sign, from 0 to pi] x sin^2 x dx
 
-A. [empty box]
+A. [Empty box.]
 
 [The fourth panel:]
 
-PhD cosmology final exam
+PhD cosmology
+
+<u>Final exam</u>
 
 Q. Write down the Hubble constant to within 1%
 
-A. [empty box]
+A. [Empty box.]
 
 [The fifth panel:]
 
-Game theory final exam
+Game theory
+
+<u>Final exam</u>
 
 Q. Write down 10 more than the average of the class's answers
 
-A. [empty box]
+A. [Empty box.]
 
 [The sixth panel:]
 
-Postgraduate math final exam
+Postgraduate math
+
+<u>Final exam</u>
 
 Q. Write down the biggest number you can think of
 
-A. [empty box]
+A. [Empty box.]

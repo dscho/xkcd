@@ -6,8 +6,6 @@ alt: >-
   The secret fourth kind is 'we applied a standard theory to their map of every tree and got some suspicious results.'
 img: https://imgs.xkcd.com/comics/three_kinds_of_research_2x.png
 ---
-{{incomplete transcript|Do NOT delete this tag too soon.}}
-
 [A single panel with three separate drawings.]
 
 [Caption above the drawings:]

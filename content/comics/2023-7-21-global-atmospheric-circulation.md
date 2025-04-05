@@ -6,13 +6,11 @@ alt: >-
   Refs generally say that you can exercise enough altitude control to avoid the ground, but if you start strategically choosing air layers to steer yourself, that's traveling.
 img: https://imgs.xkcd.com/comics/global_atmospheric_circulation_2x.png
 ---
-{{incomplete transcript|Do NOT delete this tag too soon.}}
-
 [Beret Guy, holding a basketball and a helium balloon, is talking to Cueball. There is a basketball hoop at the right of the panel.]
 
 Beret Guy: Check out my global atmospheric circulation trick shot!
 
-[Beret Guy continues to hold the basketball as he and his balloon rise from the ground and Cueball looks at him.]
+[The panel centers on Beret Guy and Cueball, leaving the basketball hoop off-panel. Beret Guy continues to hold the basketball as he and his balloon rise from the ground and Cueball looks at him.]
 
 [Beret Guy holding the balloon rises higher and floats toward the left as Cueball continues to look at him.]
 

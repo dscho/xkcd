@@ -6,8 +6,6 @@ alt: >-
   So what do we do when we get to base 10? Do we use A, B, C, etc? No: Numbers larger than about 3.6 million are simply illegal.
 img: https://imgs.xkcd.com/comics/factorial_numbers_2x.png
 ---
-{{incomplete transcript|Do NOT delete this tag too soon. - De-tabled the Transcript (thanks for reminding me), but definitely still needs work...}}
-
 [Cueball is standing in front of a large presentation poster. There are two uniformed officers (a Ponytail and a further Cueball, wearing badged hats) approaching Cueball.]
 
 [Poster:]
@@ -22,9 +20,9 @@ img: https://imgs.xkcd.com/comics/factorial_numbers_2x.png
 
 [2nd rightmost stack:] Base 3 [square:] 1
 
-[3rd rightmost stack:] Base 4 [square:] 1
+[3rd rightmost stack:] Base 4 [square:] 0
 
-[4th rightmost stack:] Base 5 [square:] 0
+[4th rightmost stack:] Base 5 [square:] 3
 
 [5th rightmost stack:] Base 6 [square:] 5
 

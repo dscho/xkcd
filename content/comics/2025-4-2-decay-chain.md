@@ -8,9 +8,7 @@ img: https://imgs.xkcd.com/comics/decay_chain_2x.png
 ---
 {{incomplete transcript|Do NOT delete this tag too soon.}}
 
-Flow chart:
-
-iPhone 16 pro max
+[A flowchart with arrows leading from a circle with the words "iPhone 16 Pro Max", to circles with other iPhone names, eventually leading to a circle with the words "iPhone 7"]
 
 [Caption below the panel:]
 
