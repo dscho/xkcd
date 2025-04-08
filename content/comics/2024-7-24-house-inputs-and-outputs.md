@@ -6,8 +6,6 @@ alt: >-
   People think power over ethernet is so great, and yet when I try to do water over ethernet everyone yells at me.
 img: https://imgs.xkcd.com/comics/house_inputs_and_outputs_2x.png
 ---
-{{incomplete transcript|Do NOT delete this tag too soon.}}
-
 [A 5x5 grid of squares. The columns are labeled: Well, Garage, Power lines, Front door, Septic tank. Each row's label has an arrow and a basic house icon next to it. The rows are: Fresh water (horizontal arrow towards house), Cars (two-directional horizontal arrow and house), Electricity (horizontal arrow into house), People (two-directional horizontal arrow and house), Sewage (vertical arrow out of bottom of house).]
 
 Well, Fresh water: [green]

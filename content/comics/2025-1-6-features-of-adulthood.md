@@ -6,8 +6,6 @@ alt: >-
   I don't dig pit traps and cover them with sticks and a thin layer of leaves nearly as much as I expected; I find a chance to do it barely once a month.
 img: https://imgs.xkcd.com/comics/features_of_adulthood_2x.png
 ---
-{{incomplete transcript|Do NOT delete this tag too soon.}}
-
 [Shown is a scatter plot, with arrowed labels on the axes:]
 
 Y axis label: How often it comes up in my adult life

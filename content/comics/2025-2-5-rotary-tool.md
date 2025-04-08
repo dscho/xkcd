@@ -6,8 +6,6 @@ alt: >-
   It was great until my thumb slipped and I accidentally launched my telescope into the air at Mach 8.
 img: https://imgs.xkcd.com/comics/rotary_tool_2x.png
 ---
-{{incomplete transcript|Do NOT delete this tag too soon.}}
-
 Multi-function rotary tool
 
 [A close-up of a stick-shaped tool, where on the side of a section is a panel with a slider adjustable in various levels annotated with numbers and texts. Besides the panel there are some invisible inlays. One visible end of the section is attached to another section.]

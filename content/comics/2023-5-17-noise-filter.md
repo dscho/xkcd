@@ -6,8 +6,6 @@ alt: >-
   Party Mode also enables the feature, but reverses the slider.
 img: https://imgs.xkcd.com/comics/noise_filter_2x.png
 ---
-{{incomplete transcript|Do NOT delete this tag too soon.}}
-
 [A representation of web-page or app-screen contents. Except where mentioned otherwise, all lines and fills are in muted half-tones.]
 
 [At the top, a search bar with the standard magnifying glass symbol and a word entered into the text field:] Restaurants
@@ -20,7 +18,7 @@ img: https://imgs.xkcd.com/comics/noise_filter_2x.png
 
 [Button:] Any
 
-[Button, selected, drawn in light blue and infilled with lighter blue:] Open now
+[Button, selected, drawn in blue and infilled with lighter blue:] Open now
 
 [Button:] Open at…
 

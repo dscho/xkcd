@@ -6,8 +6,6 @@ alt: >-
   The Piña Colada song carves a trajectory across the chart over the course of the song.
 img: https://imgs.xkcd.com/comics/love_songs_2x.png
 ---
-{{incomplete transcript|Do NOT delete this tag too soon.}}
-
 [Y-axis label:]
 
 Do you like me?

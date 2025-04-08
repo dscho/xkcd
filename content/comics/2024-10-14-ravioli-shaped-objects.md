@@ -6,8 +6,6 @@ alt: >-
   It's a real accomplishment to mess up a ravioli recipe badly enough that the resulting incident touches all four quadrants of the NFPA hazard diamond.
 img: https://imgs.xkcd.com/comics/ravioli_shaped_objects_2x.png
 ---
-{{incomplete transcript|Do NOT delete this tag too soon.}}
-
 [A 4x4 grid of squares. The columns are labeled: Eat with a fork, rest your head on, puncture and slurp, install in your phone. The rows are: Ravioli, throw pillow, Capri Sun, bulging lithium battery. Each row has an image of each respective item above the title, with the words “Home Sweet Home” on the throw pillow, and “Fruit” on the Capri Sun.]
 
 Top-Left

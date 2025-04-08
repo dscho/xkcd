@@ -6,8 +6,6 @@ alt: >-
   Cesium-133, let it be. Cesium-134, let it be even more.
 img: https://imgs.xkcd.com/comics/periodic_table_regions_2x.png
 ---
-{{incomplete transcript|Do NOT delete this tag too soon.}}
-
 [A periodic table with regions labeled. Regions are marked with shapes that have rounded edges and sometimes a chemical element can be partially in two regions.]
 
 [Hydrogen:]
@@ -74,7 +72,7 @@ Murder weapons
 
 [Bottom row from the fourth column onwards:]
 
-Don't bother learning their names - they're not staying long
+Don't bother learning their names—they're not staying long
 
 [The lanthanides and actinides below the rest of the table, two rows of fifteen elements, arrow pointing to a conspicuous gap in the third column of the main table where the fifteenth would ordinarily be:]
 
