@@ -6,8 +6,6 @@ alt: >-
   We haven't actually seen a star fall in since we invented telescopes, but I have a list of ones I'm really hoping are next.
 img: https://imgs.xkcd.com/comics/stargazing_4_2x.png
 ---
-{{incomplete transcript|Do NOT delete this tag too soon.}}
-
 [The background is black, Megan is in front of three others, Cueball and Ponytail to the left, and White Hat to the right. Megan is drawn in white while the background characters are in grey.]
 
 Megan: Welcome back to Stargazing.
