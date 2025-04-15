@@ -6,7 +6,7 @@ alt: >-
   NOTIFICATION: Now dismissing a head of the Notification Hydra… NOTIFICATION: Success! You have dismissed a head of the Notification Hydra!
 img: https://imgs.xkcd.com/comics/push_notifications_2x.png
 ---
-{{incomplete transcript|Do NOT delete this tag too soon.}}
+{{incomplete transcript|Need to finish the transcript in the table ABOVE, it's not detailed enough.}}
 
 [Cueball sits at a desk in an office chair. He is typing on a computer.]
 
@@ -182,4 +182,4 @@ Success!!
 
 [Below that, in grey text:]Temporarily pause your notifications at the cost of notifying two random people.
 
-[Further changes include the contents of the pane, whether Cueball is sat at the laptop, whether the laptop is larger, or a pot-plant, whether there are cats in the frame, outside the frame, sat on the Stop buttons, whether Cueball is sat on a large cat instead of an office chair...]
+[Further changes include the contents of the comic. The transcript for these changes is available on the [[#Comic images|Comic images section]].]

@@ -34,6 +34,6 @@ coins here
 
 Use the arrow keys to move
 
-[**For the full transcript of the entire comic as it could be played see [[1608: Hoverboard/Transcript]].**]
+**[For the full transcript of the entire comic as it could be played see [[1608: Hoverboard/Transcript]].]**
 
-[**For a transcript only of the text for the scenes with text in the comic see the [[#Table with references|table]] below.**]
+**[For a transcript only of the text for the scenes with text in the comic see the [[#Table with references|table]] below.]**

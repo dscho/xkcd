@@ -6,21 +6,21 @@ alt: >-
   I was really impressed by the accuracy of some of the report's predictions about fossil fuel consumption. Then I realized, oh, right, of course.
 img: https://imgs.xkcd.com/comics/global_temperature_over_my_lifetime.png
 ---
-{{incomplete transcript|missing brackets and indentation}}
-
-Graph of temperature over time, titled:
+[Graph of temperature over time, titled:]
 
 "Global average temperature
 
 Over my lifetime
 
+[smaller text]
+
 (60-month running June average, NOAA NCEI time series)"
 
-The X axis is in years, going from 1980 to a little after 2020. Each decade is marked.
+[The X axis is in years, going from 1980 to a little after 2020. Each decade is marked.]
 
-The Y axis is in °C, with the "20th century average" at the bottom, up to +1°C (from the average), labelled every 0.2°C.
+[The Y axis is in °C, with the "20th century average" at the bottom, up to +1°C (from the average), labelled every 0.2°C.]
 
-Certain points and periods on the graph are marked and contain descriptions of events and actions that occurred in Randall's life.
+[Certain points and periods on the graph are marked and contain descriptions of events and actions that occurred in Randall's life.]
 
 ; November 1982 : Exxon International report predicts that fossil fuel use will raise global temperatures to about 1°C above their normal levels within 40 years
 

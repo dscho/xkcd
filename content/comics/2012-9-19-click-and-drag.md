@@ -30,4 +30,4 @@ It was.
 
 I just didn't expect it to be so *big*.
 
-[The rest of the comic is transcribed in the [[#Explanation of details and references|Explanation of details and references]] section below.]
+**[The rest of the comic is transcribed in the [[#Explanation of details and references|Explanation of details and references]] section below.]**
