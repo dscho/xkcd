@@ -6,4 +6,28 @@ alt: >-
   When you worry that you're missing out on something by not making both choices simultaneously by quantum superposition, that's called phomo.
 img: https://imgs.xkcd.com/comics/the_roads_both_taken_2x.png
 ---
-{{incomplete transcript|Do NOT delete this tag too soon.}}
+[A photon recites a poem.]
+
+Two roads diverged in a yellow wood,
+
+And so of course I traveled both
+
+Though be one traveler, still I could
+
+Explore down both as far as I could
+
+Beyond the bends in the undergrowth...
+
+...I shall be telling this with a sigh
+
+Somewhere ages and ages hence:
+
+Two roads diverged in a wood, and I,
+
+I took them both and recombined,
+
+And that has made interference.
+
+[Caption below the panel:]
+
+Photon poetry
