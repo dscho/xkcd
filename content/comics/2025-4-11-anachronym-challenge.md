@@ -6,8 +6,6 @@ alt: >-
   I have to pay with paper money.
 img: https://imgs.xkcd.com/comics/anachronym_challenge_2x.png
 ---
-{{incomplete transcript|Do NOT delete this tag too soon.}}
-
 [Cueball is looking at a phone, or perhaps a piece of paper, in his hand while holding his other hand on the handle of a shopping cart. Above the shopping cart, an underlined header and a bullet list are shown:]
 
 <u>Shopping List</u>

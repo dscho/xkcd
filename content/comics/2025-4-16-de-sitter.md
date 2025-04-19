@@ -6,9 +6,7 @@ alt: >-
   Our anti-de Sitter club is small at the moment, but I've started corresponding with the conformal field theory people.
 img: https://imgs.xkcd.com/comics/de_sitter_2x.png
 ---
-{{incomplete transcript|Do NOT delete this tag too soon.}}
-
-[A note taped to a closed door:]
+[A large note is taped to a closed door, which has a doorknob with a keyhole on it. The note reads:]
 
 20th century Dutch physicist Willem de Sitter is ***not*** welcome here
 
