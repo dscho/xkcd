@@ -10,4 +10,4 @@ img: https://imgs.xkcd.com/comics/alphabet.png
 
 Cueball: Baby, if I could rearrange the alphabet, I'd forget about you in a *heartbeat*.
 
-Cueball: I'm not gonna waste my one chance to help the mess that is English orthography.
+Cueball: I'm not gonna waste my one chance to help fix the mess that is English orthography.

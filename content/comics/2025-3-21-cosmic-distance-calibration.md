@@ -6,11 +6,9 @@ alt: >-
   This is the biggest breakthrough since astronomers noticed that the little crosshairs around red giant stars starting to burn helium are all the same size.
 img: https://imgs.xkcd.com/comics/cosmic_distance_calibration_2x.png
 ---
-{{incomplete transcript|Need to further fix grammar and improve flow.}}
+[Ponytail is standing behind a lectern, pointing towards a large screen behind her with a stick. On the screen is a scattering of small, hard-to-make-out galaxies and stars with illegible writing next to them. On the screen behind Ponytail, one of these stars has been circled, and there are graphics indicating it is being repeatedly magnified along with the text next to it. At the first level of magnification the text next to this star remains somewhat illegible, but at the second level it is readable, albeit partially cut off and blurry.]
 
-[Ponytail is standing behind a lectern, pointing towards a large screen behind her with a stick. On the screen is a scattering of small, hard-to-make-out galaxies and stars with illegible writing next to them. On the screen behind Ponytail, one of these stars has been circled, and there are graphics indicating it is being magnified along with the text next to it. At the first level of magnification the text next to this star remains somewhat illegible, but at the second level it is readable, albeit partially cutoff and blurry.]
-
-[First level of magnification (... represents cut-off text)]:
+[First level of magnification (... represents cut off text)]:
 
 M106 0-06832
 
@@ -18,7 +16,7 @@ Distance:
 
 23.6163 MLY (27...
 
-[Second level of magnification (... represents cut-off text)]:
+[Second level of magnification (... represents cut off text)]:
 
 M106 0-06...
 

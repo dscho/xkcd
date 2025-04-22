@@ -6,6 +6,10 @@ alt: >-
   The use of the 'Garfield' character for the purposes of this parody qualifies as fair use under the Copyright Act of 1976, 17 U.S.C. sec. 107. See Campbell v. Acuff-Rose Music (92-1292), 510 U.S. 569
 img: https://imgs.xkcd.com/comics/garfield.jpg
 ---
+{{incomplete transcript|Need to describe the colours and the style better for people who aren't familiar with the newspaper style.}}
+
+[This strip takes the form of a parody of the traditional shape for Sunday installments of newspaper strips; specifically the half-page format.]
+
 I want to see something unexpected in comics. Just one strip could make up for it all.
 
 [Garfield is standing on hind legs facing and looking directly at the camera. But is off-center in the frame, about 1/3 from the left, rotated very slightly clockwise.]

@@ -6,7 +6,7 @@ alt: >-
   The Credible Machine
 img: https://imgs.xkcd.com/comics/machine_2x.png
 ---
-{{incomplete transcript|Do NOT delete this tag too soon.}}
+{{incomplete transcript|Finish transcribing the comic!}}
 
 [The placeholder image shows four balls, colored red, green, yellow and blue, bouncing on top of three white blocks. Text in the center: "[visit xkcd.com to view]"]
 
