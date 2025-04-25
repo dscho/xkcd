@@ -14,7 +14,7 @@ Megan: According to some *incredibly* rude Yelp reviews, I'm "not informative" a
 
 Megan: I guess some losers just hate cool space facts!
 
-[The sky is white, the floor is black, Megan is pointing at the sky. Hairy, a Megan-like woman (with longer hair), Cueball, and Ponytail are on the left, White Hat and Hairbun are on the right. All of the characters are drawn in black.]
+[The sky is white, the floor is black, Megan is pointing at the sky. The background zoomed out, Hairy-like and Danish-like figures are seen standing further beyond Cueball and Ponytail on the left, White Hat has Hairbun to his right. All of the background characters are drawn as solid black silhouettes against the sky.]
 
 Megan: Anyway, that dot is a "star."
 
