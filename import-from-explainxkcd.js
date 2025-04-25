@@ -87,7 +87,7 @@
       else {
 
         page.infobox =
-          (page.text.match(/(?:^|\n){{ *comic *\n([^]*?)(\n *)?}}/i)?.[1] || '')
+          (page.text.match(/(?:^|\n){{ *comic(?:\/sandbox.*&gt;)? *\n([^]*?)(\n *)?}}/i)?.[1] || '')
             .split('\n').reduce((o, v) => {
               const match = v.match(/^ *\| *(\S+) *= *(.*)/)
               if (match) o[match[1]] = match[2].trim()
