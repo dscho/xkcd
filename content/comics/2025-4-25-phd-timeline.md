@@ -8,7 +8,7 @@ img: https://imgs.xkcd.com/comics/phd_timeline_2x.png
 ---
 [A chart shows the typical events in a research program. At the top there is a dotted line. There is a title above the line and the line is labeled with text in the middle breaking the line:]
 
-US PH.D PROGRAM TIMELINE
+US PH.D. PROGRAM TIMELINE
 
 –––––––ENROLLMENT–––––––––
 
