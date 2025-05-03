@@ -6,8 +6,6 @@ alt: >-
   Juno mission data suggests that Jupiter actually contains Matryoshka doll-style nested copies of every other planet in the Solar System.
 img: https://imgs.xkcd.com/comics/jupiter_core_2x.png
 ---
-{{Incomplete|better phrasing needed}}
-
 Current leading theories for what's in the center of Jupiter:
 
 [Variations of Jupiter. All except for the last are illustrated with a quartered<!-- yes, it's an eighth of the whole solid angle, but it's a quarter-circumference slicing, to give the 1/(4^(3/2)) square/cube-hybrid result (minus untouched core), and how best to expain \*that\* in the Transcript? --> 'solid segment' of the planet's 'atmosphere' removed to reveal the core.]
