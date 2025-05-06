@@ -20,7 +20,7 @@ img: https://imgs.xkcd.com/comics/weird_unicode_math_symbols.png
 
 |-
 
-| U+2A33 || ⨳ || [The word "hashtag" with the letters slanted counterclockwise]
+| U+2A33 || ⨳ || <span style="letter-spacing: 0.1em;"><span style="transform: rotate(-45deg); display: table-cell;">H</span><span style="transform: rotate(-45deg); display: table-cell;">a</span><span style="transform: rotate(-45deg); display: table-cell;">s</span><span style="transform: rotate(-45deg); display: table-cell;">h</span><span style="transform: rotate(-45deg); display: table-cell;">t</span><span style="transform: rotate(-45deg); display: table-cell;">a</span><span style="transform: rotate(-45deg); display: table-cell;">g</span></span>
 
 |-
 
@@ -48,7 +48,7 @@ img: https://imgs.xkcd.com/comics/weird_unicode_math_symbols.png
 
 |-
 
-| U+2A69 || ⩩ || [The word "hashtag" but with extra horizontal and vertical lines]
+| U+2A69 || ⩩ || ℍ𝕒𝕤𝕙𝕥𝕒𝕘
 
 |-
 
@@ -60,7 +60,7 @@ img: https://imgs.xkcd.com/comics/weird_unicode_math_symbols.png
 
 |-
 
-| U+2AC1 || ⫁ || [The words "user experience" rotated clockwise 90 degrees]
+| U+2AC1 || ⫁ || <div style="writing-mode: vertical-rl; text-align: center;">User<br />experience</div>
 
 |-
 
