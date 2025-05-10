@@ -6,16 +6,16 @@ alt: >-
   Frankly, given their extreme gravitational fields and general instability, even 12-inch globes should probably be banned.
 img: https://imgs.xkcd.com/comics/globe_safety_2x.png
 ---
-[A standard globe of the Earth is shown. It stands on a typical stand which holds it by two arms at the poles, so it can turn around like the Earth does. The Earth is turned so it shows Australia at the bottom and most of Asia, including the entire India to the left. Only the very tip of Alaska can bee seen of the Americas. Above the globe there is a double arrow that goes to two small lines that align with the edges of the globe (indicating the diameter). The arrow has been split in the middle and two lines of text is written in the gab. Above this text there is another line of text.]
+[A standard globe of the Earth is shown. It stands on a typical stand which holds it by two arms at the poles, so it can turn around like the Earth does. The Earth is turned so it shows Australia at the bottom and most of Asia, including the entire India to the left. Only the very tip of Alaska can be seen of the Americas. Above the globe there is a double ended arrow that goes to two small lines that align with the edges of the globe (indicating the diameter). The arrow has been split in the middle and two lines of text are written in the gap. Above this text there is another line of text.]
 
 Remember:
 
 4 inches minimum
 
-[Beneath the globe there are two small drawings. The left shows the Earth and to the left of the Earth there is a double arrow ending at two lines that indicated the diameter of the Earth going from top to bottom. The distance of this is written in inches to the left. From the Earth an arrow points to another drawing, this time the typical depiction of a black hole, with the "hat" shape. A warning sign is shown a the top right of the black hole with an exclamation mark inside.]
+[Beneath the globe there are two small drawings. The left shows the Earth and to the left of the Earth there is a double ended arrow ending at two lines that indicated the diameter of the Earth going from top to bottom. The distance of this is written in inches to the left. From the Earth an arrow points to another drawing, this time the typical depiction of a black hole, with a "hat" like shape. A triangular warning sign is shown a the top right of the black hole with an exclamation mark inside.]
 
 7/10"
 
-[Caption Below the Panel:]
+[Caption below the panel:]
 
 The Earth's Schwarzschild radius is about 0.35 inches, which is why safety regulations require desktop globes to be at least 4 inches in diameter.
