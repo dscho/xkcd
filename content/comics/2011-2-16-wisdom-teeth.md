@@ -26,7 +26,7 @@ Megan, on phone: Oh. I'll set you up on our server!
 
 Megan, on phone: Hey — starting to feel better? Enjoying the game? Let's see what you've... What the hell? Where *IS* everything?
 
-[View of a Minecraft screen showing a vast empty expanse of land. In Megan's hotbar is, from left to right, an stone pickaxe, sword, and shovel, seven feathers, 42 torches, a non-enchanted bow, a blank space, 64 blocks of stone and a clock. He has full health and 15 armor points.]
+[View of a Minecraft screen showing a vast empty expanse of land. In Megan's hotbar is, from left to right, an stone pickaxe, sword, and shovel, seven feathers, 42 torches, a non-enchanted bow, a blank space, 64 blocks of stone and a clock. She has full health and 15 armor points.]
 
 Megan, offscreen: ...You made the entire continent perfectly flat?
 

@@ -6,13 +6,11 @@ alt: >-
   Reductio ad absurdum fails when reality is absurd.
 img: https://imgs.xkcd.com/comics/pascals_law_2x.png
 ---
-{{incomplete transcript|Don't remove this notice too soon.}}
-
 [At the left, a teacher is holding a pointer, pointing at a picture on the screen.]
 
 [The picture shows a hydraulic lift, with a small fluid vessel on the left connected to a tube at the bottom, which connects to a large vessel on the right. On top of the large vessel is a weight labeled 1000 and a Cueball. The fluid in the large vessel is labeled with an upward arrow. Megan's hand is over the small vessel, with a downward arrow indicating that she's pressing on it.]
 
-[Cueball, Hairbun, and Blondie are sitting at school desks going right to left.]
+[Cueball, Hairbun, and Blondie are sitting at school desks going left to right.]
 
 Cueball: No, that can't be right.
 
