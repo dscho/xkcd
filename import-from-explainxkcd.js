@@ -84,7 +84,6 @@
       if (!end) page = {}
       // This is a duplicate of '590: Papyrus' and actually only contains `{{:590: Papyrus}}`
       else if (page.title === '590: Papyrus/Font') ; // do nothing
-      else if (!page.infobox.number) ; // do nothing; looking at you, https://www.explainxkcd.com/wiki/index.php/verizon
       else {
 
         page.infobox =
@@ -94,6 +93,10 @@
               if (match) o[match[1]] = match[2].trim()
               return o
             }, {})
+
+	// do nothing if there is no number; looking at you,
+	// https://www.explainxkcd.com/wiki/index.php/verizon
+        if (!page.infobox.number) continue
 
         // Fix unparseable dates
         page.infobox.date =
