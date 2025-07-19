@@ -158,17 +158,17 @@
 
         fs.writeFileSync(page.filePath, page.fileContent)
 
-	for (const character of page.text
-	    .replace(/[‏‎]/g, '')
-	    .split(/\[\[Category:Comics featuring +((?!Ado)[^\];'!]+?) *\]\]/gi)
-	    .filter((_, i) => (i % 2) === 1)) {
-	  const key = character.toLowerCase().replace(/ /g, '_')
+        for (const character of page.text
+            .replace(/[‏‎]/g, '')
+            .split(/\[\[Category:Comics featuring +((?!Ado)[^\];'!]+?) *\]\]/gi)
+            .filter((_, i) => (i % 2) === 1)) {
+          const key = character.toLowerCase().replace(/ /g, '_')
           if (!characters[key]) characters[key] = {
-	    character,
-	    comics: []
-	  }
-	  characters[key].comics.push(Number.parseInt(page.infobox.number))
-	}
+            character,
+            comics: []
+          }
+          characters[key].comics.push(Number.parseInt(page.infobox.number))
+        }
       }
     } else if (!end && tag === 'title') page.title = content
   }
