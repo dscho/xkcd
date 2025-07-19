@@ -38,7 +38,7 @@ Store sign: Pet Store
 
 My hobby: Going out at night and adding "all-you-can-eat" to every store's sign
 
-\***Click** to expand for a more detailed image description without any more text:
+**Click** to expand a detailed image description:
 
 <div class="mw-collapsible mw-collapsed leftAlign" style="width:100%">
 

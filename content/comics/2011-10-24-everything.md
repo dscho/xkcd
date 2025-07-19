@@ -18,7 +18,7 @@ Cueball: Your smile is not all I live for. I've got my own stuff going on. But y
 
 Cueball: I want to give you everything just to see what you would *do* with it.
 
-A larger version can be found here:
+A more detailed version of the transcript can be found here:
 
 <div class="mw-collapsible mw-collapsed leftAlign" style="width:100%">
 

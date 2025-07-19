@@ -6,7 +6,7 @@ alt: >-
   
 img: https://imgs.xkcd.com/comics/xkcloud.png
 ---
-[This transcript only transcribes what can be seen in the first picture shown at the top of the explanation here. **For more** see link below.]
+**[This transcript only transcribes what can be seen in the first picture shown at the top of the explanation here. The standard text for the next possible pages can be seen on the [[1506: xkcloud/Transcript|full transcript]].]**
 
 [One large frame with a five part comic and a large red button at the bottom.]
 
@@ -50,4 +50,4 @@ Desk: XKCD.COM
 
 To help us recover user data before Facebook & Co notice we lost it.
 
-[The standard text for the next possible pages can be seen on the link to the **[[1506: xkcloud/Transcript|continued transcript]]**. Also here will be a list (which may not be possible to make complete) with possible text for the lost data.]
+**[The standard text for the next possible pages can be seen on the [[1506: xkcloud/Transcript|full transcript]]. Also here will be a list with possible text for the lost data.]**

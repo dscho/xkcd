@@ -1,0 +1,13 @@
+---
+date: 2025-05-23
+title: "Drafting"
+num: 3093
+alt: >-
+  A 5% efficiency gain at the cost of a 99% efficiency loss
+img: https://imgs.xkcd.com/comics/drafting_2x.png
+---
+[A rocket with two boosters is launching going towards the top right corner. It has a two-stage core and two boosters, and they produce three flames from their exhaust and beneath these flames is a large exhaust plume fanning out behind the rocket most of the way towards the bottom of the panel. A smaller rocket is following the first rocket. It is very close to the first rocket, so most of the smaller rocket is inside the exhaust plume from the larger rocket. The smaller rocket does not have boosters, but still produces three smaller flames from its exhaust. Beneath these flames the smaller rocket also leaves a large but slimmer exhaust plume that exits the panel at the bottom left corner.]
+
+[Caption below the panel:]
+
+Aerospace tip: Although the technique reduces atmospheric drag for many types of vehicles, you should ***never*** try to improve rocket launch efficiency through drafting.

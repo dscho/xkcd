@@ -56,4 +56,4 @@ Updates to my "Things You Should Not Do" list, based on what I learned writing *
 
 #156,828 Pump ammonia into your abdomen
 
-#156,829 Suspend yourself inside a 10-meter ball of sunscreen and fall into the sun
+#156,829 Suspend yourself inside a 10-meter ball of sunscreen and fall into the Sun

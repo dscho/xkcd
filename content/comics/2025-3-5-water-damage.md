@@ -6,8 +6,6 @@ alt: >-
   Your homeowner's insurance might cover it, but be sure to check the subductible.
 img: https://imgs.xkcd.com/comics/water_damage_2x.png
 ---
-{{incomplete transcript|Do NOT delete this tag too soon.}}
-
 [Ponytail stands to the left of Cueball. She is looking down at a meter of some sort in one hand, and is holding a clipboard in the other hand.]
 
 Ponytail: The crust under your house shows signs of water damage. Is there a subduction zone nearby?

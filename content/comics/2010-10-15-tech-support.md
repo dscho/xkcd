@@ -6,7 +6,7 @@ alt: >-
   I recently had someone ask me to go get a computer and turn it on so I could restart it. He refused to move further in the script until I said I had done that.
 img: https://imgs.xkcd.com/comics/tech_support.png
 ---
-[Cueball is on his cellphone, and holding up a small square piece of hardware with a foot in the other hand. Two wires go from the hardware down to the floor, where one is connected to a box on the floor with two black antennas, and then another wire goes out the other side of this, and both this and the second wire from the hardware Cueball is holding goes under his desk, on top of which is his open laptop.]
+[Cueball is on his cellphone, and holding up a small square piece of hardware in the other hand. Two wires go from the hardware down to the floor, where one is connected to a box on the floor with two black antennas, and then another wire goes out the other side of this, and both this and the second wire from the hardware Cueball is holding goes under his desk, on top of which is his open laptop.]
 
 Cueball: ...restart my computer? I know you have a script to follow, but the uplink light on the modem is going off every few hours. The problem is between your office and the modem.
 

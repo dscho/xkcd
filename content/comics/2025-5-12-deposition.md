@@ -22,8 +22,8 @@ Ponytail: If I chisel notes onto these rocks and throw them into the sea, they m
 
 [From off-panel, sound effect of a rock hitting water:] PLOP
 
-[Two 'bug-eyed aliens', sitting in personal 'hover-saucers' look rightwards at an exposed rock-face. A pick and shovel are left stuck in the ground, and one of the 'saucers' sports a mechanical arm currently holding a loose fragment of rock]
+[Two 'bug-eyed aliens', sitting in personal 'hover-saucers' look rightwards at an exposed rock-face. A pick and shovel are left stuck in the ground, and one of the 'saucers' sports a mechanical arm currently holding a loose fragment of rock. There are three question marks above the alien on the left and two question marks next to the alien on the right]
 
-[Panel label:] 100 million years later
+[Panel label:] 100 million years later...
 
 [Text originating from the held rock fragment:] This bedrock inspected by No. 5

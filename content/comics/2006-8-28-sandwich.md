@@ -12,6 +12,6 @@ Cueball: Make me a sandwich.
 
 Friend: What? Make it yourself.
 
-Cueball: Sudo make me a sandwich.
+Cueball: sudo Make me a sandwich.
 
 Friend: Okay.

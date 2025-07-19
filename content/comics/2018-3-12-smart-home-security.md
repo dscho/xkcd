@@ -6,7 +6,7 @@ alt: >-
   If they're getting valuable enough stuff from you, at least the organized crime folks have an incentive to issue regular updates to keep the appliance working after the manufacturer discontinues support.
 img: https://imgs.xkcd.com/comics/smart_home_security.png
 ---
-[A graph is shown inside a frame. There is one dotted line going from the middle of the left edge, then dipping slightly before rising slowly at first, then more rapid and finally slowing its ascend down as it nears the top right corner.]
+[A graph is shown inside a frame. There is one dotted line going from the middle of the left edge, then dipping slightly before rising slowly at first, then more rapid and finally slowing its ascent down as it nears the top right corner.]
 
 [Above the frame is the title of the x-axis, and from each end of this text, there is a small line going out and then down, to indicate a time range, which is shown below with four times:]
 
