@@ -6,7 +6,7 @@ alt: >-
   It's important for devices to have internet connectivity so the manufacturer can patch remote exploits.
 img: https://imgs.xkcd.com/comics/dehumidifier_2x.png
 ---
- [A store salesman, [[Hairy]], is showing [[Cueball]] a dehumidifier with a "SALE" label on it. Several other unidentified devices, possibly other dehumidifier models, are shown in the store as well.]
+ [A store salesman, Hairy, is showing Cueball a dehumidifier with a "SALE" label on it. Several other unidentified devices, possibly other dehumidifier models, are shown in the store as well.]
 
  Hairy: This dehumidifier model features built-in WiFi for remote updates.
 
