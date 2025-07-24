@@ -6,7 +6,7 @@ alt: >-
   Washington, DC: Eastern gray squirrel, Amur honeysuckle. Puerto Rico: Crested anole, sea grape. US as a whole: Mallard, eastern poison ivy.
 img: https://imgs.xkcd.com/comics/inaturalist_animals_and_plants_2x.png
 ---
-{{incomplete transcript|Don't remove this notice too soon.}}
+{{incomplete transcript}}
 
 [The comic shows a map of the United States with state borders (including Hawaii and Alaska inset in the lower left) and two-letter state codes for each state. The map includes the {{w|Northwest Angle}}, which is not typically shown on maps of this scale.]
 
