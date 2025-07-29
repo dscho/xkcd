@@ -6,7 +6,7 @@ alt: >-
   An x-ray gyroscope is used to determine exactly which toppings they included in the pita.
 img: https://imgs.xkcd.com/comics/types_of_scopes.png
 ---
-Content is a table, with column headings "Regular *Blank* Scope", "Electron *Blank* Scope", and "Radio *Blank* Scope".  Row headings are "Micro", "Tele", "Peri", "Stetho", "Kaleido", "Gyro", and "Horo".
+[Content is a table, with column headings "Regular *Blank* Scope", "Electron *Blank* Scope", and "Radio *Blank* Scope".  Row headings are "Micro", "Tele", "Peri", "Stetho", "Kaleido", "Gyro", and "Horo".]
 
 ;Regular Microscope
 

@@ -16,208 +16,104 @@ Fun Fact: The *Edmund Fitzgerald*, The Kursk, and The Lusitania all sank in wate
 
 [Vertical axis of depths, ranging from 1,000 m to 12,000 m.]
 
-{| class="wikitable"
+ Edmund Fitzgerald
 
- | Edmund Fitzgerald
+ Lake Superior
 
- |-
+ Lake Michigan
 
- | Lake Superior
+ Lake Huron
 
- |-
+ Lake Erie
 
- | Lake Michigan
+ Lake Ontario
 
- |-
+ Death Valley
 
- | Lake Huron
+ Great Slave Lake
 
- |-
+ Crater Lake
 
- | Lake Erie
+ Loch Ness
 
- |-
+ Lake Baikal
 
- | Lake Ontario
+ Burj Khalifa
 
- |-
+ Kursk
 
- | Death Valley
+ Lusitania
 
- |-
+ Aircraft Carrier
 
- | Great Slave Lake
+ Titanic
 
- |-
+ Seawise Giant (largest ship ever)
 
- | Crater Lake
+ Free-diving depth record
 
- |-
+ Scuba record
 
- | Loch Ness
+ Andrea Gail (probably)
 
- |-
+ Bike tires go flat
 
- | Lake Baikal
+ Pressure at this depth would pop the cork into a champagne bottle
 
- |-
+ Pressure at this depth would force water back up a household faucet
 
- | Burj Khalifa
+ Emperor penguin
 
- |-
+ Ohio-class nuclear sub depth limit
 
- | Kursk
+ Typhoon-class nuclear sub depth limit
 
- |-
+ Blue whale
 
- | Lusitania
+ Leatherback turtle
 
- |-
+ Deepwater horizion
 
- | Aircraft Carrier
+ Oil well
 
- |-
+ Dead sea
 
- | Titanic
+ Kola borehole: Soviet project to try to drill through the Earth's crust to the mantle just to see what would happen. Russians are awesome.
 
- |-
+ Chilean mine
 
- | Seawise Giant (largest ship ever)
+ Collapse
 
- |-
+ Miner refuge
 
- | Free-diving depth record
+ Sperm whales dive this deep. They come up covered in wounds and sucker marks, so presumably there are big squid down here? ... Man, we know nothing about the ocean.
 
- |-
+ Mid-ocean ridge
 
- | Scuba record
+ Titanic (sunk bow & stern)
 
- |-
+ At this depth, if you shoot a hole in a pressurized scuba tank, instead of air rushing out, water rushes in.
 
- | Andrea Gail (probably)
+ Abyssal plain
 
- |-
+ Alvin depth limit
 
- | Bike tires go flat
+ David Bowie & Freddie Mercury
 
- |-
+ Puerto Rico Trench
 
- | Pressure at this depth would pop the cork into a champagne bottle
+ Milwaukee Deep
 
- |-
+ Marianas Trench
 
- | Pressure at this depth would force water back up a household faucet
+ Challenger Deep
 
- |-
+ Mysterious door which James Cameron built his sub to reach and open. He will not say what he found within.
 
- | Emperor penguin
+ The abyss. It's rude to stare.
 
- |-
+ Mauna Kea, Hawaii (accurate horizontal scale)
 
- | Ohio-class nuclear sub depth limit
+ Marianas trench (accurate horizontal scale)
 
- |-
-
- | Typhoon-class nuclear sub depth limit
-
- |-
-
- | Blue whale
-
- |-
-
- | Leatherback turtle
-
- |-
-
- | Deepwater horizion
-
- |-
-
- | Oil well
-
- |-
-
- | Dead sea
-
- |-
-
- | Kola borehole: Soviet project to try to drill through the Earth's crust to the mantle just to see what would happen. Russians are awesome.
-
- |-
-
- | Chilean mine
-
- |-
-
- | Collapse
-
- |-
-
- | Miner refuge
-
- |-
-
- | Sperm whales dive this deep. They come up covered in wounds and sucker marks, so presumably there are big squid down here? ... Man, we know nothing about the ocean.
-
- |-
-
- | Mid-ocean ridge
-
- |-
-
- | Titanic (sunk bow & stern)
-
- |-
-
- | At this depth, if you shoot a hole in a pressurized scuba tank, instead of air rushing out, water rushes in.
-
- |-
-
- | Abyssal plain
-
- |-
-
- | Alvin depth limit
-
- |-
-
- | David Bowie & Freddie Mercury
-
- |-
-
- | Puerto Rico Trench
-
- |-
-
- | Milwaukee Deep
-
- |-
-
- | Marianas Trench
-
- |-
-
- | Challenger Deep
-
- |-
-
- | Mysterious door which James Cameron built his sub to reach and open. He will not say what he found within.
-
- |-
-
- | The abyss. It's rude to stare.
-
- |-
-
- | Mauna Kea, Hawaii (accurate horizontal scale)
-
- |-
-
- | Marianas trench (accurate horizontal scale)
-
- |-
-
- | Oil
-
- |}
+ Oil

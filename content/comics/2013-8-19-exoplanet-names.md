@@ -6,7 +6,7 @@ alt: >-
   If you have any ideas, I hear you can send them to <nowiki>iaupublic@iap.fr</nowiki>.
 img: https://imgs.xkcd.com/comics/exoplanet_names.png
 ---
-{{incomplete transcript|We don't use tables in transcripts for accessibily reasons, please use only text.}}
+{{incomplete transcript|We don't use tables in transcripts for accessibily reasons,<br>please use only text.}}
 
 [Text above the first frame of the comic:]
 

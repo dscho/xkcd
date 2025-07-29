@@ -8,7 +8,7 @@ img: https://imgs.xkcd.com/comics/temperature_scales_2x.png
 ---
 Temperature Scales
 
-[A table with five columns, labelled: Unit, Water freezing point, Water boiling point, Notes, and Cursedness. There are eleven rows below the labels.]
+[A table with five columns, labelled: "Unit", "Water freezing point", "Water boiling point", "Notes", and "Cursedness". There are eleven rows below the labels.]
 
 [Row 1:] Celsius, 0, 100, Used in most of the world, 2/10
 
