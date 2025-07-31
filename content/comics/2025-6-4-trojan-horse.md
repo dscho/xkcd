@@ -6,8 +6,6 @@ alt: >-
   Ultimately, history would imperfectly record the story of the Foal of Troy.
 img: https://imgs.xkcd.com/comics/trojan_horse_2x.png
 ---
-{{incomplete transcript|Don't remove this notice too soon.}}
-
 [A horse is facing Cueball and Ponytail, who are standing in front of an entrance below a tower.]
 
 [In an inset panel, Cueball is talking to Megan and Hairy.]

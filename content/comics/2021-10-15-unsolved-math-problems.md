@@ -8,7 +8,7 @@ img: https://imgs.xkcd.com/comics/unsolved_math_problems.png
 ---
 The Three Types Of Unsolved Math Problem
 
-[First box:] Weirdly Abstract
+[First box:] Weirdly abstract
 
 [Ponytail stands in front of an equation.]
 
@@ -18,7 +18,7 @@ Or is the question ill-formed?
 
 ⬙ℝ̇ℤ/Eℵ₅ [The Z is raised and underneath it is a double-ended arrow bent at a right angle. One points toward the R the other toward the Z. The ₅ is double-struck (𝟝) like the R and Z.]
 
-Second: Weirdly Concrete
+Second: Weirdly concrete
 
 [Cueball stands in front of a grid with 6 columns and 7 rows]
 
