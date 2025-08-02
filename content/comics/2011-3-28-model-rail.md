@@ -8,21 +8,21 @@ img: https://imgs.xkcd.com/comics/model_rail.png
 ---
 [Cueball to the left and his friend, who also looks like Cueball, are standing in the friend's rather large basement, where the celling is held up by six thin columns, and the walls are shown angling in towards a point of perspective, to display how big the room is.]
 
-Friend: I want to build a perfect HO-scale (~1/87) model train layout of my town.
+Cueball: I want to build a perfect HO-scale (~1/87) model train layout of my town.
 
-Cueball: In your basement? Bad idea. Never make a layout of the area you're in.
+Friend: In your basement? Bad idea. Never make a layout of the area you're in.
 
 [Zoom in on the two friends without the basement visualized.]
 
-Friend: Why not?
+Cueball: Why not?
 
-Cueball: Because it'd include a little 10" replica of your house.
+Friend: Because it'd include a little 10" replica of your house.
 
-[Zoom in Cueball's friend who takes his hand to his chin.]
+[Zoom in on Cueball who takes his hand to his chin.]
 
-Friend: So? That's be cool! I'd make tiny replicas of my rooms, my furniture—
+Cueball: So? That's be cool! I'd make tiny replicas of my rooms, my furniture—
 
-Cueball (off-screen): —And your train layout?
+Friend (off-screen): —And your train layout?
 
 [Beneath this first row of the comic is the zoom-out of how the full model would look in the basement. The town lies beneath some small mountains. There is some water with a bridge over it continuing to the roads going through the city. There is no frame around this section, but instead there follows five zoom-outs, each one going from the friend's house, that proceeds to a circular frame. Within each of these is shown a nested model. Starting to the right of the main model, and then moving down, then left, and then down and right. Each layer has a broken arrow above the model between two vertical lines to indicate the scale, the length being written between the two parts of the arrow. Some foreign objects are also labeled to help understand the scale.]
 
@@ -64,14 +64,14 @@ more than six HO layouts
 
 [Back to the two friends in the basement, still not showing the basement.]
 
-Friend: My God.
+Cueball: My God.
 
-Cueball: Yeah. It's the second rule of model train layouts: No nesting.
+Friend: Yeah. It's the second rule of model train layouts: No nesting.
 
 [Zoom in on the heads of the two friends.]
 
-Friend: ...What's the first rule?
+Cueball: ...What's the first rule?
 
-Cueball: "Do *not* talk about model train layouts." That rule was actually voted in by our friends and families.
+Friend: "Do *not* talk about model train layouts." That rule was actually voted in by our friends and families.
 
-Friend: Philistines.
+Cueball: Philistines.

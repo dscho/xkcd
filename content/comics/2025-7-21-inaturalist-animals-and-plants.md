@@ -8,7 +8,7 @@ img: https://imgs.xkcd.com/comics/inaturalist_animals_and_plants_2x.png
 ---
 {{incomplete transcript}}
 
-[The comic shows a map of the United States with state borders (including Hawaii and Alaska inset in the lower left) and two-letter state codes for each state. The map includes the {{w|Northwest Angle}}, which is not typically shown on maps of this scale.]
+[The comic shows a map of the United States with state borders (including Hawaii and Alaska inset in the lower left) and two-letter state codes for each state. The map includes the Northwest Angle, which is not typically shown on maps of this scale.]
 
 [Above the map]: The Most-Observed Animal and Plant in Each State on iNaturalist
 
