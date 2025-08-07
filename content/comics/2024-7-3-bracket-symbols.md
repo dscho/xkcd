@@ -8,9 +8,13 @@ img: https://imgs.xkcd.com/comics/bracket_symbols_2x.png
 ---
 {{incomplete transcript|Do NOT delete this tag too soon.}}
 
+[top text]
+
 Bracket Symbols
 
 and what they mean
+
+[list of items]
 
 ( ) Regular parentheses for setting stuff aside
 
