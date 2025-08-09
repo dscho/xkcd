@@ -6,9 +6,9 @@ alt: >-
   'Tin pest' makes more sense to me. Tin just doesn't want to be locked down in a shape like that. I get it. But why would any metal want to grow hair??
 img: https://imgs.xkcd.com/comics/unsolved_physics_problems_2x.png
 ---
-{{incomplete transcript|Don't remove this notice too soon.}}
-
  The Three Types of Unsolved Physics Problem
+
+ [Each physics problem is in a separate panel]
 
  Vague
 
