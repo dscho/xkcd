@@ -6,8 +6,6 @@ alt: >-
   We're building on our earlier success getting web developers to pay to change the backslashes in our displayed payment URL to forward slashes.
 img: https://imgs.xkcd.com/comics/fix_this_sign_2x.png
 ---
-{{incomplete transcript|Don't remove this notice too soon.}}
-
 [A single panel containing a large, elevated sign with Ponytail standing in front of it.]
 
 [Title, slightly off horizontal, more to the right than central and the character spacing is not entirely consistent/aesthetic:] <big>Doanate[sic] to fix this sign!</big>

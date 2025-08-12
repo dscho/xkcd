@@ -6,8 +6,6 @@ alt: >-
   This PSA brought to you by several would-be assassins who tried to wave me in front of speeding cars in the last month and who will have to try harder next time.
 img: https://imgs.xkcd.com/comics/driving_psa_2x.png
 ---
-{{incomplete transcript|Do NOT delete this tag too soon.}}
-
 Driving PSA:
 
 Random drivers can’t grant you the right of way as a gift.

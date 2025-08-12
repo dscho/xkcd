@@ -6,8 +6,6 @@ alt: >-
   Chemistry grad students have been spotted trying to lure campus squirrels into laundry hampers in the hope that it sparks inspiration.
 img: https://imgs.xkcd.com/comics/snake_in_the_box_problem_2x.png
 ---
-{{incomplete transcript|Don't remove this notice too soon.}}
-
 [A panel with text both above and below the illustration, with further text outside the panel below.]
 
 [In the panel, above the illustration:]

@@ -6,8 +6,6 @@ alt: >-
   Starting a meta-leaderboard for tracking who holds the record for ranking behind the most distinct people on an online leaderboard.
 img: https://imgs.xkcd.com/comics/global_ranking_2x.png
 ---
-{{incomplete transcript|Don't remove this notice too soon.}}
-
 [Cueball is seated at a desk, and uses a laptop. White Hat is standing right behind him.]
 
 Cueball: I'm ranked 7,145,000<sup><small>th</small></sup> globally on this chess platform.
