@@ -6,16 +6,26 @@ alt: >-
   Historians: Contemporaneous documentation of the initial events is often sparse, and in fact people often get testy and uncooperative when we urge better documentation for the historical record.
 img: https://imgs.xkcd.com/comics/where_babies_come_from_2x.png
 ---
+[Hairy, Ponytail, Hairbun, Cueball and Megan are standing below a question given at the top of the comic. Each of the five gives their answer to the question. Below each character is a label with their respective occupation.]
+
 Various experts answer the question “Where do babies come from?”
 
-[Five characters are shown, left to right, each saying their answer. Below each character is their respective occupation.]
+Geneticist
 
-Hairy [Geneticist]: Recent admixture event, roughly 0.001 Kya.
+Hairy: Recent admixture event, roughly 0.001 Kya.
 
-Ponytail [Astronomer]: Low-impulse ejection from a parent body.
+Astronomer
 
-Hairbun [Software engineer]: Off-by-one error in the population calculations.
+Ponytail: Low-impulse ejection from a parent body.
 
-Cueball [Geologist]: The area was originally a uniform plane, but the non-baby parts eroded at higher rates.
+Software engineer
 
-Megan [Meteorologist]: Moist ground-level turbulent mixing.
+Hairbun: Off-by-one error in the population calculations.
+
+Geologist
+
+Cueball: The area was originally a uniform plane, but the non-baby parts eroded at higher rates.
+
+Meteorologist
+
+Megan: Moist ground-level turbulent mixing.

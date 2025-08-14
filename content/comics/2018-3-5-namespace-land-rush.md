@@ -144,4 +144,4 @@ When a new service appears that lets you register a name, here are some you may 
 
 \*\* "," (including quote marks)
 
-\*\* "OkThisIsKindOfConfusingButIt's<LessThan\ForwardSlashHTMLGreaterThanActualGreaterThanSymbol>Yes,ThatWasAllPartOfTheName,ButSoIs...Ok,LetMeStartOver”"
+\*\* "OkThisIsKindOfConfusingButIt's<LessThan\ForwardSlashHTMLGreaterThanActualGreaterThanSymbol>Yes,ThatWasAllPartOfTheName,ButSoIs...​Ok,LetMeStartOver”"

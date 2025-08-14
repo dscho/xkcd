@@ -12,7 +12,7 @@ Cueball: Devastated to hear that a pack of wild dogs got into the Louvre and shr
 
 Cueball: What a loss for humanity.
 
-Cueball: My first kiss was in the aisle of a J.C. Penny{{sic}} that had a poster of the Mona Lisa on the wall, so this is hitting me especially hard.
+Cueball: My first kiss was in the aisle of a J.C. Penny{{asic}} that had a poster of the Mona Lisa on the wall, so this is hitting me especially hard.
 
 [Caption below the panel]
 
