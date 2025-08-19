@@ -38,7 +38,7 @@ Replace the blander post-transition metals with new kinds of carbon
 
 That W annoys me
 
-[Neodymium, in the lanthanides/actinides block, is independantly highlighted, with an arrow and new outline suggesting it is to be moved directly below the Nickel column of the main table.]
+[Neodymium, in the lanthanides/actinides block, is independently highlighted, with an arrow and new outline suggesting it is to be moved directly below the Nickel column of the main table.]
 
 Neodymium can stay—magnets are cool
 

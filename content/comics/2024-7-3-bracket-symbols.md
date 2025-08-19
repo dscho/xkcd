@@ -14,7 +14,7 @@ Bracket Symbols
 
 and what they mean
 
-[list of items]
+[list of items listed vertically but with two columns]
 
 ( ) Regular parentheses for setting stuff aside
 
@@ -29,6 +29,8 @@ and what they mean
 ‹ › An Animorph is talking
 
 « » A French Animorph is talking
+
+[first column ends]
 
 | | I'm scared of negative numbers but these sigils will protect me
 

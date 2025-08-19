@@ -6,8 +6,6 @@ alt: >-
   We're getting a lot of complaints from commuters who were routed onto a coaster, but the theme park patrons who spent hours stuck on an intercity line are also not happy.
 img: https://imgs.xkcd.com/comics/interoperability_2x.png
 ---
-{{incomplete transcript|Don't remove this notice too soon.}}
-
  [A close-up shot of Black Hat from the shoulders up]
 
  Black Hat: Compatibility and interoperability are so important.
@@ -20,7 +18,7 @@ img: https://imgs.xkcd.com/comics/interoperability_2x.png
 
  Black Hat: For the last few years, our company has been quietly retrofitting roller coasters to use 143.5 cm tracks.
 
- [Black Hat now has his fists raised]
+ [Black Hat now has both of his fists pumped and the diagram is outside of the frame]
 
  Black Hat: Soon, we can begin phase 2.
 
