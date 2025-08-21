@@ -14,7 +14,7 @@ img: https://imgs.xkcd.com/comics/thread_meeting_2x.png
 
 [To the right of AntaresMike's username are a grayed-out star, plus sign in a circle, and illegible text in a box.]
 
-You could also check out <u>this</u> kayak model. I attached a motor to mine, and it's a little but of a kludge but it works great.
+You could also check out <u>this</u> kayak model. I attached a motor to mine, and it's a little bit of a kludge but it works great.
 
 [Below the first post are grayed-out icons of a word balloon, two links from a chain, an arrow, and illegible text.]
 
