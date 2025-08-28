@@ -6,9 +6,7 @@ alt: >-
   Low gravity can cause bone loss, so we're pleased to report that, since we initiated capsule motion, the number of bones in each crew member has been steadily increasing.
 img: https://imgs.xkcd.com/comics/artificial_gravity_2x.png
 ---
-{{incomplete transcript|Don't remove this notice too soon.}}
-
-[Cueball and Ponytail are standing near a blueprint of a spacecraft, with Cueball pointing at the blueprint. In place of conventional conical fairing, this spacecraft has a large mechanical arm on the nose. The arm is holding an egg-shaped capsule. Two semi-transparent drawings of the arm and the capsule are depicted on either side of it with speed streaks in between, implying shaking back and forth motion of the arm.]
+[Cueball and Ponytail are standing near a blueprint of a spacecraft with strap on boosters, with Cueball pointing at the blueprint. In place of conventional conical fairing, this spacecraft has a large mechanical arm on the nose. The arm is holding an egg-shaped capsule. Two semi-transparent drawings of the arm and the capsule are depicted on either side of it with speed streaks in between, implying shaking back and forth motion of the arm. There is illegible text on the top left the bottom right and the bottom right text is in box.]
 
 Cueball: To produce artificial gravity during the voyage, the crew capsule is kept in constant motion.
 

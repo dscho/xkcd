@@ -18,4 +18,4 @@ img: https://imgs.xkcd.com/comics/replication_crisis_2x.png
 
  Ponytail: Unfortunately, our replication analysis has found exactly the same problems that those 2010s researchers did.
 
- [This panel shows a newspaper, with title "NEWS" surrounded by flourishes. There is a photo of the panel #2. The headline reads: "REPLICATION CRISIS SOLVED".]
+ [This panel shows a newspaper, with title "NEWS" surrounded by flourishes. There is a photo of the panel #2. The headline reads: "REPLICATION CRISIS SOLVED". There is much illegible text around the picture]
