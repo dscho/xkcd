@@ -6,7 +6,7 @@ alt: >-
   If we can get a brood of 13-year cicadas going, we might have a chance at making this happen before the oceans evaporate under the expanding sun.
 img: https://imgs.xkcd.com/comics/celestial_event_2x.png
 ---
-{{incomplete transcript|Do NOT delete this tag too soon.}}
+[big panel]
 
 <u>Approximate frequency in my area</u>
 
@@ -19,6 +19,8 @@ Total eclipse: once every 350 years
 Clear skies: 50% of the time
 
 17-year cicada emergence: 2 months every 17 years
+
+[below there is an equation]
 
 opening bracket
 

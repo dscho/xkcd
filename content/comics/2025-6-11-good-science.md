@@ -6,13 +6,11 @@ alt: >-
   If you think curiosity without rigor is bad, you should see rigor without curiosity.
 img: https://imgs.xkcd.com/comics/good_science_2x.png
 ---
-{{incomplete transcript|Don't remove this notice too soon.}}
-
-[Miss Lenhart is standing in front of a whiteboard with some scribbles on it.]
+[Miss Lenhart is standing in front of a whiteboard with some scribbles on it. She is looking away from it.]
 
 Miss Lenhart: I'm supposed to give you the tools to do good science.
 
-[Miss Lenhart is now standing in front of Jill and Cueball, who are seated at classroom desks.]
+[Miss Lenhart is now seen standing in front of Jill and Cueball, who are seated at classroom desks. She is shrugging and has her arms up and looking away from board.]
 
 Miss Lenhart: But what ***are*** those tools?
 
@@ -60,7 +58,7 @@ Miss Lenhart: The regression says two ingredients are the most crucial:
 
 2) ammonium hydroxide
 
-[Miss Lenhart, standing, and Jill, seated at desk]
+[Miss Lenhart is  standing and Jill is seated at desk]
 
 Jill: Wait, why did ***ammonia*** score so high? How did it even get on the list?
 
