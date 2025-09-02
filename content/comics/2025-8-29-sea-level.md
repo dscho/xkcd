@@ -6,9 +6,7 @@ alt: >-
   They're up there with coral islands, lightning, and caterpillars turning into butterflies.
 img: https://imgs.xkcd.com/comics/sea_level_2x.png
 ---
-{{incomplete transcript|Don't remove this notice too soon.}}
-
-[Single frame, with Megan and Cueball standing at a coastline, with water and waves visible.]
+[Single frame, with Megan and Cueball standing at a coastline with grass, with water and waves visible. They are looking at the ocean and are standing together.]
 
 Cueball: Hey, where's that big island we were looking at this morning?
 
@@ -18,7 +16,7 @@ Cueball: What?
 
 Megan: It's because the planet has a big moon orbiting near the surface. It causes weird gravity effects.
 
-Cueball: **What???**
+Cueball: ***What???***
 
 [Caption below the frame:]
 

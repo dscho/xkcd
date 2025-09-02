@@ -6,7 +6,7 @@ alt: >-
   We're right under the flight path for the scheduled orbital launch, but don't worry--it's too cold out for the rockets to operate safely, so I'm sure they'll postpone.
 img: https://imgs.xkcd.com/comics/situation_2x.png
 ---
-{{incomplete transcript|Do NOT delete this tag too soon.}}
+[all of this is in one panel]
 
 [An airship flying, labeled:]
 
@@ -16,7 +16,7 @@ Hydrogen-filled scout airship for iceberg spotting
 
 Unsinkable ocean liner
 
-[In the background on the coast a nuclear power plant, labeled:]
+[In the background on hill, which is on a coast a nuclear power plant, labeled:]
 
 Soviet-era nuclear reactor undergoing a turbine test
 
@@ -24,7 +24,7 @@ Soviet-era nuclear reactor undergoing a turbine test
 
 Bridge prone to aeroelastic flutter in high winds
 
-[Two unlabeled icebergs are on the water on either side of the bridge.]
+[Two unlabeled icebergs are on the water on either side of the bridge. Their visible above-water peaks are about half as high as the bridge's bottom]
 
 [Caption below the panel:]
 
