@@ -60,7 +60,7 @@ Megan: I don't know. Lemme look at a map of where the jet stream goes.
 
 Cueball: Hey, do you hear sirens?
 
-[A CNN logo is at the upper right of the panel. Megan stands at a lectern, with Cueball on one side and Ponytail, holding a briefcase, on the other. Illegible subtitle/sub-banner text appears at the lower left, lower right, and below them.]
+[A CNN logo is at the upper right of the panel. Megan stands at a lectern, with Cueball on one side and Ponytail, holding a briefcase, on the other. An illegible news ticker is shown below them, along with more illegible text on either side of the panel, just above the news ticker.]
 
 [A banner with white text on a black background:]
 
