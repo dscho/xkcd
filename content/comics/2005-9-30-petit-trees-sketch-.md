@@ -8,4 +8,4 @@ img: https://imgs.xkcd.com/comics/tree_cropped_(1).jpg
 ---
 [Some little rectangles are drawn to the left of the scan.]
 
-[Two trees are growing on opposite sides of a very small world. Their roots cover most of the planet's surface.]
+[Two trees are growing on opposite sides of a very small sphere. Their roots cover most of the planet's surface.]

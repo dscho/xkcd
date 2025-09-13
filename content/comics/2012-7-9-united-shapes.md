@@ -120,6 +120,8 @@ Arizona contains a refrigerated shelf containing milk, bread, and pastries.]
 
 [West Virginia contains a frog.]
 
+[Wisconsin contains a side profile of a skull, oriented facing toward Lake Michigan..]
+
 [Tennessee contains a number of children's books, placed in a slightly askew pile.]
 
 [Arkansas contains a measuring cup.]

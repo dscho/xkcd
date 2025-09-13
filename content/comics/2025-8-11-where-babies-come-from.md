@@ -12,20 +12,30 @@ Various experts answer the question “Where do babies come from?”
 
 Geneticist
 
+[Hairy, the geneticist, has one arm up, and is facing right.]
+
 Hairy: Recent admixture event, roughly 0.001 Kya.
 
 Astronomer
+
+[Ponytail, the astronomer, is standing normally and facing left.]
 
 Ponytail: Low-impulse ejection from a parent body.
 
 Software engineer
 
+[Hairbun, the software engineer, is standing with one forearm pointed up, and is facing right.]
+
 Hairbun: Off-by-one error in the population calculations.
 
 Geologist
 
+[Cueball, the geologist, is standing with one forearm half up, and is facing left.]
+
 Cueball: The area was originally a uniform plane, but the non-baby parts eroded at higher rates.
 
 Meteorologist
+
+[Megan, the meteorologist, is standing normally and facing right.]
 
 Megan: Moist ground-level turbulent mixing.

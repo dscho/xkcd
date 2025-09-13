@@ -16,7 +16,7 @@ Miss Lenhart: In the 20<sup><small>th</small></sup> century, geologists finally 
 
 [The same scene, with Cueball having his hands on his face.]
 
-Cueball: *Plagiaris*--
+Cueball: ***Plagiaris***--
 
 Miss Lenhart: Continental drift.
 

@@ -40,6 +40,6 @@ Waterbed [shows the hole filled with water, two fish and an octopus, a wobbly co
 
 L'Engle [shows the hole warped such that the opposite shores meet]
 
-Fun [shows a loop-de-loop rollercoaster bridging the hole, and a skateboarder using it to get across]
+Fun [shows a loop-de-loop rollercoaster bridging the hole, and a skateboarder using it to get across, there are numerous piles/struts/vertical-sulports supporting the rollercoaster, both where it is flat and reaching up to elevate the looping roadway]
 
 Repurposed Elevator [shows an elevator tower, rotated sideways as a whole, laid across the hole. 2 stick figures using the elevator are also rotated.]

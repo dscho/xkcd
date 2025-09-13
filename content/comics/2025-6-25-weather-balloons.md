@@ -6,8 +6,6 @@ alt: >-
   Once you add the balloons into the model, it makes forecasting easier overall--the forecast is always 'cold and dark, with minimal solar-driven convection.'
 img: https://imgs.xkcd.com/comics/weather_balloons_2x.png
 ---
-{{incomplete transcript|Don't remove this notice too soon.}}
-
 [A graph.]
 
 [X axis has 14 divisions/ticks upon it, a selection of them labeled logarithmically with progressive values of ten:]

@@ -36,6 +36,6 @@ Anyway yeah that model is great.
 
 [Below the reply are grayed-out icons of a word balloon, two links from a chain, an arrow, and illegible text.]
 
-[Bottom caption:]
+[Caption below the panel:]
 
 Running into someone on a thread who you know from a totally different part of the Internet feels weirdly like running into your teacher in a store.

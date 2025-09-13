@@ -6,9 +6,13 @@ alt: >-
   I dropped my phone while trying to search, and I tried to unlock it from up here, so can you also search for screen repair places?
 img: https://imgs.xkcd.com/comics/predicament_2x.png
 ---
-[On the left a long stick enters the panel from near the top left. There are "tap tap" sounds where the stick hits the ground. Cueball is on the right, looking left and down towards the stick.]
+[On the left a long stick enters the panel from near the top left. There are "tap tap" sounds where the stick hits the ground. Cueball is on the right, looking left towards the stick.]
 
-[There are now two long sticks closer to the middle of the panel. They cross near the top, and the stick makes  three taps near the bottom. Cueball is still looking at them and looking down.]
+Tap Tap
+
+[There are now two long sticks closer to the middle of the panel. They cross near the top, and the stick makes three taps near the bottom. Cueball is still looking at them and looking down.]
+
+Tap Tap Tap
 
 [The two sticks are almost parallel now, a little further apart at the ground. Cueball is still looking at them, but now not bending his head]
 

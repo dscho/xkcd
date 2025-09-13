@@ -14,7 +14,7 @@ Bad map projection #194:
 
 To avoid the distortion inherent to a single flat world map, each continent is projected onto its own globe.
 
-[Each of the seven globes has some part of the landmasses of Earth projected on to it, with a label of said areas name. The globes are arranged in position so their landmasses lies roughly where they would be on a standard map with North America in the upper left and Australia in the lower right part of the picture. That is except Antarctica which is placed beneath Asia close to but left of Australia. The labels on the seven spheres in the three columns they form from left to right are:]
+[Each of the seven globes has one continent of Earth projected on to it, with a label of said areas name. The globes are arranged in position so their landmasses lies roughly where they would be on a standard map with North America in the upper left and Australia in the lower right part of the picture. The labels on the seven spheres in the three columns they form from left to right are:]
 
 North America
 
