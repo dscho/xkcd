@@ -8,22 +8,24 @@ img: https://imgs.xkcd.com/comics/city_style_pizza_2x.png
 ---
 {{incomplete transcript|Don't remove this notice too soon.}}
 
-[A graph is shown. The x-axis is marked:]
+[A graph.]
 
-City size
+[The x and y axes have no unit markings, and are labeled:]
 
-[They y-axis is marked:]
+[X axis: City size →]
 
-Tastiness of "<city>-style pizza"
+[Y axis: Tastiness of "<city>-style pizza" ↑]
 
-[A shaded region is shown, initially covering nearly the whole y-axis at the lowest x-values. At the last x-values, the y-values are medium-medium high. Arrows point around to various locations in this shaded region, indicating an otherwise-unmarked subregion.]
+[A shaded region is bounded by a lower bound and an upper bound. The upper bound has a slight curve up corresponding to a smallish city, but is otherwise mostly flat. The lower bound appears on the X axi] close to the left, evens out to being almost flat in the middle, and rises toward the right.]
 
-Label: Various controversial regional specialties
+[An arrow points to the right end of the shaded area, with the label:]
 
-[An arrow points to a medium-high y-value at the absolute leftmost x-axis.]
+New York up here somewhere
 
-Label: New York up here somewhere
+[A label is in the middle of the shaded region at a medium X value. Many arrows point outward from the text, which reads:]
 
-[An arrow points to a low x- and y-value.]
+various controversial regional specialties
 
-Label: Towns with bored restaurant owners who have come up with a fun prank to play on visitors
+[An arrow points to the region with a low x and y-value, where the line for the lower bound is missing. This region is labeled:]
+
+towns with bored restaurant owners who have come up with a fun prank to play on visitors

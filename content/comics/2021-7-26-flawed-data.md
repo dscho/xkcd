@@ -10,7 +10,7 @@ img: https://imgs.xkcd.com/comics/flawed_data.png
 
 Cueball: We realized all our data is flawed.
 
-[The three next panels all have a label in a frame going over the top of each panels frame. The poster can no longer be seen in the rest of the panels.]
+[The next three panels all have a label in a frame going over the top of each panel's frame. The poster can no longer be seen in the rest of the panels.]
 
 Label: Good
 
@@ -26,6 +26,6 @@ Cueball: ...So we did lots of math and then decided our data is actually fine.
 
 Label: Very bad
 
-[Cueball holds the pointer so it point upwards. Also he lifts his other hand a bit up.]
+[Cueball holds the pointer so it points upwards. Also, he lifts his other hand a bit up.]
 
 Cueball: ...So we trained an AI to generate better data.
