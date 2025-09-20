@@ -20,7 +20,7 @@ Hypothesized mantle plumes
 
 [The formations are labeled:]
 
-Every feature of the Earth surface that we have a hard time explaining
+Every feature of the Earth's surface that we have a hard time explaining
 
 [Caption below the panel:]
 

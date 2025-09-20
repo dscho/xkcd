@@ -6,17 +6,15 @@ alt: >-
   If you want to see true audacity, do an image search for 'Altoona-style pizza.'
 img: https://imgs.xkcd.com/comics/city_style_pizza_2x.png
 ---
-{{incomplete transcript|Don't remove this notice too soon.}}
-
 [A graph.]
 
 [The x and y axes have no unit markings, and are labeled:]
 
-[X axis: City size →]
+[X axis: City size]
 
-[Y axis: Tastiness of "<city>-style pizza" ↑]
+[Y axis: Tastiness of "<city>-style pizza"]
 
-[A shaded region is bounded by a lower bound and an upper bound. The upper bound has a slight curve up corresponding to a smallish city, but is otherwise mostly flat. The lower bound appears on the X axi] close to the left, evens out to being almost flat in the middle, and rises toward the right.]
+[A shaded region is bounded by a lower bound and an upper bound. The upper bound has a slight peak corresponding to a smallish city, but is otherwise mostly flat. The lower bound appears on the X axis close to the left, evens out to being almost flat in the middle, and rises toward the right.]
 
 [An arrow points to the right end of the shaded area, with the label:]
 

@@ -12,7 +12,7 @@ img: https://imgs.xkcd.com/comics/worrying_scientist_interviews.png
 
 More worried --->
 
-[The chart shows the following titles left to right (least to most worrisome), some above and some below the line however that doesn't affect their relative positions.  They are listed here in ascending worrisomeness for ease of viewing.]
+[The chart shows the following titles left to right (least to most worrisome), some above and some below the line; however, that doesn't affect their relative positions. They are listed here in ascending worrisomeness for ease of viewing.]
 
 Archeologist
 

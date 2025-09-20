@@ -16,6 +16,6 @@ Black Hat: Well, you're-
 
 [Cueball enters.]
 
-[Black Hat and Danish look at each other and let go of each others hands.]
+[Black Hat and Danish look at each other and let go of each other's hands.]
 
 [Black Hat holds a bloody sack, while Danish pushes down on a shovel to make a hole for what is presumably Cueball's body.]
