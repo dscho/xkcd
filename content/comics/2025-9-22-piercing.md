@@ -6,13 +6,11 @@ alt: >-
   Some lava around the piercing site is normal, but keep an eye out for spreading earthquakes and eruptive activity that might indicate rifting.
 img: https://imgs.xkcd.com/comics/piercing_2x.png
 ---
-{{incomplete transcript|Don't remove this notice too soon.}}
+[One large panel, overlaid by two smaller ones in the corners, shows the Earth with an upward opening curve through its crust and mantle.]
 
-[One large panel, overlaid by two smaller ones in the corners shows the Earth with an upward opening curve through its crust and mantle.]
+Small panel 1: [Arrow pointing to a machine on tracks with an arm and a tube into the ground, with Cueball, Megan, and Ponytail nearby] Directional drilling rig
 
-Small panel 1: [Arrow pointing to a machine on tracks with an arm and a tube into the ground, with Cueball, Megan, and Ponytail nearby] directional drilling rig
-
-(Label on curve) Constant curvature borehole
+[Label on curve in the main panel]: Constant curvature borehole
 
 Small panel 2: [Earth with a ring embedded onto it]
 
