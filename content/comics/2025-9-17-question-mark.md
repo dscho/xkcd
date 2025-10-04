@@ -12,7 +12,7 @@ Hairy: That movie was so good. Maybe even the greatest movie of all time questio
 
 Cueball: Yeah comma, but you said that about italics *Charlie's Angels Colon: Full Throttle* period. Paragraph break.
 
-Cueball: I question your judgment period.
+Cueball: I question your judgement period.
 
 [Caption below the panel:]
 

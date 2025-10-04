@@ -6,22 +6,20 @@ alt: >-
   "Measure zero times, cut zero times." --carpenter who has achieved enlightenment and realized the wood is fine where it is
 img: https://imgs.xkcd.com/comics/measure_twice_cut_once_2x.png
 ---
-{{incomplete transcript|Don't remove this notice too soon.}}
+Caption at the top of the panel: "'Measure twice, cut once' -carpentry proverb" with boxes around "twice" and "once".
 
-a caption saying "measure twice cut once -carpentry proverb" with boxes around twice and once
+Below that, a scatter plot with X and Y axes labeled "number of cuts" and "number of measurements", respectively.
 
-a scatter plot with x and y axis labeled number of cuts and number of measurements respectively, under the caption
+At different places on the scatter plot lie six labels:
 
-on the scatter plot lies 6 differently labelled points:
+Surveyor: very high number of measurements, no cuts
 
-surveyor: very high number of measurements, no cuts
+Surgeon: high number of measurements, low number of cuts
 
-surgeon: high number of measurements, almost middling number of cuts
+Good carpenter: middling number of measurements, same number of cuts as surgeon
 
-good carpenter: middling number of measurements, same number of cuts as surgeon
+Careless carpenter: fewer measurements than good carpenter, same number of cuts as surgeon
 
-careless carpenter: a number of measurements slightly lower than the good carpenter, same number of cuts as good carpenter
+Really bad carpenter: slightly fewer measurements than other carpenters, fairly high number of cuts
 
-really bad carpenter: low number of measurements, high number of cuts
-
-serial killer: no measurements, very high number of cuts
+Serial killer: no measurements, very high number of cuts
