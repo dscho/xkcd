@@ -38,4 +38,4 @@ Beret Guy: No.
 
 <!-- God is correct, as per official transcript -->
 
-God: [as voice from above] YES!
+Cueball: [Probably stapled to the ceiling] YES!
