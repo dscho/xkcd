@@ -6,8 +6,6 @@ alt: >-
   I'm going to drive this Netherlands joke so far into the ground they'll have to build levees around it to keep the sea out.
 img: https://imgs.xkcd.com/comics/exoplanet_names_2.png
 ---
-{{incomplete transcript|We don't use tables for accessibily, please convert this into a normal transcript!}}
-
 [Black Hat points with a stick at a slide showing an image of a planet with unknown features marked by questions marks.]
 
 Kepler-452b
@@ -26,612 +24,266 @@ planet name suggestions (see xkcd.com/1253)
 
 [The table is in three separate columns. There is a small arrow pointing at the second column, named "Planet", indicating the planet's name corresponding to the star at the first row. The third column shows the planet name suggestions.]
 
-{| class="wikitable"
+[Left Columns]
 
-! Star !! Planet !! Suggested Name
+[Star] Gliese 667c
 
-|-
+[Planet] b [Suggested Name] Space Planet
 
-| rowspan=7 |Gliese 667
+[Planet] c [Suggested Name] Pilf
 
-| b
+[Planet] d [Suggested Name] A Star
 
-| Space Planet
+[Planet] e [Suggested Name] e'); DROP TABLE PLANETS;--
 
-|-
+[Planet] f [Suggested Name] Blogosphere
 
-|c
+[Planet] g [Suggested Name] Blogodrome
 
-| PILF
+[Planet] h [Suggested Name] Earth
 
-|-
+[Star] Tau Ceti
 
-|d
+[Planet] b [Suggested Name] Sid Meier's Tau Ceti B
 
-| A Star
+[Planet] c [Suggested Name] Giant Dog PLanet
 
-|-
+[Planet] d [Suggested Name] Tiny Dog Planet
 
-|e
+[Planet] e [Suggested Name] Phil Plainet
 
-| e'); DROP TABLE PLANETS;--
+[Planet] f [Suggested Name] Unicode Snowman
 
-|-
+[Star] Gliese 832
 
-|f
+[Planet] b [Suggested Name] Asshole Jupiter
 
-| Blogosphere
+<font color="red">[Planet] c [Suggested Name] <i>WaterWorld</i> Starring Kevin Costner </font>
 
-|-
+[Star] Gliese 581
 
-|g
+[Planet] b [Suggested Name] Waist-Deep Cats
 
-| Blogodrome
+[Planet] c [Suggested Name] Planet #14
 
-|-
+[Planet] d [Suggested Name] Ballderaan
 
-|h
+[Planet] e [Suggested Name] Eternia Prime
 
-| Earth
+[Planet] f [Suggested Name] Taupe Mars
 
-|-
+[Planet] g [Suggested Name]Jelly-Filled Planet
 
-| rowspan=5 |Tau Ceti
+[Star] Epsilon Eridani
 
-| b
+[Planet] b [Suggested Name] Skydot
 
-| Sid Meier's Tau Ceti B
+[Planet] c [Suggested Name] Laser Noises
 
-|-
+[Star] Gliese 176
 
-|c
+[Planet] b [Suggested Name] Pandora
 
-| Giant Dog Planet
+[Planet] c [Suggested Name] Pantera
 
-|-
+[Star] Kepler-61
 
-|d
+[Planet] b [Suggested Name] Goldenpalace.com
 
-| Tiny Dog Planet
+<font color="red">:[Star] Groombridge 34A
 
-|-
+[Planet] b [Suggested Name] Hot Mess
 
-|e
+[Star] Kepler-442
 
-| Phil Plainet
+[Planet] b [Suggested Name] Seas of Toothpaste
 
-|-
+[Star] Gliese-422
 
-|f
+[Planet] b [Suggested Name] This One Weird Planet
 
-| Unicode Snowman
+[Star] Epic-201367065
 
-|-
+[Planet] b [Suggested Name] Sulawesi
 
-| rowspan=2|Gliese 832
+[Planet] c [Suggested Name] Huge Soccer Ball
 
-| b
+[Planet] d [Suggested Name] Geodude
 
-| Asshole Jupiter
+[Star] Kepler-296
 
-|-
+[Planet] b [Suggested Name] Kerbal Space Planet
 
-|<font color="red">c</font>
+[Planet] c [Suggested Name] A$APlanet
 
-| <font color="red">Waterworld starring Kevin Costner</font>
+[Planet] d [Suggested Name] Jurassic World
 
-|-
+[Planet] e [Suggested Name] This Land
 
-| rowspan= 6|Gliese 581
+[Planet] f [Suggested Name] Springfield
 
-| b
+[Star] HR 7722
 
-| Waist-deep Cats
+[Planet] b [Suggested Name] Betelgeuse
 
-|-
+[Planet] c [Suggested Name] Beetlejuice
 
-|c
+[Star] Epic 201912252
 
-| Planet #14
+[Planet] b [Suggested Name] Netherlands VI
 
-|-
+[Star] Gliese 3293
 
-|d
+[Planet] b [Suggested Name] Antispit
 
-| Ballderaan
+[Planet] c [Suggested Name] Google Earth
 
-|-
+[Planet] d [Suggested Name] Planet of the Apes (Disambiguation)
 
-|e
+[Star] Kepler-283
 
-| Eternia Prime
+[Planet] b [Suggested Name] jʊərənəs
 
-|-
+[Planet] c [Suggested Name] jʊˈreɪnəs
 
-|f
+</font>
 
-| Taupe Mars
+[End Left Colomns]
 
-|-
+[Start Right Colomns]
 
-|g
+[Star] Upsilon Andromidae
 
-| Jelly-Filled Planet
+<font color="red"> [Planet] b [Suggested Name] Fourth meal </font>
 
-|-
+[Planet] c [Suggested Name] Stampy
 
-| rowspan= 2|Epsilon Eridani
+[Planet] d [Suggested Name] Moonchild
 
-| b
+[Planet] e [Suggested Name] Ham Sphere
 
-| Skydot
+[Star] HD 20794
 
-|-
+[Planet] b [Suggested Name] Cosmic Sands
 
-|c
+[Planet] c [Suggested Name] LegoLand
 
-| Laser Noises
+[Planet] d [Suggested Name] Planet with Arms
 
-|-
+[Star] HD 85512
 
-| rowspan= 2|Gliese 176
+[Planet] b [Suggested Name] Lax Morality
 
-| b
+[Star] HD 40307
 
-| Pandora
+[Planet] b [Suggested Name] Good Planet
 
-|-
+[Planet] c [Suggested Name] Problemland
 
-|c
+[Planet] d [Suggested Name] Slickle
 
-| Pantera
+[Planet] e [Suggested Name] Spare Parts
 
-|-
+[Planet] f [Suggested Name] New Jersey VI
 
-|Kepler-61
+[Planet] g [Suggested Name] How do I Join the IAU
 
-| b
+[Star] Gliese 163
 
-| GoldenPalace.com
+[Planet] b [Suggested Name] Neil Tyson's Mustache
 
-|-
+[Planet] c [Suggested Name] Help@gmail.com
 
-|<font color="red">Groombridge 34A</font>
+[Planet] d [Suggested Name] Hair-Covered Planet
 
-| <font color="red">b</font>
+[Star] Pi Mensae
 
-| <font color="red">Hot Mess</font>
+[Planet] b [Suggested Name] Moon Holder
 
-|-
+[Star] HD 189733
 
-|<font color= "red" >Kepler-442</font>
+[Planet] b [Suggested Name] Permadeath
 
-| <font color= "red" >b</font>
+[Star] Kepler-22
 
-| <font color= "red" >Seas of Toothpaste</font>
+[Planet] b [Suggested Name] Blue Ivy
 
-|-
+<font color="red">[Star] Koi-2474
 
-|<font color= "red" >Gliese-442</font>
+[Planet] b [Suggested Name] Store-Brand Earth
 
-| <font color= "red" >b</font>
+[Star] Kepler-437 </font>
 
-| <font color= "red" >This one weird planet</font>
+[Planet] b [Suggested Name] Unicorn Thresher
 
-|-
+[Star] Koi-2418
 
-| rowspan= 3|<font color= "red" >EPIC-201367065</font>
+[Planet] b [Suggested Name] Spherical DiscWorld
 
-| <font color= "red" >b</font>
+<font color="red">[Star] Kepler-438
 
-| <font color= "red" >Sulawesi</font>
+[Planet] b [Suggested Name] Emergency Backup Earth </font>
 
-|-
+[Star] Koi-3010
 
-|<font color= "red" >c</font>
+[Planet] b [Suggested Name] Feeeooooooooop
 
-| <font color= "red" >Huge Soccer Ball</font>
+[Star] Kepler-442
 
-|-
+[Planet] b [Suggested Name] Liz
 
-|<font color= "red" >d</font>
+<font color="red">[Star] 82 Eridani
 
-| <font color= "red" >Geodude</font>
+[Planet] b [Suggested Name] Horsemeat Surface
 
-|-
+[Planet] c [Suggested Name] The Moon
 
-| rowspan= 5|<font color= "red" >Kepler-296</font>
+[Planet] d [Suggested Name] Constant Saxophones
 
-| <font color= "red" >b</font>
+[Star] HD 102365
 
-| <font color= "red" >Kerbal Space Planet</font>
+[Planet] b [Suggested Name] Little Big Planet
 
-|-
+[Star] Gliese 180
 
-|<font color= "red" >c</font>
+[Planet] b [Suggested Name] Dune
 
-| <font color= "red" >A$aplanet</font>
+[Planet] c [Suggested Name] Arrakis
 
-|-
+[Star] Fomalhaut
 
-|<font color= "red" >d</font>
+[Planet] b [Suggested Name] Swarm of Bees
 
-| <font color= "red" >Jurassic World</font>
+[Star] Kepler-62
 
-|-
+[Planet] b [Suggested Name] Sporty
 
-|<font color= "red" >e</font>
+[Planet] c [Suggested Name] Baby
 
-| <font color= "red" >This Land</font>
+[Planet] d [Suggested Name] Scary
 
-|-
+[Planet] e [Suggested Name] Ginger
 
-|<font color= "red" >f</font>
+[Planet] f [Suggested Name] Posh
 
-| <font color= "red" >Springfield</font>
+[Star] Kepler-62
 
-|-
+[Planet] b [Suggested Name] Planet.xxx
 
-| rowspan= 2|<font color= "red" >HR 7722</font>
+[Planet] c [Suggested Name] Novella
 
-| <font color= "red" >b</font>
+[Planet] d [Suggested Name] Sexoplanet
 
-| <font color= "red" >Betelgeuse</font>
+[Star] Gliese 682
 
-|-
+[Planet] b [Suggested Name] Verdant Hellscape
 
-|<font color= "red" >c</font>
+[Planet] c [Suggested Name] Unsubscribe
 
-| <font color= "red" >Beetlejuice</font>
+[Star] Kepler-452
 
-|-
+[Planet] b [Suggested Name] Pluto
 
-|<font color= "red" >EPIC 201912552</font>
+</font>
 
-| <font color= "red" >b</font>
-
-| <font color= "red" >Netherlands VI</font>
-
-|-
-
-| rowspan= 3|<font color= "red" >Gliese 3293</font>
-
-| <font color= "red" >b</font>
-
-| <font color= "red" >Antispit</font>
-
-|-
-
-|<font color= "red" >c</font>
-
-| <font color= "red" >Google Earth</font>
-
-|-
-
-|<font color= "red" >d</font>
-
-| <font color= "red" >Planet of the Apes (disambiguation)</font>
-
-|-
-
-| rowspan= 2|<font color= "red" >Kepler-283</font>
-
-| <font color= "red" >b</font>
-
-| <font color= "red" >ˈjʊərənəs</font>
-
-|-
-
-|<font color="red">c</font>
-
-| <font color= "red" >jʊˈreɪnəs</font>
-
-|-
-
-| rowspan= 4|Upsilon Andromedae
-
-| <font color="red">b</font>
-
-| <font color="red">Fourthmeal</font>
-
-|-
-
-|c
-
-| Stampy
-
-|-
-
-|d
-
-| Moonchild
-
-|-
-
-|e
-
-| Ham Sphere
-
-|-
-
-| rowspan= 3|HD 20794
-
-| b
-
-| Cosmic Sands
-
-|-
-
-|c
-
-| Legoland
-
-|-
-
-|d
-
-| Planet with Arms
-
-|-
-
-|HD 85512
-
-| b
-
-| Lax Morality
-
-|-
-
-| rowspan= 6|HD 40307
-
-| b
-
-| Good Planet
-
-|-
-
-|c
-
-| Problemland
-
-|-
-
-|d
-
-| Slickle
-
-|-
-
-|e
-
-| Spare Parts
-
-|-
-
-|f
-
-| New Jersey VI
-
-|-
-
-|g
-
-| How Do I Join the IAU
-
-|-
-
-| rowspan= 3|Gliese 163
-
-| b
-
-| Neil Tyson's Mustache
-
-|-
-
-|c
-
-| help@gmail.com
-
-|-
-
-|d
-
-| Hair-Covered Planet
-
-|-
-
-|Pi Mensae
-
-| b
-
-| Moon Holder
-
-|-
-
-|HD 189733
-
-| b
-
-| Permadeath
-
-|-
-
-|Kepler-22
-
-| b
-
-| Blue Ivy
-
-|-
-
-|<font color="red">KOI-2474</font>
-
-| <font color="red">b</font>
-
-| <font color="red">Store-Brand Earth</font>
-
-|-
-
-|<font color="red">Kepler-437</font>
-
-| b
-
-| Unicorn Thresher
-
-|-
-
-|KOI-2418
-
-| b
-
-| Spherical Discworld
-
-|-
-
-|<font color="red">Kepler-438</font>
-
-| <font color="red">b</font>
-
-| <font color="red">Emergency Backup Earth</font>
-
-|-
-
-|KOI-3010
-
-| b
-
-| Feeeoooooooop
-
-|-
-
-|Kepler-442
-
-| b
-
-| Liz
-
-|-
-
-|rowspan = 3|<font color="red">82 Eridani </font>
-
-| <font color="red">b </font>
-
-| <font color="red">Horsemeat Surface </font>
-
-|-
-
-|<font color="red">c </font>
-
-| <font color="red">The Moon </font>
-
-|-
-
-|<font color="red">d </font>
-
-| <font color="red">Constant Saxophones </font>
-
-|-
-
-|<font color="red">HD 102365 </font>
-
-| <font color="red">b </font>
-
-| <font color="red">Little Big Planet </font>
-
-|-
-
-|rowspan = 2|<font color="red">Gliese 180 </font>
-
-| <font color="red">b </font>
-
-| <font color="red">Dune </font>
-
-|-
-
-|<font color="red">c </font>
-
-| <font color="red">Arrakis </font>
-
-|-
-
-|<font color="red">Fomalhaut </font>
-
-| <font color="red">b </font>
-
-| <font color="red">Swarm of Bees </font>
-
-|-
-
-|rowspan = 5|<font color="red">Kepler-62 </font>
-
-| <font color="red">b </font>
-
-| <font color="red">Sporty </font>
-
-|-
-
-|<font color="red">c </font>
-
-| <font color="red">Baby </font>
-
-|-
-
-|<font color="red">d </font>
-
-| <font color="red">Scary </font>
-
-|-
-
-|<font color="red">e </font>
-
-| <font color="red">Ginger </font>
-
-|-
-
-|<font color="red">f </font>
-
-| <font color="red">Posh </font>
-
-|-
-
-|rowspan = 3|<font color="red">HD 69830 </font>
-
-| <font color="red">b </font>
-
-| <font color="red">Planet.xxx </font>
-
-|-
-
-|<font color="red">c </font>
-
-| <font color="red">Novella </font>
-
-|-
-
-|<font color="red">d </font>
-
-| <font color="red">Sexoplanet </font>
-
-|-
-
-|rowspan = 2|<font color="red">Gliese 682 </font>
-
-| <font color="red">b </font>
-
-| <font color="red">Verdant Hellscape </font>
-
-|-
-
-|<font color="red">c </font>
-
-| <font color="red">Unsubscribe </font>
-
-|-
-
-|<font color="red">Kepler-452 </font>
-
-| <font color="red">b </font>
-
-| <font color="red">Pluto </font>
-
-|}
+[End Right Colomns]

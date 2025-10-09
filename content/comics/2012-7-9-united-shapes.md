@@ -100,7 +100,7 @@ and 14 other ounces
 
 NB - There are several chemicals such as {{w|Pentaborane(9)}}(reacts with water) and {{w|tert-Butyl hydroperoxide|*tert*-Butyl hydroperoxide}}(explosive) which have a 4-4-4 rating, however, a substance that is both 4-4-4 and radioactive is unlikely to be handled in bulk.
 
-Arizona contains a refrigerated shelf containing milk, bread, and pastries.]
+[Arizona contains a refrigerated shelf containing milk, bread, and pastries.]
 
 [California contains a vacuum cleaner.]
 

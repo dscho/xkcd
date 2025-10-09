@@ -6,8 +6,6 @@ alt: >-
   I'm trying to share my footage of the full run to prove it's not tool-assisted, but the uploader has problems with video lengths of more than a decade.
 img: https://imgs.xkcd.com/comics/100_all_achievements_2x.png
 ---
-{{incomplete transcript|Don't remove this notice too soon.}}
-
 [Cueball, arms outstretched, is talking to White Hat.]
 
 Cueball: I finished all the gen-ed back in 2010, and I'm up to the 400-level courses in most departments.

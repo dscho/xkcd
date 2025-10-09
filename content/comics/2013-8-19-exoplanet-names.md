@@ -6,8 +6,6 @@ alt: >-
   If you have any ideas, I hear you can send them to <nowiki>iaupublic@iap.fr</nowiki>.
 img: https://imgs.xkcd.com/comics/exoplanet_names.png
 ---
-{{incomplete transcript|We don't use tables in transcripts for accessibily reasons,<br>please use only text.}}
-
 [Text above the first frame of the comic:]
 
 August 2013:
@@ -32,208 +30,148 @@ Hairbun: This is ***after*** the filter!
 
 [The table is in two separate columns, but there is only headings over the left, so the right column is a direct continuation of the left. In the table it is mentioned when the right column begins. There is a small arrow pointing from the word "Planet" down to the second column of the table. The headings in the comic are not inside the table as they are here below. The text at the bottom of the left list seems to continue on below, at least the last entry is cut below the middle, although it is still easy to read. Similarly the text at the top right list, seems to continue from above, the top entry missing the very top of the text. This is as if the list is much longer and here is just shown part of the list. To further indicate this the first entry in the right list begins at "c" instead of at "b" which is else the case for all other instances.]
 
-{| class="wikitable"
+[Left Columns]
 
-! Star !! Planet !! Suggested Name
+[Star] Gliese 667c
 
-|-
+[Planet] b [Suggested Name] Space Planet
 
-| rowspan=7 |Gliese 667||b||Space Planet
+[Planet] c [Suggested Name] Pilf
 
-|-
+[Planet] d [Suggested Name] A Star
 
-|c||PILF
+[Planet] e [Suggested Name] e'); DROP TABLE PLANETS;--
 
-|-
+[Planet] f [Suggested Name] Blogosphere
 
-|d||A Star
+[Planet] g [Suggested Name] Blogodrome
 
-|-
+[Planet] h [Suggested Name] Earth
 
-|e||e'); DROP TABLE PLANETS;--
+[Star] Tau Ceti
 
-|-
+[Planet] b [Suggested Name] Sid Meier's Tau Ceti B
 
-|f||Blogosphere
+[Planet] c [Suggested Name] Giant Dog PLanet
 
-|-
+[Planet] d [Suggested Name] Tiny Dog Planet
 
-|g||Blogodrome
+[Planet] e [Suggested Name] Phil Plainet
 
-|-
+[Planet] f [Suggested Name] Unicode Snowman
 
-|h||Earth
+[Star] Gliese 832
 
-|-
+[Planet] b [Suggested Name] Asshole Jupiter
 
-| rowspan=5 |Tau Ceti||b||Sid Meier's Tau Ceti B
+[Star] Gliese 581
 
-|-
+[Planet] b [Suggested Name] Waist-Deep Cats
 
-|c||Giant Dog Planet
+[Planet] c [Suggested Name] Planet #14
 
-|-
+[Planet] d [Suggested Name] Ballderaan
 
-|d||Tiny Dog Planet
+[Planet] e [Suggested Name] Eternia Prime
 
-|-
+[Planet] f [Suggested Name] Taupe Mars
 
-|e||Phil Plainet
+[Planet] g [Suggested Name]Jelly-Filled Planet
 
-|-
+[Star] Epsilon Eridani
 
-|f||Unicode Snowman
+[Planet] b [Suggested Name] Skydot
 
-|-
+[Planet] c [Suggested Name] Laser Noises
 
-|Gliese 832||b||Asshole Jupiter
+[Star] Gliese 176
 
-|-
+[Planet] b [Suggested Name] Pandora
 
-| rowspan= 6|Gliese 581||b||Waist-deep Cats
+[Planet] c [Suggested Name] Pantera
 
-|-
+[Star] Kepler-61
 
-|c||Planet #14
+[Planet] b [Suggested Name] Goldenpalace.com
 
-|-
+[End Left Colomns]
 
-|d||Ballderaan
+[Start Right Colomns]
 
-|-
+[Star] Upsilon Andromidae
 
-|e||Eternia Prime
+[Planet] c [Suggested Name] Stampy
 
-|-
+[Planet] d [Suggested Name] Moonchild
 
-|f||Taupe Mars
+[Planet] e [Suggested Name] Ham Sphere
 
-|-
+[Star] HD 20794
 
-|g||Jelly-Filled Planet
+[Planet] b [Suggested Name] Cosmic Sands
 
-|-
+[Planet] c [Suggested Name] LegoLand
 
-| rowspan= 2|Epsilon Eridani||b||Skydot
+[Planet] d [Suggested Name] Planet with Arms
 
-|-
+[Star] HD 85512
 
-|c||Laser Noises
+[Planet] b [Suggested Name] Lax Morality
 
-|-
+[Star] HD 40307
 
-| rowspan= 2|Gliese 176||b||Pandora
+[Planet] b [Suggested Name] Good Planet
 
-|-
+[Planet] c [Suggested Name] Problemland
 
-|c||Pantera
+[Planet] d [Suggested Name] Slickle
 
-|-
+[Planet] e [Suggested Name] Spare Parts
 
-|Kepler-61||b||GoldenPalace.com
+[Planet] f [Suggested Name] New Jersey VI
 
-|-
+[Planet] g [Suggested Name] How do I Join the IAU
 
-! colspan=3 | [Below is the right column.]
+[Star] Gliese 163
 
-|-
+[Planet] b [Suggested Name] Neil Tyson's Mustache
 
-| rowspan= 3|Upsilon Andromidae||c||Stampy
+[Planet] c [Suggested Name] Help@gmail.com
 
-|-
+[Planet] d [Suggested Name] Hair-Covered Planet
 
-|d||Moonchild
+[Star] Pi Mensae
 
-|-
+[Planet] b [Suggested Name] Moon Holder
 
-|e||Ham Sphere
+[Star] HD 189733
 
-|-
+[Planet] b [Suggested Name] Permadeath
 
-| rowspan= 3|HD 20794||b||Cosmic Sands
+[Star] Kepler-22
 
-|-
+[Planet] b [Suggested Name] Blue Ivy
 
-|c||Legoland
+[Star] Kepler-3284
 
-|-
+[Planet] b [Suggested Name] Blainsley
 
-|d||Planet with Arms
+[Star] Kepler-3255
 
-|-
+[Planet] b [Suggested Name] Unicorn Thresher
 
-|HD 85512||b||Lax Morality
+[Star] Kepler-2418
 
-|-
+[Planet] b [Suggested Name] Spherical DiscWorld
 
-| rowspan= 6|HD 40307||b||Good Planet
+[Star] Kepler-1686
 
-|-
+[Planet] b [Suggested Name] Emergency Backup Earth
 
-|c||Problemland
+[Star] Kepler-3010
 
-|-
+[Planet] b [Suggested Name] Feeeooooooooop
 
-|d||Slickle
+[Star] Kepler-4742
 
-|-
-
-|e||Spare Parts
-
-|-
-
-|f||New Jersey VI
-
-|-
-
-|g||How Do I Join the IAU
-
-|-
-
-| rowspan= 3|Gliese 163||b||Neil Tyson's Mustache
-
-|-
-
-|c||help@gmail.com
-
-|-
-
-|d||Hair-Covered Planet
-
-|-
-
-|Pi Mensae||b||Moon Holder
-
-|-
-
-|HD 189733||b||Permadeath
-
-|-
-
-|Kepler-22||b||Blue Ivy
-
-|-
-
-|Kepler-3284||b||Blainsley
-
-|-
-
-|Kepler-3255||b||Unicorn Thresher
-
-|-
-
-|Kepler-2418||b||Spherical Discworld
-
-|-
-
-|Kepler-1686||b||Emergency Backup Earth
-
-|-
-
-|Kepler-3010||b||Feeeooooooooop
-
-|-
-
-|Kepler-4742||b||Liz
-
-|}
+[Planet] b [Suggested Name] Liz
