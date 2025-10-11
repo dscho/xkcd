@@ -74,7 +74,7 @@ Chaotic Neutral
 
 Political Compass
 
-[describe this chart here]
+[A square chart split into four quadrants, with the horizontal axis labeled "Left (left)/Right (right)" and the vertical axis labeled "Authoritarian (top)/Libertarian (bottom)." Each quadrant is divided into several irregular segments, either unlabeled or labeled with a single question mark.]
 
 Lawful Evil
 

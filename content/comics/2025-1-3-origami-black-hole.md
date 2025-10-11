@@ -6,13 +6,11 @@ alt: >-
   You may notice the first half of these instructions are similar to the instructions for a working nuclear fusion device. After the first few dozen steps, be sure to press down firmly and fold quickly to overcome fusion pressure.
 img: https://imgs.xkcd.com/comics/origami_black_hole_2x.png
 ---
-{{incomplete transcript|Do NOT delete this tag too soon.}}
-
 How to fold a ***real*** origami black hole:
 
 Step 1.
 
-[A square sheet of paper shown folded in half, with a dashed line going across the middle, and an arrow pointing from one half to the other.]
+[A square sheet of paper with a dashed line going across the middle and an arrow pointing from one half to the other, indicating that it should be folded in that direction.]
 
 [In each step from Step 2. to Step 9., the paper is shown folded in half again and depicted in the same manner as Step 1. The aspect ratio of the sides alternates between 2:1 and 1:1.]
 

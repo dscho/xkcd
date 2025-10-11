@@ -6,42 +6,46 @@ alt: >-
   ’"‘”’" means "I edited this text on both my phone and my laptop before sending it"
 img: https://imgs.xkcd.com/comics/bracket_symbols_2x.png
 ---
-{{incomplete transcript|Do NOT delete this tag too soon.}}
-
 [top text]
 
 Bracket Symbols
 
 and what they mean
 
-[list of items listed vertically but with two columns]
+[List of symbols and meanings split into two vertical columns]
 
-( ) Regular parentheses for setting stuff aside
+[Left Column Top]
 
-[ ] Square brackets (more secure)
+[Symbol] ( ) [Meaning] Regular parentheses for setting stuff aside
 
-{ } This stuff is expensive so be careful with it
+[Symbol] [ ] [Meaning] Square brackets (more secure)
 
-" " Someone is talking
+[Symbol] { } [Meaning] This stuff is expensive so be careful with it
 
-' ' Someone British is talking
+[Symbol] " " [Meaning] Someone is talking
 
-‹ › An Animorph is talking
+[Symbol] ' ' [Meaning] Someone British is talking
 
-« » A French Animorph is talking
+[Symbol] ‹ › [Meaning] An Animorph is talking
 
-[first column ends]
+[Symbol] « » [Meaning] A French Animorph is talking
 
-| | I'm scared of negative numbers but these sigils will protect me
+[Left Column Bottom]
 
-\* \* \_ \_ / / I have a favorite monospaced font
+[Right Column Top]
 
-~ ~ I'm being sarcastic and I had a Tumblr account in 2014
+[Symbol] | | [Meaning] I'm scared of negative numbers but these sigils will protect me
 
-[ ( [ { ( ) } ] , ) ] These Python functions are ***not*** getting along
+[Symbol] \* \* \_ \_ / / [Meaning] I have a favorite monospaced font
 
-⌊ ⌋ Help, I'm a mathematician trying to work with actual numbers and they're scary
+[Symbol] ~ ~ [Meaning] I'm being sarcastic and I had a Tumblr account in 2014
 
-ʃ ʅ Why are you trying to read my violin?
+[Symbol] [ ( [ { ( ) } ] , ) ] [Meaning] These Python functions are ***not*** getting along
 
-| ⟩ Don't stop here--this is quantum country
+[Symbol] ⌊ ⌋ [Meaning] Help, I'm a mathematician trying to work with actual numbers and they're scary
+
+[Symbol] ⎰⎱ [Meaning] Why are you trying to read my violin?
+
+[Symbol] | ⟩ [Meaning] Don't stop here--this is quantum country
+
+[Right Column Bottom]

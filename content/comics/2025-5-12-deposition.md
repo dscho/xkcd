@@ -6,9 +6,7 @@ alt: >-
   P.S. If you have time travel, come to my birthday party Saturday!
 img: https://imgs.xkcd.com/comics/deposition_2x.png
 ---
-{{incomplete transcript|Don't remove this notice too soon.}}
-
-[Cueball approaches Ponytail, chiselling a rock on a shoreline next to a river with shallow rolling hills in the background]
+[Cueball approaches a kneeling Ponytail, chiselling a rock on a grassy shoreline next to a river with shallow rolling hills in the background]
 
 Cueball: What are you doing?
 
@@ -18,11 +16,11 @@ Ponytail: This river empties onto a passive continental margin.
 
 Ponytail: If I chisel notes onto these rocks and throw them into the sea, they might be incorporated into some shale cliff in the distant future.
 
-[Silhouetted scene of Ponytail as she throws multiple rocks off frame to the right, Cueball watching from behind her]
+[Silhouetted scene of Ponytail as she throws multiple rocks into the off-frame river to the right, Cueball watching from behind her]
 
 [From off-panel, sound effect of a rock hitting water:] PLOP
 
-[Two 'bug-eyed aliens', sitting in personal 'hover-saucers' look rightwards at an exposed rock-face. A pick and shovel are left stuck in the ground, and one of the 'saucers' sports a mechanical arm currently holding a loose fragment of rock. There are three question marks above the alien on the left and two question marks next to the alien on the right]
+[Two aliens with snail-like eyestalks and large eyes, with mechanical lower bodies resembling small flying saucers look rightwards at an exposed rock-face. A pick and shovel are left stuck in the ground, and the right alien's saucer sports a mechanical arm currently holding a loose fragment of rock. There are three question marks above the alien on the left and two question marks next to the alien on the right]
 
 [Panel label:] 100 million years later...
 

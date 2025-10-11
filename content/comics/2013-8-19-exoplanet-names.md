@@ -94,9 +94,9 @@ Hairbun: This is ***after*** the filter!
 
 [Planet] b [Suggested Name] Goldenpalace.com
 
-[End Left Colomns]
+[End Left Columns]
 
-[Start Right Colomns]
+[Start Right Columns]
 
 [Star] Upsilon Andromidae
 

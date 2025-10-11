@@ -20,7 +20,7 @@ here's a revised and updated list of
 
 planet name suggestions (see xkcd.com/1253)
 
-<font color="red">New or updated entries in red</font>
+[Red text:] <font color="red">New or updated entries in red</font>
 
 [The table is in three separate columns. There is a small arrow pointing at the second column, named "Planet", indicating the planet's name corresponding to the star at the first row. The third column shows the planet name suggestions.]
 
@@ -58,7 +58,7 @@ planet name suggestions (see xkcd.com/1253)
 
 [Planet] b [Suggested Name] Asshole Jupiter
 
-<font color="red">[Planet] c [Suggested Name] <i>WaterWorld</i> Starring Kevin Costner </font>
+[Red text for this line:] <font color="red">[Planet] c [Suggested Name] <i>WaterWorld</i> Starring Kevin Costner </font>
 
 [Star] Gliese 581
 
@@ -90,7 +90,7 @@ planet name suggestions (see xkcd.com/1253)
 
 [Planet] b [Suggested Name] Goldenpalace.com
 
-<font color="red">:[Star] Groombridge 34A
+[Red text for the rest of the rows in this column:] <font color="red">:[Star] Groombridge 34A
 
 [Planet] b [Suggested Name] Hot Mess
 
@@ -148,13 +148,13 @@ planet name suggestions (see xkcd.com/1253)
 
 </font>
 
-[End Left Colomns]
+[End Left Columns]
 
-[Start Right Colomns]
+[Start Right Columns]
 
 [Star] Upsilon Andromidae
 
-<font color="red"> [Planet] b [Suggested Name] Fourth meal </font>
+[Red text for this line:] <font color="red"> [Planet] b [Suggested Name] Fourth meal </font>
 
 [Planet] c [Suggested Name] Stampy
 
@@ -208,11 +208,11 @@ planet name suggestions (see xkcd.com/1253)
 
 [Planet] b [Suggested Name] Blue Ivy
 
-<font color="red">[Star] Koi-2474
+[Red text for this line:] <font color="red">[Star] Koi-2474
 
 [Planet] b [Suggested Name] Store-Brand Earth
 
-[Star] Kepler-437 </font>
+[Red text for star-name only:] [Star] Kepler-437 </font>
 
 [Planet] b [Suggested Name] Unicorn Thresher
 
@@ -220,7 +220,7 @@ planet name suggestions (see xkcd.com/1253)
 
 [Planet] b [Suggested Name] Spherical DiscWorld
 
-<font color="red">[Star] Kepler-438
+[Red text for this line:] <font color="red">[Star] Kepler-438
 
 [Planet] b [Suggested Name] Emergency Backup Earth </font>
 
@@ -232,7 +232,7 @@ planet name suggestions (see xkcd.com/1253)
 
 [Planet] b [Suggested Name] Liz
 
-<font color="red">[Star] 82 Eridani
+[Red text for the rest of this column:] <font color="red">[Star] 82 Eridani
 
 [Planet] b [Suggested Name] Horsemeat Surface
 
@@ -286,4 +286,4 @@ planet name suggestions (see xkcd.com/1253)
 
 </font>
 
-[End Right Colomns]
+[End Right Columns]

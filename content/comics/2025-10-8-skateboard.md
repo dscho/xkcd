@@ -8,7 +8,7 @@ img: https://imgs.xkcd.com/comics/skateboard_2x.png
 ---
 {{incomplete transcript|Don't remove this notice too soon.}}
 
-[Cueball falling in the sky facing, his back down, him facing upwards. He has a backpack on his back and a skateboard in his hand. Clouds are seen in the background.]
+[Cueball falling in the sky facing, his back down, him facing upwards. He has a backpack on his back and a skateboard in his hand. Clouds are seen in the background and are in the following panels in different positions]
 
 Cueball: I guess this is on me. I should really keep my skateboarding gear and my parachutes in different-looking bags.
 
