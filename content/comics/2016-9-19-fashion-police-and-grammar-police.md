@@ -3,7 +3,7 @@ date: 2016-09-19
 title: "Fashion Police and Grammar Police"
 num: 1735
 alt: >-
-  * Mad about jorts
+  <nowiki>* Mad about jorts</nowiki>
 img: https://imgs.xkcd.com/comics/fashion_police_and_grammar_police.png
 ---
 [Beneath two headings to the left and right are shown two aggressive-looking groups of people with only the four people in the front clearly shown for each group. Behind them five other people can be seen, but they are drawn in grey and are only partially shown behind the first four, and legs from all five in each group can be seen along with some of their heads.]
