@@ -6,8 +6,6 @@ alt: >-
   When Galileo dropped two weights from the Leaning Tower of Pisa, they put him in the history books. But when I do it, I get 'detained by security' for 'injuring several tourists.'
 img: https://imgs.xkcd.com/comics/physics_insight_2x.png
 ---
-{{incomplete transcript|Don't remove this notice too soon.}}
-
 [Cueball is talking to White Hat, arms outstretched.]
 
 Cueball: Sure, when ***Einstein*** suggests using the Lorentz transform to explain the connection between velocity and time, people call him a genius.
