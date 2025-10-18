@@ -12,6 +12,6 @@ img: https://imgs.xkcd.com/comics/hot_water_balloon_2x.png
 
 bloop bloop
 
-[Text below panel:]
+[Caption below panel:]
 
 Hot water balloon rides turn out to be significantly less romantic than the air kind.

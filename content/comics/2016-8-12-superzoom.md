@@ -3,7 +3,7 @@ date: 2016-08-12
 title: "Superzoom"
 num: 1719
 alt: >-
-  *click* Let him know he's got a stain on his shirt, though.
+  <nowiki>*</nowiki>click* Let him know he's got a stain on his shirt, though.
 img: https://imgs.xkcd.com/comics/superzoom.png
 ---
 [White Hat and Cueball are walking right. Cueball is looking down at a camera with a long lens he is holding in both hands.]

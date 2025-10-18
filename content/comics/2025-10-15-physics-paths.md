@@ -10,13 +10,11 @@ img: https://imgs.xkcd.com/comics/physics_paths_2x.png
 
 [Panel 1, Cueball has one hand out]
 
-Cueball: Einstein had an Insight that overturned physics,
-
-thus proving his value.
+Cueball: Einstein had an insight that overturned physics, thus proving his value.
 
 [Panel 2, Cueball has one hand on his chin]
 
-Cueball: I hope I have value. Ill try to have an insight that overturns physics, to check.
+Cueball: I hope ***I*** have value. I'll try to have an insight that overturns physics, to check.
 
 [arrow pointing down with the caption below in between]
 
@@ -30,6 +28,6 @@ Cueball: On no! My insight didn't overturn physics! But I don't think I'm worthl
 
 Cueball: Maybe this was not a well-thought-out test of my value.
 
-[Arrow from Panel 3 on the right labeled "Path of ruin" points to a panel with Cueball with his finger out and pointing up:]
+[Arrow from Panel 3 on the right labeled "Path of ruin" points to another panel with Cueball with his finger out and pointing up:]
 
 Cueball: The establishment must be ***suppressing*** my insight!
