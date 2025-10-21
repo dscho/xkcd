@@ -8,30 +8,36 @@ img: https://imgs.xkcd.com/comics/planetary_rings_2x.png
 ---
 {{incomplete transcript|Don't remove this notice too soon.}}
 
-[On the left side of the single panel, a table with words and checkboxes:]
+[On the left side of the single panel, a table with words in one column and checkboxes in the second:]
 
- Planet Rings? [Underline]
+[Two Column headers, underlined:]
 
- Mercury ☐
+Planet
 
- Venus ☐
+Rings?
 
- Earth ☑ [Red]
+[Table entries, by line:]
 
- Mars ☐
+Mercury [Unticked checkbox]
 
- Jupiter ☑
+Venus [Unticked checkbox]
 
- Saturn ☑
+Earth [Originally unticked checkbox, now with a red tick added]
 
- Uranus ☑
+Mars [Unticked checkbox]
 
- Neptune ☑
+Jupiter [Ticked checkbox]
 
-[On the right side of the single panel, a drawing of the Earth from space, with Africa in view. Many dots represent the satellites, and most of them are in an ellipse. An arrow points to it:]
+Saturn [Ticked checkbox]
+
+Uranus [Ticked checkbox]
+
+Neptune [Ticked checkbox]
+
+[On the right side of the single panel, an illustration of the Earth from space, with Africa most obvious and centrally in view. Many dots represent satellites, a lot of them close into the Earth but an even more significant number of them are in a very wide and tilted ellipse depicting a large circular orbit seen from a highly oblique angle. A labeled arrow points to it:]
 
 Geostationary satellite belt
 
 [Caption below the panel:]
 
- Astronomy fact: a century ago, Earth didn't have rings, but we have one now! It's where all the satellite dishes are pointed.
+ Astronomy fact: A century ago, Earth didn't have rings, but we have one now! It's where all the satellite dishes are pointed.
