@@ -34,7 +34,7 @@ Uranus [Ticked checkbox]
 
 Neptune [Ticked checkbox]
 
-[On the right side of the single panel, an illustration of the Earth from space, with Africa most obvious and centrally in view. Many dots represent satellites, a lot of them close into the Earth but an even more significant number of them are in a very wide and tilted ellipse depicting a large circular orbit seen from a highly oblique angle. A labeled arrow points to it:]
+[On the right side of the single panel, an illustration of the Earth from space, with Africa most obvious and centrally in view. Many dots represent satellites, a lot of them close into the Earth but an even more significant number of them are in a very wide and tilted ellipse depicting a large circular orbit seen from a highly oblique angle. A labeled arrow points to the ellipse:]
 
 Geostationary satellite belt
 

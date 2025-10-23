@@ -8,26 +8,24 @@ img: https://imgs.xkcd.com/comics/emperor_palpatine_2x.png
 ---
 {{incomplete transcript|Don't remove this notice too soon.}}
 
-[:A scatter chart with the y scale from 0 to 120 and x scale from 30 to 90]
+[A scatter chart with the Y scale from 0 to 120 and X scale from 30 to 90. The X axis is labeled "Emperor Palpatine character age" and Y axis is labeled "Ian McDiarmid age during filming".]
 
-[:X axis is emperor Palpatine character age and Y axis is Ian McDiarmid age during filming]
+[Point labeled "Return of the Jedi"] X value = ~39, Y value = ~87
 
-[:Point labeled return of the Jedi] x value = ~39 y value = ~87
+[Point labeled "The Phantom Menace"] X value = ~50, Y value = ~52
 
-[:Point labeled The phantom menace] x value = ~50 y value = ~52
+[Point labeled "Attack of the Clones"] X value = ~52, Y value = 61
 
-[:Point labeled Attack of the clones] x value = ~52 y value = 61
+[Point labeled "Revenge of the Sith"] X value = ~60, Y value = ~62
 
-[:Point labeled Revenge of the Sith] x value = ~60 y value = ~62
+[Vertical line with gradient labeled "The Rise of Skywalker (cloned body, undefined age)". The gradient is darkest around the Y values from 40 to 50, and becomes lighter towards either extreme of the Y axis. It stops when it touches the black arrow mentioned later.] X value = ~75
 
-[:Large unfilled circle labeled Now] x value = ~81 y value = ~4
+[Hollow circle with a dashed outline labeled "Now"] X value = ~81, Y value = ~4
 
-[:Vertical Line with gradient labeled Rise of Skywalker (cloned body, undefined age)] x value = ~75
+[A thick black arrow trending downwards from "Return of the Jedi" pointing near "The Phantom Menace", "Attack of the Clones", and "Revenge of the Sith". "The Phantom Menace" is below it and "Attack of the Clones" and "Revenge of the Sith" are above it.]
 
-[:A two large arrows trending downwards with some spots being near some points, and one arrow is ends at ~x=52 and the other one starts at ~x=54]
+[Another thick black arrow trending downwards from "The Phantom Menace" and nearby points to the "Now" circle.]
 
-[:caption beneath panel]
+[Caption beneath panel]
 
-To continue the trend, they should make a star wars movie
-
-Where 81-year-old Ian Mcdiarmid plays the emperor as a toddler.
+To continue the trend, they should make a Star Wars movie where 81-year-old Ian McDiarmid plays the Emperor as a toddler.
