@@ -12,7 +12,7 @@ img: https://imgs.xkcd.com/comics/locke_and_demosthenes.png
 
 Valentine: Ender's up there saving the world, but down here it's falling apart politically. What can we do?
 
-[Peter turns towards and sits down, leaning back on one hand. Valentine sits up in a similar position. Her hair looks like a mix between Megan and Hairbun's hair. The squirrel behind Peter is bending over the food Peter has thrown out for it.]
+[Peter turns towards and sits down, leaning back on one hand. Valentine sits up in a similar position. Her hair looks like a mix between Megan and Hairbun's hair. The squirrel behind Peter is bending over and has vomited out the food.] <!--the squirrel is vomiting, per the official xkcd transcript as mentioned above: https://xkcd.com/635/info.0.json-->
 
 Peter: I know — we get on the nets and anonymously post political opinions. People reading our articles will see our intelligence, recognize how clear and logical our arguments are, and insist that we be put in charge, so we can fix everything!
 

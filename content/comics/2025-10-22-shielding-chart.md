@@ -8,226 +8,472 @@ img: https://imgs.xkcd.com/comics/shielding_chart_2x.png
 ---
 {{incomplete transcript|Don't remove this notice too soon.}}
 
-The whole comic is in one panel
+[The whole comic is in one panel]
 
-A confusion matrix sits in the middle
+[A 10x10 matrix sits in the middle with rows labelled as follows:]
 
-Air:
+Gamma Rays
 
-\*Gamma rays - Yellow
+Neutrons
 
-\*Neutrons - Yellow
+Alpha Particles
 
-\*Alpha particles - Gray
+Light
 
-\*Light - yellow
+Sound
 
-\*Sound - yellow
+Heat
 
-\*Heat - yellow
+Swords
 
-\*Swords - yellow
+Toxic Dust
 
-\*Toxic dust - yellow
+Radio
 
-\*Radio - yellow
+Sharks
 
-\*Sharks - gray
+[The columns are
 
-Lead:
+Air
 
-\*Gamma rays - Gray
+Lead
 
-\*Neutrons - Yellowish-grey
+Water
 
-\*Alpha particles -
+Glass
 
-\*Light
+Vacuum
 
-\*Sound
+Oven Mitts
 
-\*Heat
+Armour
 
-\*Swords
+Bio-Hazard Suit
 
-\*Toxic dust
+Faraday Cage
 
-\*Radio
+Shark Cage
 
-\*Sharks
+<!--first each row theme is described, then each tile across that row (what vs. what, which colour; then what's drawn there)... rinse, repeat -->
 
-Water:
+[In all of the Gamma ray boxes, cuball stands next to a  table with a gamma ray emitter on it and a geiger counter on his arm]
 
-\*Gamma rays
+[Gamma Rays vs. Air tile - yellow]
 
-\*Neutrons
+[The geiger counter on his arm beeps 3 times.]
 
-\*Alpha particles
+[Gamma Rays vs. Lead - gray]
 
-\*Light
+[The gamma ray emitter and the table are encased in lead - the geiger counter does not beep.]
 
-\*Sound
+[Gamma Rays vs. Water -  grayish-yellow]
 
-\*Heat
+[The gamma ray emitter and table are in a large glass of water, the geiger counter beeps once]
 
-\*Swords
+[Gamma Rays vs. Glass - yellow]
 
-\*Toxic dust
+[Only the gamma ray emitter is inside a glass dome, the geiger counter beeps 3 times]
 
-\*Radio
+[Gamma Rays vs. Vacuum - yellow
 
-\*Sharks
+[the table is replaced by a box- containing the gamma ray emitter, Cuball is floating in space with part of earth behind him, his geiger counter beeps 3 times]
 
-\*Glass:
+<!-- PLACEHOLDER: just bare bones follows, ready for plaintext-described colours (do \*not\* do HTML font-color, etc!) and scene descriptions from someone(s) with the time to progress through them -->
 
-\*Gamma rays
+[Gamma Rays vs. Oven Mitts -
 
-\*Neutrons
+[]
 
-\*Alpha particles
+[Gamma Rays vs. Armour -
 
-\*Light
+[]
 
-\*Sound
+[Gamma Rays vs. Bio-Hazard Suit -
 
-\*Heat
+[]
 
-\*Swords
+[Gamma Rays vs. Faraday Cage -
 
-\*Toxic dust
+[]
 
-\*Radio
+[Gamma Rays vs. Shark Cage -
 
-\*Sharks
+[]
 
-Vacuum:
+[Neutrons general row-theme description
 
-\*Gamma rays
+[Neutrons vs. Air -
 
-\*Neutrons
+[]
 
-\*Alpha particles
+[Neutrons vs. Lead -
 
-\*Light
+[]
 
-\*Sound
+[Neutrons vs. Water -
 
-\*Heat
+[]
 
-\*Swords
+[Neutrons vs. Glass -
 
-\*Toxic dust
+[]
 
-\*Radio
+[Neutrons vs. Vacuum -
 
-\*Sharks
+[]
 
-Oven mitts:
+[Neutrons vs. Oven Mitts -
 
-\*Gamma rays
+[]
 
-\*Neutrons
+[Neutrons vs. Armour -
 
-\*Alpha particles
+[]
 
-\*Light
+[Neutrons vs. Bio-Hazard Suit -
 
-\*Sound
+[]
 
-\*Heat
+[Neutrons vs. Faraday Cage -
 
-\*Swords
+[]
 
-\*Toxic dust
+[Neutrons vs. Shark Cage -
 
-\*Radio
+[]
 
-\*Sharks
+[Alpha Particles general row theme description
 
-Armor:
+[Alpha Particles vs. Air -
 
-\*Gamma rays
+[]
 
-\*Neutrons
+[Alpha Particles vs. Lead -
 
-\*Alpha particles
+[]
 
-\*Light
+[Alpha Particles vs. Water -
 
-\*Sound
+[]
 
-\*Heat
+[Alpha Particles vs. Glass -
 
-\*Swords
+[]
 
-\*Toxic dust
+[Alpha Particles vs. Vacuum -
 
-\*Radio
+[]
 
-\*Sharks
+[Alpha Particles vs. Oven Mitts -
 
-Biohazard suit:
+[]
 
-\*Gamma rays
+[Alpha Particles vs. Armour -
 
-\*Neutrons
+[]
 
-\*Alpha particles
+[Alpha Particles vs. Bio-Hazard Suit -
 
-\*Light
+[]
 
-\*Sound
+[Alpha Particles vs. Faraday Cage -
 
-\*Heat
+[]
 
-\*Swords
+[Alpha Particles vs. Shark Cage -
 
-\*Toxic dust
+[]
 
-\*Radio
+[Light general row theme description
 
-\*Sharks
+[Light vs. Air -
 
-Faraday cage:
+[]
 
-\*Gamma rays
+[Light vs. Lead -
 
-\*Neutrons
+[]
 
-\*Alpha particles
+[Light vs. Water -
 
-\*Light
+[]
 
-\*Sound
+[Light vs. Glass -
 
-\*Heat
+[]
 
-\*Swords
+[Light vs. Vacuum -
 
-\*Toxic dust
+[]
 
-\*Radio
+[Light vs. Oven Mitts -
 
-\*Sharks
+[]
 
-Shark cage:
+[Light vs. Armour -
 
-\*Gamma rays
+[]
 
-\*Neutrons
+[Light vs. Bio-Hazard Suit -
 
-\*Alpha particles
+[]
 
-\*Light
+[Light vs. Faraday Cage -
 
-\*Sound
+[]
 
-\*Heat
+[Light vs. Shark Cage -
 
-\*Swords
+[]
 
-\*Toxic dust
+[Sound general row theme description
 
-\*Radio
+[Sound vs. Air -
 
-\*Sharks
+[]
+
+[Sound vs. Lead -
+
+[]
+
+[Sound vs. Water -
+
+[]
+
+[Sound vs. Glass -
+
+[]
+
+[Sound vs. Vacuum -
+
+[]
+
+[Sound vs. Oven Mitts -
+
+[]
+
+[Sound vs. Armour -
+
+[]
+
+[Sound vs. Bio-Hazard Suit -
+
+[]
+
+[Sound vs. Faraday Cage -
+
+[]
+
+[Sound vs. Shark Cage -
+
+[]
+
+[Heat general row theme description
+
+[Heat vs. Air -
+
+[]
+
+[Heat vs. Lead -
+
+[]
+
+[Heat vs. Water -
+
+[]
+
+[Heat vs. Glass -
+
+[]
+
+[Heat vs. Vacuum -
+
+[]
+
+[Heat vs. Oven Mitts -
+
+[]
+
+[Heat vs. Armour -
+
+[]
+
+[Heat vs. Bio-Hazard Suit -
+
+[]
+
+[Heat vs. Faraday Cage -
+
+[]
+
+[Heat vs. Shark Cage -
+
+[]
+
+[Swords general row theme description
+
+[Swords vs. Air -
+
+[]
+
+[Swords vs. Lead -
+
+[]
+
+[Swords vs. Water -
+
+[]
+
+[Swords vs. Glass -
+
+[]
+
+[Swords vs. Vacuum -
+
+[]
+
+[Swords vs. Oven Mitts -
+
+[]
+
+[Swords vs. Armour -
+
+[]
+
+[Swords vs. Bio-Hazard Suit -
+
+[]
+
+[Swords vs. Faraday Cage -
+
+[]
+
+[Swords vs. Shark Cage -
+
+[]
+
+[Toxic Dust general row theme description
+
+[Toxic Dust vs. Air -
+
+[]
+
+[Toxic Dust vs. Lead -
+
+[]
+
+[Toxic Dust vs. Water -
+
+[]
+
+[Toxic Dust vs. Glass -
+
+[]
+
+[Toxic Dust vs. Vacuum -
+
+[]
+
+[Toxic Dust vs. Oven Mitts -
+
+[]
+
+[Toxic Dust vs. Armour -
+
+[]
+
+[Toxic Dust vs. Bio-Hazard Suit -
+
+[]
+
+[Toxic Dust vs. Faraday Cage -
+
+[]
+
+[Toxic Dust vs. Shark Cage -
+
+[]
+
+[Radio general row theme description
+
+[Radio vs. Air -
+
+[]
+
+[Radio vs. Lead -
+
+[]
+
+[Radio vs. Water -
+
+[]
+
+[Radio vs. Glass -
+
+[]
+
+[Radio vs. Vacuum -
+
+[]
+
+[Radio vs. Oven Mitts -
+
+[]
+
+[Radio vs. Armour -
+
+[]
+
+[Radio vs. Bio-Hazard Suit -
+
+[]
+
+[Radio vs. Faraday Cage -
+
+[]
+
+[Radio vs. Shark Cage -
+
+[]
+
+[Sharks general row theme description
+
+[Sharks vs. Air -
+
+[]
+
+[Sharks vs. Lead -
+
+[]
+
+[Sharks vs. Water -
+
+[]
+
+[Sharks vs. Glass -
+
+[]
+
+[Sharks vs. Vacuum -
+
+[]
+
+[Sharks vs. Oven Mitts -
+
+[]
+
+[Sharks vs. Armour -
+
+[]
+
+[Sharks vs. Bio-Hazard Suit -
+
+[]
+
+[Sharks vs. Faraday Cage -
+
+[]
+
+[Sharks vs. Shark Cage -
+
+[]
