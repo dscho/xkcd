@@ -16,7 +16,7 @@ Cueball: Why does my script keep dying?
 
 Man: And a lock invites you to try and open it. It's the hacker instinct. Only your ignorance stands in the way.
 
-Cueball: Wait it's passing bad strings.
+Cueball: Wait, it's passing bad strings.
 
 [Returns to the two shot of both men.]
 

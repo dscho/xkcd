@@ -8,10 +8,10 @@ img: https://imgs.xkcd.com/comics/continents_2x.png
 ---
 {{incomplete transcript|Don't remove this notice too soon.}}
 
-<p>[Two spacecraft, a Gemini capsule and an Agena Target Vehicle with a loose tether connecting them, are in space over the Mediterranean with Italy in the background]</p>
+[Two spacecraft, a Gemini capsule and an Agena Target Vehicle with a loose tether connecting them, are in space over the Mediterranean with Italy and other parts of southern Western Europe in the background and Tunisia in the foreground. A voice is emanating from the spacecraft]
 
-Spacecraft: Houston, the view is superb. We can see the continents spread out below us, right where they've been since the earth formed.
+Spacecraft: Houston, the view is superb. We can see the continents spread out below us, right where they've been since the Earth formed.
 
-<p>[Caption beneath panel:]</p>
+[Caption below the panel:]
 
 I still can't believe we developed spaceflight before we figured out that the continents moved.
