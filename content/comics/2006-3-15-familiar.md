@@ -3,7 +3,7 @@ date: 2006-03-15
 title: "Familiar"
 num: 76
 alt: >-
-  :(
+  <nowiki>:(</nowiki>
 img: https://imgs.xkcd.com/comics/familiar.jpg
 ---
 [Hairy and Megan are talking]

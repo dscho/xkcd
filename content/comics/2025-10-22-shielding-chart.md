@@ -292,13 +292,13 @@ Shark Cage
 
 [Megan is yelling at Cueball, standing within his mesh cage with his hands over his ears.]
 
-[Cueball:] AAAAAAAA!
+[Megan:] AAAAAAAA!
 
 [Sound vs. Shark Cage - yellow tile]
 
 [Megan yells, as Cueball holds his hands over his ears behind the bars of the cage.]
 
-[Cueball:] AAAAAAAA!
+[Megan:] AAAAAAAA!
 
 [The row depicting Fire tends to show a small campfire, or other more expansive flames. In all but one case, Cueball is present. In most of these instances, he is holding a marshmallow, sometimes at the end of a long stick.]
 
@@ -362,170 +362,244 @@ Shark Cage
 
 <!-- PLACEHOLDER: just bare bones follows, ready for plaintext-described colours (do \*not\* do HTML font-color, etc!) and scene descriptions from someone(s) with the time to progress through them -->
 
-[Megan is thrusting a Sword rightwards, towards/into Cueball, in this row. Cueball also holds a sword, in all but one case, but lowered and not in a defensive manner.]
+[Megan is thrusting a sword rightwards, towards/into Cueball, in this row. Cueball also holds a sword, in all but one case, but lowered and not in a defensive manner.]
 
-[Swords vs. Air -
+[Swords vs. Air - yellow tile]
 
-[]
+[Megan is poking Cueball with a sword.]
 
-[Swords vs. Lead -
+[Cueball:] Ow.
 
-[]
+[Swords vs. Lead - gray tile]
 
-[Swords vs. Water -
+[Cueball is standing in a lead container as Megan hits her sword against the outside of it, making a metallic sound:] Clank
 
-[]
+[Swords vs. Water - yellow tile]
 
-[Swords vs. Glass -
+[Cueball and Megan are both underwater, wearing diving gear. Megan is poking Cueball with her sword.]
 
-[]
+[Cueball:] Ow.
 
-[Swords vs. Vacuum -
+[Swords vs. Glass - yellow tile]
 
-[]
+[Megan is standing in her person-sized bell jar; however, she has smashed a hole in the side and is now poking Cueball with her sword through the hole.]
 
-[Swords vs. Oven Mitts -
+[Cueball:] Ow.
 
-[]
+[Swords vs. Vacuum - yellow tile]
 
-[Swords vs. Armor -
+[Cueball and Megan are floating in space, wearing spacesuits. Megan is poking Cueball with her sword.]
 
-[]
+[Cueball:] Ow.
 
-[Swords vs. Bio-Hazard Suit -
+[Swords vs. Oven Mitts - yellow tile]
 
-[]
+[Cueball stands next to Megan, wearing oven mitts. Megan is poking him with her sword.]
 
-[Swords vs. Faraday Cage -
+[Cueball:] Ow.
 
-[]
+[Swords vs. Armor - gray tile]
 
-[Swords vs. Shark Cage -
+[Cueball is standing in a suit of armor next to Megan. She tries to poke him but cannot penetrate the armor, instead producing a metallic "clink"]
 
-[]
+[Cueball:] Ha!
+
+[Swords vs. Bio-Hazard Suit - yellow tile]
+
+[Cueball is wearing his biohazard suit as Megan pokes him with her sword.]
+
+[Cueball:] Ow.
+
+[Swords vs. Faraday Cage - yellow tile]
+
+[Cueball is standing inside a person-sized Faraday cage as Megan pokes him with her sword through the mesh.]
+
+[Cueball:] Ow.
+
+[Swords vs. Shark Cage - yellow tile]
+
+[Cueball is standing inside of a shark cage as Megan pokes him with her sword through the bars.]
+
+[Cueball:] Ow.
 
 [Clouds, and further particulate specks, illustrate the Toxic Dust row, in several cases apparently being discharged by a burning brazier. All tiles have Cueball in the scene.]
 
-[Toxic Dust vs. Air -
+[Toxic Dust vs. Air - yellow tile]
 
-[]
+[Cueball is standing next to a container resembling a metal trash can, with flames visible on top and a cloud of smoke and particulates rising from the flames.]
 
-[Toxic Dust vs. Lead -
+[Toxic Dust vs. Lead - grayish-yellow tile]
 
-[]
+[The burning trash can is encased in a rectangular lead box. Cueball is touching the outside of the lead box as a few particulates are coming off of it.]
 
-[Toxic Dust vs. Water -
+[Cueball: This shield is also *producing* toxic dust.]
 
-[]
+[Toxic Dust vs. Water - yellow tile]
 
-[Toxic Dust vs. Glass -
+[Cueball and Megan are both standing (presumably) outside, watching as particulates hover in the air. There are a few clouds present as well.]
 
-[]
+[Cueball: Don't worry, this will all be safely absorbed by the groundwater.]
 
-[Toxic Dust vs. Vacuum -
+[Toxic Dust vs. Glass - gray tile]
 
-[]
+[Cueball is standing in a person-sized bell jar as toxic dust floats around the outside of it.]
 
-[Toxic Dust vs. Oven Mitts -
+[Toxic Dust vs. Vacuum - yellow tile]
 
-[]
+[Cueball is floating in space next to a satellite with an open hatch that is emitting toxic dust.]
 
-[Toxic Dust vs. Armor -
+[Satellite: Achoo!]
 
-[]
+[Cueball: My suit!]
 
-[Toxic Dust vs. Bio-Hazard Suit -
+[Toxic Dust vs. Oven Mitts - yellow tile]
 
-[]
+[Cueball is standing next to the burning trash can and covering his face with an oven-mitted hand.]
 
-[Toxic Dust vs. Faraday Cage -
+[Cueball: *Cough*]
 
-[]
+[Toxic Dust vs. Armor - yellow tile]
 
-[Toxic Dust vs. Shark Cage -
+[Cueball is standing next to the burning trash can in a suit of armor.]
 
-[]
+[Cueball: *Cough*]
+
+[Toxic Dust vs. Bio-Hazard Suit - gray tile]
+
+[Cueball is standing next to the burning trash can while wearing his biohazard suit. He is unaffected by the toxic dust it is producing.]
+
+[Toxic Dust vs. Faraday Cage - yellow tile]
+
+[Cueball is standing next to the burning trash can in a person-sized Faraday cage.]
+
+[Cueball: *Cough*]
+
+[Toxic Dust vs. Shark Cage - yellow tile]
+
+[Cueball is standing in a shark cage next to the burning trash can.]
+
+[Cueball: *Cough*]
 
 [Cueball tends to carry a two-way radio handset, in the Radio row, except where the transceiver appears to be part of the various protective suits that he is wearing.]
 
-[Radio vs. Air -
+[Radio vs. Air - yellow tile]
 
-[]
+[Cueball is holding a handheld two-way radio in his right hand, close to his face, and speaking into it. A voice from the radio is responding to him.]
 
-[Radio vs. Lead -
+[Cueball: Eagle Base, come in.]
 
-[]
+[Radio: Go ahead.]
 
-[Radio vs. Water -
+[Radio vs. Lead - gray tile
 
-[]
+[Cueball is standing inside a lead box, again holding the radio close to his face.]
 
-[Radio vs. Glass -
+[Cueball: Eagle Base, come in? Hello?]
 
-[]
+[Radio vs. Water - gray tile]
 
-[Radio vs. Vacuum -
+[Cueball is underwater, in a diving suit. He is once again holding a hand radio. Bubbles are rising from his helmet and a shark is swimming underneath him.]
 
-[]
+[Cueball: Hello?]
 
-[Radio vs. Oven Mitts -
+[Radio vs. Glass - yellow tile]
 
-[]
+[Cueball is standing inside a person-sized bell jar, holding the radio close to his face.]
 
-[Radio vs. Armor -
+[Cueball: Is this... part of the mission?]
 
-[]
+[Radio: Sure.]
 
-[Radio vs. Bio-Hazard Suit -
+[Radio vs. Vacuum - yellow tile]
 
-[]
+[Cueball is floating in space next to the satellite. He is not visibly holding a radio, implying that it is integrated into his spacesuit.]
 
-[Radio vs. Faraday Cage -
+[Cueball: Eagle Base, I have the package.]
 
-[]
+[Radio vs. Oven Mitts - yellow tile
 
-[Radio vs. Shark Cage -
+[Cueball is wearing oven mitts while holding the radio close to his face.]
 
-[]
+[Cueball: Eagle Base, tactical mitts acquired.]
+
+[Radio: Copy that.]
+
+[Radio vs. Armor - gray tile]
+
+[Cueball is standing in a suit of armor. He is not visibly holding a radio.]
+
+[Cueball: Repeat that? My suit radio is having issues.]
+
+[Radio vs. Bio-Hazard Suit - yellow tile]
+
+[Cueball is wearing his biohazard suit. He is not visibly holding a radio.]
+
+[Cueball: Copy that.]
+
+[Radio vs. Faraday Cage - gray tile
+
+[Cueball is standing inside a person-sized Faraday cage, holding the radio close to his face.]
+
+[Cueball: Eagle Base? Come in?]
+
+[Radio vs. Shark Cage - yellow tile]
+
+[Cueball is standing in a shark cage, holding the radio close to his face.]
+
+[Cueball: Eagle Base, why am I-]
+
+[Radio: Don't worry about it.]
 
 [Each tile in the Shark row depicts a shark, except when only the shark's fin is seen emerging from a body of water. Cueball is somehow present in each case.]
 
-[Sharks vs. Air -
+[Sharks vs. Air - gray tile]
 
-[]
+[Cueball is standing on land next to a body of water. A shark fin is protruding from the surface of the water.]
 
-[Sharks vs. Lead -
+[Sharks vs. Lead - gray tile]
 
-[]
+[Cueball, wearing diving gear, is standing on the ocean floor in a person-sized lead container. A few small fish are swimming above and to the left of him and a shark is floating below the fish.]
 
-[Sharks vs. Water -
+[Sharks vs. Water - yellow tile]
 
-[]
+[Cueball is again underwater, wearing diving gear. He is very close to a shark and seems to be pointing at it.]
 
-[Sharks vs. Glass -
+[Cueball: Kitty!]
 
-[]
+[Sharks vs. Glass - gray tile]
 
-[Sharks vs. Vacuum -
+[The shark is now in a water tank, behind a wall of glass. Cueball and Megan are standing next to the tank, looking at what is likely an informative plaque in front of it.]
 
-[]
+[Sharks vs. Vacuum - gray tile]
 
-[Sharks vs. Oven Mitts -
+[Cueball is floating in space. Earth is visible in the background, with a shark fin visibly protruding from a body of water.]
 
-[]
+[Sharks vs. Oven Mitts - yellow tile]
 
-[Sharks vs. Armor -
+[Cueball is underwater, wearing diving gear and oven mitts, he gently touches the shark's snout.]
 
-[]
+[Cueball:] *Boop!*
 
-[Sharks vs. Bio-Hazard Suit -
+[Sharks vs. Armor - grayish-yellow tile]
 
-[]
+[Cueball is underwater, now wearing a suit of armor. The shark appears to be biting his armored right hand.]
 
-[Sharks vs. Faraday Cage -
+[Shark:] cronch cronch
 
-[]
+[Cueball:] Ow.
 
-[Sharks vs. Shark Cage -
+[Sharks vs. Bio-Hazard Suit - yellow tile]
 
-[]
+[Cueball, underwater and wearing his biohazard suit, is now petting the shark on its snout.]
+
+[Cueball:] Good kitty!
+
+[Sharks vs. Faraday Cage - yellow tile]
+
+[Cueball is inside an underwater Faraday cage, which is suspended by a tether going straight up. The shark is in the process of tearing apart the cage.]
+
+[Cueball:] *No! Bad kitty!*
+
+[Sharks vs. Shark Cage - gray tile]
+
+[Cueball is underwater, in a shark cage suspended from one side by a tether going straight up. The shark is swimming a short distance away from the cage.]
