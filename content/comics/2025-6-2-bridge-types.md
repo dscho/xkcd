@@ -12,34 +12,34 @@ Bridge Types
 
 [A 4x4 matrix of 16 ways to cross the same rectangular hole in the ground]
 
-Plank [shows a plank laid over the hole]
+Plank [A plank laid over the hole, with Cueball standing on the left side of the plank, just past the edge of the hole.]
 
-Rope [shows a rope bridge with rope guardrail]
+Rope [A rope bridge with rope guardrail. Cueball is standing in the middle, causing the bridge to sag about one Cueball-length down.]
 
-Truss [shows a truss bridge with a triangular truss above the bridge deck]
+Truss [A truss bridge with a triangular truss above the bridge deck. Cueball is visible in the center of the third truss from the left.]
 
-Trestle [shows a trestle bridge]
+Trestle [A trestle bridge, slightly higher than the edges of the hole, with small ramps at either end. Cueball is standing about a third of the way from the left.]
 
-Arch [shows stone arches supporting a straight deck]
+Arch [A straight deck, supported by what looks like three stone or brick arches. Cueball is notably absent.]
 
-Suspended Arch [shows a single arch, with the bridge deck suspended from it]
+Suspended Arch [A single large arch spanning the entire gap, with the bridge deck suspended from the arch by nine support cables. Cueball is standing approximately in the middle, between the fourth and fifth cables from the left.]
 
-Draw [shows a truss bridge, with one half opened like an unrealistic draw bridge]
+Draw [A truss bridge split into two parts, the right half supported by a single straight pillar in the hole and the left half being pulled upwards by a large winch. One Cueball is standing on the outermost part of the left half and another is standing on the innermost part of the right half, directly over the pillar.]
 
-Suspension [shows the bridge deck suspended from a cable strung between two pillars and the shores]
+Suspension [A bridge deck supported by cables hung from two pillars and going to the edges of the hole, with smaller cables linking those to the deck. Cueball is standing just left of center on the bridge.]
 
-Filler [shows the hole filled with dirt and stones]
+Filler [The hole is filled with rocks, which are larger than Cueball at the bottom but diminish in size the further up they are. Cueball is standing a third of the way from the left edge of the hole.]
 
-Budget Overrun [shows a bridge deck suspended by cables from an artistically shaped pillar]
+Budget Overrun [A bridge deck suspended from a single pillar that starts in the bottom left corner of the hole, then angles to the right such that the top of it is above the middle of the deck. Nine support cables are visible, but another one is likely behind the pillar itself. Cueball is standing between the thoitd and fourth cables from the right.]
 
-Jump [shows two ramps at the edges of the hole, and a skateboarder jumping across the hole]
+Jump [Ramps are present on both sides of the hole. Cueball, riding a skateboard, is in the air approximately a third of the way from the left, indicating that he has jumped off of the left ramp.]
 
-Halfhearted [shows a ramp at each side of the hole that leads down to the bottom]
+Halfhearted [A simple bridge deck, sagging so much that the majority of it is on the floor of the hole. Cueball is standing in the hole, about two-fifths of the way from the left.]
 
-Waterbed [shows the hole filled with water, two fish and an octopus, a wobbly covering, and two stick figures crossing]
+Waterbed [The hole is now full of water, with two fish and an octopus visible in the water. Two Cueballs are crossing, and seem to be struggling to maintain their balance as the bridge warps and undulates under their feet.]
 
-L'Engle [shows the hole warped such that the opposite shores meet]
+L'Engle [There is no bridge; instead, the terrain itself is warped such that the top corners appear to be pulled together to join in the center, with arrows illustrating their movement, although there is still a void in the lower center of the hole. Cueball is hopping from the left protrusion to the right.]
 
-Fun [shows a loop-de-loop rollercoaster bridging the hole, and a skateboarder using it to get across, there are numerous piles/struts/vertical-sulports supporting the rollercoaster, both where it is flat and reaching up to elevate the looping roadway]
+Fun [The bridge does a rollercoaster-style loop in the center. The entirety of the bridge is supported by vertical struts. Cueball, on a skateboard, is halfway to the top of the loop.]
 
-Repurposed Elevator [shows an elevator tower, rotated sideways as a whole, laid across the hole. 2 stick figures using the elevator are also rotated.]
+Repurposed Elevator [Instead of a bridge, there is an elevator tower rotated on its side, with 7 evenly spaced exits. One Cueball is standing to the left of the elevator tower, one Cueball is on top of it and appears to be hugging it, and one Cueball is in the elevator carriage on the "seventh floor," on the right side of the hole.]

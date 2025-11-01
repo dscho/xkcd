@@ -6,8 +6,6 @@ alt: >-
   If you don't know where you are on Earth, the angle of satellite dishes can help constrain your latitude. If some of them are pointing straight up, you're probably near the Equator, right under the ring.
 img: https://imgs.xkcd.com/comics/planetary_rings_2x.png
 ---
-{{incomplete transcript|Don't remove this notice too soon.}}
-
 [On the left side of the single panel, a table with words in one column and checkboxes in the second:]
 
 [Two Column headers, underlined:]

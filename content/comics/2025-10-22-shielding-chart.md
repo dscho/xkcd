@@ -32,7 +32,7 @@ Radio
 
 Sharks
 
-[The columns are
+[The columns are:]
 
 Air
 
