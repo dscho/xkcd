@@ -16,11 +16,11 @@ Cueball: We haven't checked in on the Geology Department for a while. I wonder i
 
 Ponytail: I'll go see what they're up to.
 
-[Ponytail opens a door to a room. White Hat, Megan, and another Cueball are looking at a chart on the wall, and the other Cueball is pointing at it. Most of the chart is illegible, but near the top it says "90 MPH", and there's a diagram of geologic strata.]
+[Ponytail is now seen having opened a door at the left side of a room, within which White Hat, Megan and another Cueball are looking at a chart on the wall, the other Cueball gesturing towards the chart. Most of the chart is illegible, but near the top it says "90 MPH", and below that there's a diagram of geologic strata, with the label "Bighorn Dolomite", upon which a sharply rectangular and isolated rock 'block' is depicted. The rock block has speed-lines indicating its rapid movement from left to right.]
 
 Cueball: 49 million years ago, Heart Mountain, Wyoming slid sideways 15 miles like a giant stone hovercraft.
 
-[Ponytail walks back to the Cueball from the first panel.]
+[Ponytail walks back to the Cueball from the first panel's scene.]
 
 Ponytail: ... They're not okay.
 

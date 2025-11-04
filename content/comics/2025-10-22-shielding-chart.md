@@ -184,7 +184,7 @@ Shark Cage
 
 [Again, the source, on its table, is right next to the bars of the cage. And, again, Cueball is pressed right up against (and perhaps through) the inside edge of the cage. Three beeps sound:] Beep Beep Beep
 
-[Megan points a brightly lit battery torch towards Cueball, in an attempt to inflict the effects of Light upon him.]
+[In all of the light boxes, Megan points a brightly lit battery torch towards Cueball.]
 
 [Light vs. Air - yellow tile]
 
@@ -238,7 +238,7 @@ Shark Cage
 
 [Cueball:] Ow.
 
-[In most cases, Megan appears to be screaming in Cueball's direction, to depict the incidence of Sound.]
+[In most of the sound boxes, Megan appears to be screaming in Cueball's direction.]
 
 [Sound vs. Air - yellow tile]
 
@@ -300,7 +300,7 @@ Shark Cage
 
 [Megan:] AAAAAAAA!
 
-[The row depicting Fire tends to show a small campfire, or other more expansive flames. In all but one case, Cueball is present. In most of these instances, he is holding a marshmallow, sometimes at the end of a long stick.]
+[All of the fire boxes show a small campfire, or other more expansive flames. In all but one case, Cueball is present. In most of these instances, he is holding a marshmallow, sometimes at the end of a long stick.]
 
 [Heat vs. Air - yellow tile]
 
@@ -362,7 +362,7 @@ Shark Cage
 
 <!-- PLACEHOLDER: just bare bones follows, ready for plaintext-described colours (do \*not\* do HTML font-color, etc!) and scene descriptions from someone(s) with the time to progress through them -->
 
-[Megan is thrusting a sword rightwards, towards/into Cueball, in this row. Cueball also holds a sword, in all but one case, but lowered and not in a defensive manner.]
+[In all of the sword boxes, Megan is thrusting a sword rightwards, towards/into Cueball, in this row. Cueball also holds a sword, in all but one case, but lowered and not in a defensive manner.]
 
 [Swords vs. Air - yellow tile]
 
@@ -422,7 +422,7 @@ Shark Cage
 
 [Cueball:] Ow.
 
-[Clouds, and further particulate specks, illustrate the Toxic Dust row, in several cases apparently being discharged by a burning brazier. All tiles have Cueball in the scene.]
+[In all of the tiles in the Toxic Dust row, clouds, and further particulate specks, illustrate the toxic dust, in several cases, apparently being discharged by a burning brazier. All tiles have Cueball in the scene.]
 
 [Toxic Dust vs. Air - yellow tile]
 
@@ -480,7 +480,7 @@ Shark Cage
 
 [Cueball: *Cough*]
 
-[Cueball tends to carry a two-way radio handset, in the Radio row, except where the transceiver appears to be part of the various protective suits that he is wearing.]
+[Most tiles in the radio row depict Cueball carrying a two-way radio handset, except where the transceiver appears to be part of the various protective suits that he is wearing.]
 
 [Radio vs. Air - yellow tile]
 
@@ -550,7 +550,7 @@ Shark Cage
 
 [Radio: Don't worry about it.]
 
-[Each tile in the Shark row depicts a shark, except when only the shark's fin is seen emerging from a body of water. Cueball is somehow present in each case.]
+[All tiles in the Shark row depict a shark, except when only the shark's fin is seen emerging from a body of water. Cueball is somehow present in each case.]
 
 [Sharks vs. Air - gray tile]
 

@@ -14,13 +14,29 @@ img: https://imgs.xkcd.com/comics/alignment_chart_alignment_chart.png
 
 Soil Chart
 
-[describe this chart here]
+[The diagram is a triangle split into several sections. The left side of the triangle is labeled "Clay" going up, the right side is labeled "Silt" going down, and the bottom is labeled "Loam" going left. The sections are labeled as follows, going left to right, top to bottom:]
 
 \* Clay
 
+\* [unintelligible, probably "sandy"] Clay
+
 \* Silty Clay
 
-\* […]
+\* Clay Loam
+
+\* Silty Clay Loam
+
+\* Sandy Clay Loam
+
+\* Loam
+
+\* Silt Loam
+
+\* [unintelligible, probably "Sand"]
+
+\* [unintelligible, probably "Loamy Sand"]
+
+\* Silt
 
 Lawful Good
 
@@ -44,7 +60,7 @@ Chaotic Good
 
 Phase Diagram
 
-[describe this chart here]
+[The diagram is a simple square chart labeled "Heat" along the x-axis and "Pressure" along the y-axis. One section, labeled "Solid," is a wavy triangle that encompasses the left side of the chart, tapering off toward the bottom until it comes to a point just above the bottom. Another section, labeled "Gas," shares a border with the "Solid" section but splits off about halfway up and continues to about 3/4 of the way up the right side. The final section, labeled "Liquid," occupies the rest of the space in the chart.]
 
 Lawful Neutral
 
