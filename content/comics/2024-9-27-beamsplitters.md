@@ -10,21 +10,11 @@ img: https://imgs.xkcd.com/comics/beamsplitters_2x.png
 
 [Cross section of a telescope with some parts of the image darkened to represent the path of light, with portions where the light would be more concentrated being darker]
 
-[Labels with arrows as they appear left to right, top to bottom:]
+[A large column of light comes in from the left panel border, labeled "Incoming Light."]
 
-Incoming Light
+[The "Incoming Light" column is focused by a large curved mirror labeled "Primary Mirror," then focused again by a much smaller mirror labeled "Secondary Mirror."]
 
-Primary Mirror
-
-Secondary Mirror
-
-Beamsplitter
-
-Sensor
-
-Secret Solar Panel
-
-Power Sold To Grid
+[After bouncing off the secondary mirror, it passes through a beamsplitter. Half of the light passes through to a sensor, but the other half is reflected into a secret Solar Panel connected to a battery labeled "Power sold to grid."]
 
 [Caption below the panel:]
 

@@ -8,7 +8,7 @@ img: https://imgs.xkcd.com/comics/cadbury_eggs.png
 ---
 [Two Cadbury eggs, one in the foil, the other out of the foil and broken open to reveal the gooey center.]
 
-A Cadbury egg has about 20g of sugar. (25g outside the US.) "One Cadbury Egg" is a nice unit of sugar content.
+A Cadbury Egg has about 20g of sugar. (25g outside the US.) "One Cadbury Egg" is a nice unit of sugar content.
 
 [A can of soda with an equals sign and two eggs; a bottle of soda with an equals sign and three eggs.]
 
