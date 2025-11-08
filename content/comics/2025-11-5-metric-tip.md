@@ -10,7 +10,7 @@ img: https://imgs.xkcd.com/comics/metric_tip_2x.png
 
 White Hat: How tall are you?
 
-Cueball: 5ft 24cm
+Cueball: 5&nbsp;ft 24&nbsp;cm
 
 [Caption below the panel:]
 

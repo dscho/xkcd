@@ -22,7 +22,7 @@ It involved countless tiny problems, each somehow way harder than it should be.
 
 Oblique angles. Curved edges. Noncoplanarity.
 
-[Cueball with rumpled hair, looking at the same window covered by a bordered mesh.]
+[Cueball, now with some sparse/short but rumpled hair, looking at the same window covered by a bordered mesh.]
 
 ... I solved them all.
 
@@ -32,7 +32,7 @@ And it fit ***perfectly.***
 
 No gaps, no ripples.
 
-[Cueball is revealed to be sitting at a computer, typing a message. His hair is still rumpled.]
+[Cueball is revealed to be sitting at a computer, typing a message. His short, sparse hair is a little less rumpled.]
 
 I know that your foundation normally limits its purview to physics, medicine, peace, chemistry and literature.
 
