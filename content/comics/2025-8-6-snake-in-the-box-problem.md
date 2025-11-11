@@ -6,7 +6,7 @@ alt: >-
   Chemistry grad students have been spotted trying to lure campus squirrels into laundry hampers in the hope that it sparks inspiration.
 img: https://imgs.xkcd.com/comics/snake_in_the_box_problem_2x.png
 ---
-[A panel with text both above and below the illustration, with further text outside the panel below.]
+[A panel with text both above and below the illustration, with further text below the panel.]
 
 [In the panel, above the illustration:]
 
@@ -30,7 +30,7 @@ Snake(N=1, 2, 3 .. 8) = 1, 2, 4, 7, 13, 26, 50, 98
 
 Snake(N>8) = UNSOLVED
 
-[Text outside the panel:]
+[Text below the panel:]
 
 It turns out every scientific field has a key thought experiment that involves putting a cute animal in a weird box for no reason.
 

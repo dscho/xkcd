@@ -6,8 +6,6 @@ alt: >-
   At least people who make religious predictions of the apocalypse have an answer to the question 'Why didn't you predict any of the other ones that happened recently?'
 img: https://imgs.xkcd.com/comics/earthquake_prediction_flowchart_2x.png
 ---
-{{incomplete transcript|Don't remove this notice too soon.}}
-
 [Caption above a flowchart:]
 
 Someone is claiming to predict the exact date of a future earthquake.

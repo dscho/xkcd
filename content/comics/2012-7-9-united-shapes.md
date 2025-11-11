@@ -18,15 +18,15 @@ A map of things states are shaped like
 
 [Idaho contains a garden gnome sitting down.]
 
-[Montana contains one half of a muffin, sideways.]
+[Montana contains half of a muffin turned on its side.]
 
 [North Dakota and South Dakota contain the top and bottom halves of a guitar amplifier speaker cabinet, respectively.]
 
-[Minnesota contains $160 in $20 bills.]
+[Minnesota contains $160 in $20 bills, tied together.]
 
 [Upper peninsula and lower peninsula of Michigan contain an eagle and a mitten, respectively.]
 
-[Ohio contains a single piece of underwear.]
+[Ohio contains a single pair of white underwear briefs.]
 
 [Pennsylvania contains a very thick book with a bookmark.]
 
@@ -38,11 +38,11 @@ A map of things states are shaped like
 
 [Maine contains a hand doing a Vulcan salute.]
 
-[Massachusetts contains an elephant, being ridden by a man who is carrying tea.]
+[Massachusetts contains an elephant carrying crates of tea and being ridden by a man.]
 
 [Rhode Island contains the bow half of a boat's hull.]
 
-[Connecticut contains a train conductors hat.]
+[Connecticut contains a train conductor's hat.]
 
 [New Jersey contains a bent-over old person carrying a cane.]
 
@@ -58,7 +58,7 @@ A map of things states are shaped like
 
 [South Carolina contains a slice of pizza.]
 
-[Georgia contains Missouri.]
+[Georgia contains a red Missouri, which contains a drawing of the Gateway Arch.]
 
 [Florida contains an eggplant.]
 
@@ -108,7 +108,7 @@ NB - There are several chemicals such as {{w|Pentaborane(9)}}(reacts with water)
 
 [Wyoming contains the back side of a white envelope, sealed with red wax, with a black heart next to a signature in the lower left corner. ]
 
-[Nebraska contains a blue VW type 2 with mattresses sticking out the back.	]
+[Nebraska contains a blue VW type 2 with mattresses sticking out of the back.	]
 
 [Iowa contains a tomato, lettuce, cold cut and cheese sandwich.]
 
@@ -120,11 +120,11 @@ NB - There are several chemicals such as {{w|Pentaborane(9)}}(reacts with water)
 
 [West Virginia contains a frog.]
 
-[Wisconsin contains a side profile of a skull, oriented facing toward Lake Michigan..]
+[Wisconsin contains a side profile of a skull, oriented facing toward Lake Michigan.]
 
 [Tennessee contains a number of children's books, placed in a slightly askew pile.]
 
-[Arkansas contains a measuring cup.]
+[Arkansas contains a clear measuring cup.]
 
 [Oklahoma contains a covered pot, dripping with boil-over.]
 
@@ -162,7 +162,7 @@ Motto:
 
 [Kansas contains a spinet piano.]
 
-[Missouri contains Georgia.]
+[Missouri contains an olive-green Georgia, which contains a branch of a peach tree.]
 
 [Alaska contains a bear with a jet pack and a ray gun.]
 

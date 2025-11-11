@@ -18,7 +18,7 @@ Text on chart: Standard creepiness rule: Don't date under (Age/2 + 7)
 
 Cueball: I did some analysis of this with the Census Bureau numbers just last weekend. Your dating pool actually <u>grows</u> until middle age. So don't fret so much!
 
-[The first chart is labeled "Singles" and is a decreasing graph. The second graph is labeled Dating Pool, and is a bell curve.]
+[The first chart is labeled "Singles" and is a decreasing graph. The second graph is labeled Dating Pool, and is a curve with a small rise in the middle.]
 
 Megan: Did your analysis say anything about the dating prospects of people who spend weekends at home making graphs?
 
