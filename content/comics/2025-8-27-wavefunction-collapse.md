@@ -10,21 +10,15 @@ img: https://imgs.xkcd.com/comics/wavefunction_collapse_2x.png
 
 Hairy: If the wavefunction only collapses when I observe it, does that mean my consciousness affects the universe?
 
-[Three panels follows showing three possible responses from Cueball. Each panel has a label above, written inside a small rectangle that is overlaid on the top left of each panel. Each panel shows the same zoom in on the top half of Cueball.]
-
-[Panel 1]
+[Three panels follow showing three possible responses from Cueball. Each panel has a label above, written inside a small rectangle that is overlaid on the top left of each panel. Each panel shows the same zoom in on the top half of Cueball.]
 
 Bad:
 
 Cueball: Yes. Quantum entanglement proves that we all have souls.
 
-[Panel 2]
-
 Good:
 
 Cueball: No. Consciousness plays no role here. Its just physical measurement.
-
-[Panel 3]
 
 Chaotic:
 

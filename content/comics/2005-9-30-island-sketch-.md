@@ -6,4 +6,4 @@ alt: >-
   Hello, island
 img: https://imgs.xkcd.com/comics/island_color.jpg
 ---
-[A green island surrounded by blue water. A mountain is the only feature recognizable on it.]
+[A mountainous green island surrounded by a large amount of water. The mountain is the only feature recognizable on it.]

@@ -6,43 +6,23 @@ alt: >-
   To anyone who understands information theory and security and is in an infuriating argument with someone who does not (possibly involving mixed case), I sincerely apologize.
 img: https://imgs.xkcd.com/comics/password_strength.png
 ---
-The comic illustrates the relative strength of passwords assuming basic knowledge of the system used to generate them.
+[The password "Tr0ub4dor&3" is shown in the center of the panel. In this panel and multiple others, a set of squares is used to indicate how many bits of entropy a section of the password provides. A line from each annotation indicates the word section the comment applies to.]
 
-A set of boxes is used to indicate how many bits of entropy a section of the password provides.
+Uncommon (non-gibberish) base word ["Tr0ub4dor" is indicated to have 16 bits of entropy.]
 
-The comic is laid out with 6 panels arranged in a 3x2 grid.
+Caps? ["T" is indicated to have 1 bit of entropy.]
 
-On each row, the first panel explains the breakdown of a password, the second panel shows how long it would take for a computer to guess, and the third panel provides an example scene showing someone trying to remember the password.
+Common substitutions ["0", "4", and "o" are indicated to have 3 bits of entropy in total.]
 
-[The password "Tr0ub4dor&3" is shown in the center of the panel. A line from each annotation indicates the word section the comment applies to.]
+Punctuation ["&" is indicated to have 4 bits of entropy.]
 
-Uncommon (non-gibberish) base word
+Numeral ["3" is indicated to have 3 bits of entropy.]
 
-[Highlighting the base word - 16 bits of entropy.]
-
-Caps?
-
-[Highlighting the first letter - 1 bit of entropy.]
-
-Common Substitutions
-
-[Highlighting the letters 'a' (substituted by '4') and both 'o's (the first of which is substituted by '0') - 3 bits of entropy.]
-
-Punctuation
-
-[Highlighting the symbol appended to the word - 4 bits of entropy.]
-
-Numeral
-
-[Highlighting the number appended to the word - 3 bits of entropy.]
-
-Order unknown
-
-[Highlighting the appended characters - 1 bit of entropy.]
+Order unknown ["&" and "3" are indicated to have 1 bit of entropy.]
 
 (You can add a few more bits to account for the fact that this is only one of a few common formats.)
 
-~28 bits of entropy
+~28 bits of entropy [These are represented by all 28 squares from the previous panel being redrawn in this one.]
 
 2<sup>28</sup> = 3 days at 1000 guesses/sec
 
@@ -50,7 +30,7 @@ Order unknown
 
 Difficulty to guess: Easy
 
-[Cueball stands scratching his head trying to remember the password.]
+[Cueball stands scratching his head, trying to remember the password.]
 
 Cueball: Was it trombone? No, Troubador. And one of the O's was a zero?
 
@@ -58,22 +38,24 @@ Cueball: And there was some symbol...
 
 Difficulty to remember: Hard
 
-[The passphrase "correct horse battery staple" is shown in the center of the panel.]
+correct horse battery staple [Each word in the proposed password is indicated to have 11 bits (squares) of entropy.]
 
-Four random common words {Each word has 11 bits of entropy.}
+Four random common words
 
-~52 bits of entropy
+~44 bits of entropy [As before, these bits are represented by all 44 squares from the previous panel being redrawn]
 
 2<sup>44</sup> = 550 years at 1000 guesses/sec
 
 Difficulty to guess: Hard
 
-[Cueball is thinking, in his thought bubble a horse is standing to one side talking to an off-screen observer. An arrow points to a staple attached to the side of a battery.]
+[Cueball is thinking. His thought bubble shows a horse on the left talking to an off-screen observer. An arrow points to a staple attached to the side of a battery.]
 
 Horse: That's a battery staple.
 
 Observer: *Correct!*
 
 Difficulty to remember: You've already memorized it
+
+[Caption beneath the whole comic:]
 
 Through 20 years of effort, we've successfully trained everyone to use passwords that are hard for humans to remember, but easy for computers to guess.

@@ -30,4 +30,6 @@ D<sub>T</sub> = Probability that any details not fitting the narrative will be r
 
 A<sub>U</sub> = Fraction of people with the means and motivation to share the story with a wider audience (blogs, forums, reporters) (1/100)
 
+[Caption below the panel:]
+
 Even with conservative guesses for the values of the variables, this suggests there must be a *huge* number of credible-sounding alien sightings out there, available to anyone who wants to believe!

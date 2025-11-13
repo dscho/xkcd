@@ -22,7 +22,7 @@ And some brave truth-tellers point out that the metaphor makes no sense because 
 
 [Cueball is lying alone on a couch.]
 
-...and apparently *we* sleep on the couch.
+Cueball: ...and apparently *we* sleep on the couch.
 
 [Voice from outside the panel:]
 
