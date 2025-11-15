@@ -6,8 +6,6 @@ alt: >-
   Even geology papers about Heart Mountain are like, "Look, we all agree this 'volcanic gas earthquake hovercraft' thing seems like it can't possibly be right, but..."
 img: https://imgs.xkcd.com/comics/heart_mountain_2x.png
 ---
-{{incomplete transcript|Don't remove this notice too soon.}}
-
 [Cueball is on the left, Ponytail is facing him from the right.]
 
 Cueball: We haven't checked in on the Geology Department for a while. I wonder if they're doing okay.

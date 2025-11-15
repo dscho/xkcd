@@ -6,8 +6,6 @@ alt: >-
   Pontoon bridges are just linear open-sided waterbeds.
 img: https://imgs.xkcd.com/comics/bridge_types_2x.png
 ---
-{{incomplete transcript|Don't remove this notice too soon.}}
-
 Bridge Types
 
 [A 4x4 matrix of 16 ways to cross the same rectangular hole in the ground]
