@@ -24,6 +24,6 @@ Cueball: After the tops are clean, I flip one of them over so they can clean eac
 
 [Cueball and White Hat are now watching the Roombas clean each other. The second Roomba has used the ramp behind them to climb on top of the first. Both of them are wiggling as indicated with several motion lines around them.]
 
-White Hat: There’s nothing NSFW about this, and yet it’s the most NSFW thing I’ve every seen.
+White Hat: There’s nothing NSFW about this, and yet it’s the most NSFW thing I’ve ever seen.
 
 Cueball: Yeah, my YouTube DIY video about this got demonetized.
