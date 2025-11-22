@@ -6,8 +6,6 @@ alt: >-
   The statue should be in the likeness of whatever sculptor posted the sculpting tool repair video that was most helpful during the installation of the statue.
 img: https://imgs.xkcd.com/comics/repair_video_2x.png
 ---
-{{incomplete transcript|Don't remove this notice too soon.}}
-
 [Cueball sits at his desk, on which there is a laptop computer showing a video. His hands are on his lap. Behind Cueball's chair and on the floor, there is a humidifier with "E-21" printed on it, making noise. The humidifier's cord extends to the right side of the panel.]
 
 Voice from computer: Hey all!
