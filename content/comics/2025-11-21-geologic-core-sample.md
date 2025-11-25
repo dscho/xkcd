@@ -8,48 +8,50 @@ img: https://imgs.xkcd.com/comics/geologic_core_sample_2x.png
 ---
 {{incomplete transcript|Don't remove this notice too soon.}}
 
-[This shows a drill sample with various labels, in order from the top of the panel toward the bottom.]
+[Caption at the top of the panel:] Typical geologic core sample
 
-\*Topsoil
+[Below this is a drawing of a cylindrical core sample with various labels, in order from the top of the panel toward the bottom.]
 
-\*Till
+[A short, dark section of core:] Topsoil
 
-\*Granite bedrock
+[A more obviously granular shorter section with a diagonal transition:] Till
 
-\*Bottomsoil
+[A light and lightly-marked phase:] Granite bedrock
 
-\*Roof of subway car
+[Repeating the Topsoil appearance:] Bottomsoil
 
-\*Floor of subway car
+[A short/squat and possibly squeezed 'lump':] Roof of subway car
 
-\*More granite
+[A similar squeezed-out lump:] Floor of subway car
 
-\*Municipal water main
+[A longer length of the 'granite' texture, within which...:] More granite
 
-\*Slightly different granite
+[Not quite half of a pipe-width, cut out as a gap perpendicular and not quite all the way across the core:] Municipal water main
 
-\*Piece of screaming spelunker's arm
+[Slightly more grainy version of the 'granite':] Slightly different granite
 
-\*Cool crystals with no resale value
+[In a junction between 'granites', an squat, unidentifiable lump:] Piece of screaming spelunker's arm
 
-\*Mangled fragments of drillbit from previous attempt
+[Within a longer granite layer, a short stretch of spiky/crystalline features:] Cool crystals with no resale value
 
-\*Some boring intrusive rock that's basically granite but has a name like "diorite" or "andalite" that you always have to look up
+[Within the same granite layer, an intrusion of mechanical-looking junk:] Mangled fragments of drillbit from previous attempt
 
-\*Netherrack
+[As per granite, but slightly more grainy:] Some boring intrusive rock that's basically granite but has a name like "diorite" or "andalite" that you always have to look up
 
-\*Balrog wing
+[Dark, cobbly textured stone:] Netherrack
 
-[At this point, there is a discontinuity indicating that some layers have been omitted. The sample then resumes:]
+[Within a stretch of granite, a short, dark but otherwise unidentifiable lump:] Balrog wing
 
-\*Granite
+[At this point, there is a discontinuity indicating that an arbitrary length has been omitted. The sample then resumes:]
 
-\*Topsoil
+[Still 'granite':] Granite
 
-\*Cement
+[Dark soil texture:] Topsoil
 
-\*Floorboards
+[Light, fine and sparse 'grains':] Cement
 
-\*Carpet
+[Two very short cross-sections, each with contrasting wood-grain stripes:] Floorboards
 
-\*Possesions of a confused and angry homeowner in the other hemisphere
+[Two very short sections with a textile-base plus piles appearance:] Carpet
+
+[A mish-mash of 'stuff', possibly including cloth, metal components, grainy wood and 'topped' at the lowest end by something equally puzzling at an angle:] Possesions of a confused and angry homeowner in the other hemisphere

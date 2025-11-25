@@ -3,7 +3,7 @@ date: 2014-06-23
 title: "Throwing Rocks"
 num: 1385
 alt: >-
-  ::PLOOOOSH:: Looks like you won't be making it to Vinland today, Leaf Erikson.
+  <nowiki>::PLOOOOSH::</nowiki> Looks like you won't be making it to Vinland today, Leaf Erikson.
 img: https://imgs.xkcd.com/comics/throwing_rocks.png
 ---
 [Beret Guy is throwing a rock in the water while talking to Megan who walks down to him.]

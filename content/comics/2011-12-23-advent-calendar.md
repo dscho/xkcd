@@ -32,7 +32,7 @@ December 24<sup>th</sup> 9:00 PM
 
 December 24<sup>th</sup> 10:30 PM
 
-[A red Christmas heart on gren.]
+[A red Christmas heart on green.]
 
 December 24<sup>th</sup> 11:15 PM
 

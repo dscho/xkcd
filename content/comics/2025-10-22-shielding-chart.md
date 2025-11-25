@@ -432,13 +432,13 @@ Shark Cage
 
 [The burning trash can is encased in a rectangular lead box. Cueball is touching the outside of the lead box as a few particulates are coming off of it.]
 
-[Cueball: This shield is also *producing* toxic dust.]
+[Cueball:] This shield is also *producing* toxic dust.
 
 [Toxic Dust vs. Water - yellow tile]
 
 [Cueball and Megan are both standing (presumably) outside, watching as particulates hover in the air. There are a few clouds present as well.]
 
-[Cueball: Don't worry, this will all be safely absorbed by the groundwater.]
+[Cueball:] Don't worry, this will all be safely absorbed by the groundwater.
 
 [Toxic Dust vs. Glass - gray tile]
 
@@ -448,21 +448,21 @@ Shark Cage
 
 [Cueball is floating in space next to a satellite with an open hatch that is emitting toxic dust.]
 
-[Satellite: Achoo!]
+[Satellite:] Achoo!
 
-[Cueball: My suit!]
+[Cueball:] My suit!
 
 [Toxic Dust vs. Oven Mitts - yellow tile]
 
 [Cueball is standing next to the burning trash can and covering his face with an oven-mitted hand.]
 
-[Cueball: *Cough*]
+[Cueball:] *Cough*
 
 [Toxic Dust vs. Armor - yellow tile]
 
 [Cueball is standing next to the burning trash can in a suit of armor.]
 
-[Cueball: *Cough*]
+[Cueball:] *Cough*
 
 [Toxic Dust vs. Bio-Hazard Suit - gray tile]
 
@@ -472,13 +472,13 @@ Shark Cage
 
 [Cueball is standing next to the burning trash can in a person-sized Faraday cage.]
 
-[Cueball: *Cough*]
+[Cueball:] *Cough*
 
 [Toxic Dust vs. Shark Cage - yellow tile]
 
 [Cueball is standing in a shark cage next to the burning trash can.]
 
-[Cueball: *Cough*]
+[Cueball:] *Cough*
 
 [Most tiles in the radio row depict Cueball carrying a two-way radio handset, except where the transceiver appears to be part of the various protective suits that he is wearing.]
 
@@ -486,49 +486,49 @@ Shark Cage
 
 [Cueball is holding a handheld two-way radio in his right hand, close to his face, and speaking into it. A voice from the radio is responding to him.]
 
-[Cueball: Eagle Base, come in.]
+[Cueball:] Eagle Base, come in.
 
-[Radio: Go ahead.]
+[Radio:] Go ahead.
 
 [Radio vs. Lead - gray tile
 
 [Cueball is standing inside a lead box, again holding the radio close to his face.]
 
-[Cueball: Eagle Base, come in? Hello?]
+[Cueball:] Eagle Base, come in? Hello?
 
 [Radio vs. Water - gray tile]
 
 [Cueball is underwater, in a diving suit. He is once again holding a hand radio. Bubbles are rising from his helmet and a shark is swimming underneath him.]
 
-[Cueball: Hello?]
+[Cueball:] Hello?
 
 [Radio vs. Glass - yellow tile]
 
 [Cueball is standing inside a person-sized bell jar, holding the radio close to his face.]
 
-[Cueball: Is this... part of the mission?]
+[Cueball:] Is this... part of the mission?
 
-[Radio: Sure.]
+[Radio:] Sure.
 
 [Radio vs. Vacuum - yellow tile]
 
 [Cueball is floating in space next to the satellite. He is not visibly holding a radio, implying that it is integrated into his spacesuit.]
 
-[Cueball: Eagle Base, I have the package.]
+[Cueball:] Eagle Base, I have the package.
 
 [Radio vs. Oven Mitts - yellow tile
 
 [Cueball is wearing oven mitts while holding the radio close to his face.]
 
-[Cueball: Eagle Base, tactical mitts acquired.]
+[Cueball:] Eagle Base, tactical mitts acquired.
 
-[Radio: Copy that.]
+[Radio:] Copy that.
 
 [Radio vs. Armor - gray tile]
 
 [Cueball is standing in a suit of armor. He is not visibly holding a radio.]
 
-[Cueball: Repeat that? My suit radio is having issues.]
+[Cueball:] Repeat that? My suit radio is having issues.
 
 [Radio vs. Bio-Hazard Suit - yellow tile]
 
@@ -540,15 +540,15 @@ Shark Cage
 
 [Cueball is standing inside a person-sized Faraday cage, holding the radio close to his face.]
 
-[Cueball: Eagle Base? Come in?]
+[Cueball:] Eagle Base? Come in?
 
 [Radio vs. Shark Cage - yellow tile]
 
 [Cueball is standing in a shark cage, holding the radio close to his face.]
 
-[Cueball: Eagle Base, why am I-]
+[Cueball:] Eagle Base, why am I-
 
-[Radio: Don't worry about it.]
+[Radio:] Don't worry about it.
 
 [All tiles in the Shark row depict a shark, except when only the shark's fin is seen emerging from a body of water. Cueball is somehow present in each case.]
 
@@ -564,7 +564,7 @@ Shark Cage
 
 [Cueball is again underwater, wearing diving gear. He is very close to a shark and seems to be pointing at it.]
 
-[Cueball: Kitty!]
+[Cueball:] Kitty!
 
 [Sharks vs. Glass - gray tile]
 
