@@ -8,6 +8,8 @@ img: https://imgs.xkcd.com/comics/fifteen_years_2x.png
 ---
 {{incomplete transcript|Don't remove this notice too soon.}}
 
+[The panels from the older strips are presented in gray.]
+
 **From [[1141: Two Years]]**
 
 [Randall (drawn as Cueball) and Randall's fiancée (drawn as Megan) sit on a bed, Randall's fiancée is talking on the phone. The person she is talking to, a doctor holding a clipboard, is shown inset.]
@@ -104,7 +106,7 @@ Randall's wife: Wheee!
 
 [A large dark panel, to the right of the previous three, to the left in two rows. Randall and his wife sits, leaning back on their hands looking up, at the end of a pier going into a lake. The end is broader and they sit to each side of the middle of the pier. It is night and behind the lake there is a forest of pine trees. Above the three is a clear starlit night sky with hundreds of stars and the band of the Milky Way clearly visible. The trees and some of the stars are reflected in the water of the lake, distorted by the movements of the water. There is a box with the words "Ten Years" in the center of the image.]
 
-**From [[3172: Fifteen Years]]**:
+**[From here to the end of the strip are new panels, drawn in the usual black rather than grayed out, except one panel drawn in inverted color.]**
 
 [Randall and his wife are cuddling in their bed together. Randall is presumably reading from the book he is holding in his hand, {{w|Moominland Midwinter}}.]
 

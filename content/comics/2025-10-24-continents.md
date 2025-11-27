@@ -6,8 +6,6 @@ alt: >-
   The inflection point was probably in late 1966 or 1967, so when Neil Armstrong flew to space on Gemini 8, plate tectonics was not widely accepted, but when he landed on the Moon three years later it was the mainstream consensus.
 img: https://imgs.xkcd.com/comics/continents_2x.png
 ---
-{{incomplete transcript|Don't remove this notice too soon.}}
-
 [Two spacecraft, a Gemini capsule and an Agena Target Vehicle with a loose tether connecting them, are in space over the Mediterranean with Italy and other parts of southern Western Europe in the background and Tunisia in the foreground. A voice is emanating from the spacecraft]
 
 Spacecraft: Houston, the view is superb. We can see the continents spread out below us, right where they've been since the Earth formed.

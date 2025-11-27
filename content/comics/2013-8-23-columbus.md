@@ -14,7 +14,7 @@ Megan (off-panel): \*Sigh\* no, no, no.
 
 [Megan walks in holding a hand palm up. White Hat partly lifts his arm closest to her. The children between them turn their heads towards her. The boy leans back on one hand.]
 
-Megan: So he took his ships and sailed west—
+White Hat: So he took his ships and sailed west—
 
 Megan: —in a line tangent to the surface. The sea fell away, and he landed in *Valinor.*
 

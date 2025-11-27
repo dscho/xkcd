@@ -6,7 +6,7 @@ alt: >-
   That eggplant is in something of a flaccid state.
 img: https://imgs.xkcd.com/comics/united_shapes.png
 ---
-{{incomplete transcript|This transcript isn't detailed enough for our standards. Weirdly enough, the third column of the table above is more descriptive, so you could start by transferring the descriptions from the table over to this section.}}
+{{incomplete transcript|This transcript isn't detailed enough for our standards. Weirdly enough, the third column of the table above is more descriptive, so you could start by transferring the descriptions from the table over to this section. The information from the table has been transferred to the transcript so it may be good enough as is?}}
 
 The **United Shapes**
 
@@ -104,7 +104,7 @@ NB - There are several chemicals such as {{w|Pentaborane(9)}}(reacts with water)
 
 [California contains a vacuum cleaner.]
 
-[Oregon contains a locomotive.]
+[Oregon contains a steam locomotive.]
 
 [Wyoming contains the back side of a white envelope, sealed with red wax, with a black heart next to a signature in the lower left corner. ]
 
