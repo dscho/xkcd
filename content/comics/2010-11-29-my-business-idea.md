@@ -26,7 +26,7 @@ Like five years ago.
 
 Proof you had it:
 
-I told my friend Mike - you can ask him! I was all "you know what would make a great business idea?" and he was all...
+I told my friend Mike - you can ask him! I was all "you know what would make a great business idea?" and he was all "dude, [...]"
 
 Their profit so far:
 

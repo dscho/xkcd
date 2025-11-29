@@ -6,8 +6,6 @@ alt: >-
   That eggplant is in something of a flaccid state.
 img: https://imgs.xkcd.com/comics/united_shapes.png
 ---
-{{incomplete transcript|This transcript isn't detailed enough for our standards. Weirdly enough, the third column of the table above is more descriptive, so you could start by transferring the descriptions from the table over to this section. The information from the table has been transferred to the transcript so it may be good enough as is?}}
-
 The **United Shapes**
 
 A map of things states are shaped like
