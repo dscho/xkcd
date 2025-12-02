@@ -22,7 +22,7 @@ Black Hat: See that physicist crossing the road?
 
 Black Hat: Hey!
 
-[A close-up of Black Hat's sign is shown in a frameless panel. There is text above and below an image of a four-by-five grid of nodes with resistors (shown as wiggly lines) between every node and also continuing away from the 16 outer nodes. A total of 5 columns with 5 and 4 rows with 6 resistors for a total of 20 nodes and 49 resistors. Two nodes, a knight's move apart, are marked with red circles in the 3rd row 2nd column and the 2nd row 4th column.]
+[A close-up of Black Hat's sign is shown in a frameless panel. There is text above and below an image of a four-by-five grid of nodes with resistors (shown as wiggly lines) between every node and continuing away from the 16 outer nodes. A total of 5 columns with 5 and 4 rows with 6 resistors for a total of 20 nodes and 49 resistors. Two nodes, a knight's move apart, are marked with red circles in the 3rd row 2nd column and the 2nd row 4th column.]
 
 Sign: On this infinite grid of ideal one-ohm resistors,
 
