@@ -18,14 +18,14 @@ Cueball: Some people like to be the little spoon.
 
 [A big spoon sitting atop a little spoon and a little spoon sitting atop a big spoon are depicted.]
 
-And some brave truth-tellers point out that the metaphor makes no sense because different-sized spoons don't nest right *either* way. You nest *same*-sized spoons.
+And some brave truth-tellers point out that the metaphor makes no sense because different-sized spoons don't nest right ***either*** way. You nest ***same***-sized spoons.
 
 [Cueball is lying alone on a couch.]
 
-Cueball: ...and apparently *we* sleep on the couch.
+Cueball: ...and apparently ***we*** sleep on the couch.
 
 [Voice from outside the panel:]
 
-Voice: Why are you *still* going on about the spoon thing?
+Voice: Why are you ***still*** going on about the spoon thing?
 
-Cueball: Because I'm *right!*
+Cueball: Because I'm ***right!***
