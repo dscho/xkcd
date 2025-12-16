@@ -16,7 +16,7 @@ Cueball: Some people like to be the big spoon.
 
 Cueball: Some people like to be the little spoon.
 
-[A big spoon sitting atop a little spoon and a little spoon sitting atop a big spoon are depicted.]
+[A big spoon sitting atop a little spoon and a little spoon sitting atop a big spoon are depicted. Neither arrangement of spoons is able to nest properly.]
 
 And some brave truth-tellers point out that the metaphor makes no sense because different-sized spoons don't nest right ***either*** way. You nest ***same***-sized spoons.
 
