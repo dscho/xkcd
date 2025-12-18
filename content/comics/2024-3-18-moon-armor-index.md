@@ -18,4 +18,28 @@ How thick the shells around various worlds would be if their moon(s) were conver
 
 [Above the diagram, there is a depiction of two moons orbiting a planet, an arrow pointing right, and the same planet with an additional layer around it without orbiting moons.]
 
-[The diagram consists of vertical bars showing "moon armor" thicknesses for the Earth, Mars, Jupiter, Saturn, Uranus, Neptune, Pluto, Salacia, Haumea, Quaoar, Gonggong and Eris. Earth's bar has a label named "43 km thick" and is compared to the height of a comparatively small Mt Everest, with randomly drawn features indicating a cross section of the additional layer's rocky material. Most of the other armor thickness bars are not very tall compared to Earth. Some bars, notably Jupiter's, are embellished with various strata-like lines that possibly correspond to different contributing moons. Most bars show some small dots and patterns. A circular viewport shows the zoomed in detail of the top of Mars's otherwise not visible bar that reveals a thin layer with the label of 2", and also the bottom of a Mars rover wheel on top of the new surface. Pluto's bar is slightly taller than Earth's and has a label "(Mostly Charon)" inside, with arrows pointing into the bar area, which looks similar to that of Earth's Moon.]
+[The diagram consists of vertical bars showing "moon armor" thicknesses for (from left to right) Earth, Mars, Jupiter, Saturn, Uranus, Neptune, Pluto, Salacia, Haumea, Quaoar, Gonggong and Eris. Each bar is a different height, and they are listed as follows from shortest to tallest:]
+
+[Mars' armor is not visible, though there is a diagram representing a zoomed-in portion of its armor, which is 2 inches (5 cm) thick, accompanied by a partial view of the wheel of a Mars Rover for scale.]
+
+[Gonggong's armor is barely visible and appears to be slightly rocky.]
+
+[Uranus' armor consists of a thin layer, which appears to be rocky.]
+
+[Quaoar's armor is about 1.5 times the height of Uranus'.]
+
+[Neptune's armor is about 1.5 times the height of Quaoar's, and has a rocky surface.]
+
+[Saturn's armor is about 1.25 times the height of Neptune's, and has a rocky surface.]
+
+[Haumea's armor is about 1.75 times the height of Saturn's.]
+
+[Jupiter's armor is about 1.2 times the height of Haumea's, and has several strata running across it.]
+
+[Salacia's armor is about twice the height of Jupiter's.]
+
+[Eris' armor is about 1.3 times the height of Salacia's.]
+
+[Earth's armor is about 4 times the height of Eris'.]
+
+[Pluto's armor is about 1.05 times the height of Earth's.]
