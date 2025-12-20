@@ -32,7 +32,7 @@ Do we have to label all the Virgin Islands?
 
 [Greenland.] Greenland (still too big!); Yeah but the Peters map is awful; Iceland
 
-[Europe.] British Isles; [Ireland](https://iecasimile.com/); Gibralter; Scandanavia; Western Europe; Eastern Europe; Black sea; Middle East
+[Europe.] British Isles; Ireland; Gibralter; Scandanavia; Western Europe; Eastern Europe; Black sea; Middle East
 
 [Africa.] Morocco; Algera; Sahara Desert; West Africa; Sudan; Rainforest DRC; Lake Victoria; Somalia; Angola; Mozambique; South Africa; Cape Horn; Madagascar
 

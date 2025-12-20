@@ -3,7 +3,7 @@ date: 2020-12-14
 title: "Vaccine Tracker"
 num: 2398
 alt: >-
-  *refresh* Aww, still in Kalamazoo. *refresh* Aww, still in Kalamazoo.
+  <nowiki>*refresh* Aww, still in Kalamazoo. *refresh* Aww, still in Kalamazoo.</nowiki>
 img: https://imgs.xkcd.com/comics/vaccine_tracker.png
 ---
 [Megan walks towards Cueball. Cueball sits in front of his laptop.]

@@ -12,7 +12,7 @@ Cueball: I don't know much about sports, which can be culturally isolating, so i
 
 Cueball: Caring about something makes people vulnerable, so *not* caring gives you power.
 
-[Pictures of a weather map and *Philae* in the background.]
+[Pictures of a weather map and the *Philae* comet lander in the background.]
 
 But I know things I'm into don't always sound interesting to 100% of the people around me, and it means a lot when they sometimes try to listen anyway - and maybe even find themselves sharing some of my excitement!
 

@@ -20,7 +20,7 @@ Off-screen voice: That's not a real club.
 
 Cueball: Then I'm starting it.
 
-[Inserted in a frame crossing the top of the third panel's frame is a caption. Cueball is standing on a podium in the right part of the panel speaking. From left to right we find Ponytail, a Cueball-like guy, a short guy with glasses, a buzz cut version of Hairy, Jill, and to the right of Cueball, a woman that looks like Megan although with an uncharacteristically white stripe in her hair.]
+[Inserted in a frame crossing the top of the third panel's frame is a caption. Cueball is standing on a podium in the right part of the panel speaking. From left to right we find Ponytail, a Cueball-like guy, a short guy with glasses, a buzz cut version of Hairy, Hairbun, and to the right of Cueball, a woman that looks like Megan although with an uncharacteristically white stripe in her hair.]
 
 Caption: Tautology Club:
 

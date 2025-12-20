@@ -12,7 +12,7 @@ Cueball: Can you show me how to build a campfire?
 
 Megan: Sure! We'll use the log cabin method.
 
-Megan: First we build a square cabin out of sticks.
+Megan: First, we build a square cabin out of sticks.
 
 [Cueball now stands to the right of frame, opposite Megan with the cabin between them. The cabin has gotten taller and is becoming better defined. Megan holds a tiny table in one hand and tiny chair in the other.]
 
@@ -26,7 +26,7 @@ Megan: Now we'll add some rudimentary plumbing and electrical wiring. 50 amps, n
 
 Cueball: It kind of seems like you're just building a cabin.
 
-Megan: I just -
+Megan: I just —
 
 Megan: ...oops.
 
@@ -34,6 +34,6 @@ Megan: ...oops.
 
 Megan: I think my wiring wasn't up to code.
 
-Cueball: AAAAA!!
+Cueball: *AAAAA!*
 
-Megan: ... and that's how you build a fire!
+Megan: ...and that's how you build a fire!
