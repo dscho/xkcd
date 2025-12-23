@@ -8,7 +8,7 @@ img: https://imgs.xkcd.com/comics/alignment_chart_alignment_chart.png
 ---
 {{incomplete transcript|Do NOT delete this tag too soon.|There's several Transcript-friendly chart descriptions still need putting in... And probably changes to the existing transcriptisation where it isn't in line with typical Transcript standards.}}
 
-[A 3×3 grid of squares. Each square contains a label at the top and a drawing of a chart, and each square has a caption below it. From left to right, a row at a time:]
+[A 3×3 grid of squares. Each square contains a label at the top and a drawing of a chart, and each square has a caption below it. From left to right, and one row at a time:]
 
 ----
 
@@ -76,13 +76,19 @@ True Neutral
 
 CIE Chromaticity Diagram
 
-[describe this chart here]
+[A curved edge at the top of the chart like a parabola facing downwards leaning towards the right with the two ends of the parabola being connected by a straight line. The sections are labeled as follows, going left to right, top to bottom:]
 
 \* Green
 
 \* Yellow
 
-\* …
+\* Pink
+
+\* Red
+
+\* Purple
+
+\* Blue
 
 Chaotic Neutral
 
