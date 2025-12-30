@@ -16,7 +16,7 @@ img: https://imgs.xkcd.com/comics/sports_cheat_sheet.png
 
 US:
 
-Football [ovoid ball drawn in brackets]: January 1 - February 10
+Football (🏈): January 1 - February 10
 
 Basketball: February 10 - April 20
 
@@ -26,14 +26,14 @@ Basketball: May 25 - June 15
 
 Baseball: June 15 - August 20
 
-Football [ovoid]: August 20 - October 5
+Football (🏈): August 20 - October 5
 
 Baseball: October 5 - October 20
 
-Football [ovoid]: October 20 - December 31
+Football (🏈): October 20 - December 31
 
 [The third column, reproduced using approximate dates.]
 
 non-US:
 
-Football [truncated icosahedron, 20 hexagons and 12 pentagons]: January 1 - December 31
+Football (⚽️): January 1 - December 31
