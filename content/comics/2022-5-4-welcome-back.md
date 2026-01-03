@@ -12,7 +12,7 @@ Hi! The TornadoGuard™ team is proud to announce a big update! We've added-
 
 *Okay*
 
-Note to users of sentinel mode: We've heard your feedback, and the controls are now-
+Note to users of Sentinel Mode: We've heard your feedback, and the controls are now-
 
 *Got it*
 
