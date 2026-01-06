@@ -6,8 +6,6 @@ alt: >-
   Anyone else watching this Youtube video in 1954? If so, my last trip definitely messed with the timeline.
 img: https://imgs.xkcd.com/comics/anyone_else_here_2x.png
 ---
-{{incomplete transcript|Don't remove this notice too soon.}}
-
 [The bottom of a YouTube video is shown, with the play and volume icons visible.]
 
 [There are two lines of illegible text below the videos.]

@@ -270,7 +270,7 @@ Shark Cage
 
 [Megan:] .....
 
-[Sound vs. Oven Mitts - grey tile]
+[Sound vs. Oven Mitts - greyish-yellow tile]
 
 [Megan stands to the left of Cueball, wearing oven-gloves. Her hands are over her mouth, muffling her attempts to say anything.]
 

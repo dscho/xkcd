@@ -6,7 +6,7 @@ alt: >-
   Changing the names would be easier, but if you're not comfortable lying, try only making friends with people named Alice, Bob, Carol, etc.
 img: https://imgs.xkcd.com/comics/protocol.png
 ---
-[Cueball is telling a story to a Computer Scientist who is seated at his desk.]
+[Cueball is telling a story to a computer scientist (also drawn as Cueball) who is seated at his desk.]
 
 Cueball: Alice sends a message to Bob saying to meet her somewhere.
 
@@ -20,4 +20,6 @@ Cueball: Bob is delayed, and Alice and Eve meet.
 
 Computer Scientist: Yeah?
 
-CAPTION: I've discovered a way to get computer scientists to listen to any boring story.
+[Caption below the panel:]
+
+I've discovered a way to get computer scientists to listen to any boring story.

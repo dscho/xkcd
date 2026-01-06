@@ -8,7 +8,7 @@ img: https://imgs.xkcd.com/comics/conic_sections_2x.png
 ---
 {{incomplete transcript|Don't remove this notice too soon.}}
 
-[A view of the Earth, focused on Asia and the Indian Ocean with East Africa at left and the Western Pacific and Australia at right. A satellite is shown in an unusual orbit around the planet.]
+[A view of the Earth, focused on Asia and the Indian Ocean with East Africa at left and the Western Pacific and Australia at right. A satellite is shown in an unusual orbit around the planet. This orbit is similar in shape to an ellipse, except it has two corners and a straight edge on one side, giving it a hill-like appearance.]
 
 [Caption below the panel:]
 

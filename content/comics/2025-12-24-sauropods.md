@@ -15,3 +15,5 @@ img: https://imgs.xkcd.com/comics/sauropods_2x.png
 [Caption below the comic:]
 
 Thanks to modern paleontological reconstructions, we now know that most sauropods had short necks, and all those extra vertebrae belonged to the sauropod colony's queen.
+
+[Hover text: Vertebrae Georg]
