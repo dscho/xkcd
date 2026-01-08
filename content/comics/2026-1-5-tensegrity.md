@@ -8,7 +8,7 @@ img: https://imgs.xkcd.com/comics/tensegrity_2x.png
 ---
 {{incomplete transcript|Don't remove this notice too soon.}}
 
-[Cueball stands at the left of the panel, and at the right is a giraffe-like animal whose legs they appear to be made of a tensegrity structure, with disconnected segments held together by strings]
+[Cueball stands at the left of the panel, and at the right is a giraffe-like animal whose legs appear to be made of a tensegrity structure, with disconnected segments held together by strings]
 
 [Caption below the panel:]
 
