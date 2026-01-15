@@ -6,42 +6,80 @@ alt: >-
   I wanted to make the world's fastest yawl, so I made the aft sail bigger, but apparently that means it's not a yawl anymore! It's a real ketch-22.
 img: https://imgs.xkcd.com/comics/sailing_rigs_2x.png
 ---
-{{incomplete transcript|Don't remove this notice too soon.}}
+[The comic shows five rows of silhouettes of different sail boats as seen from the side. In total 18 different boats are shown, three rows with four each and three in each of the two bottom rows. Each boat has a different sailing rig. All boats are oriented to the left of the comic, and beneath each boat there is a label. At the top of the panel there is a large heading:]
 
-[The comic contains views from the side of boats, each with a different sailing rig. All boats are oriented to the left of the comic.]
+<big>Common Sailing Rigs</big>
 
-\*Lateen: a single triangular sail.
+[Here follows a list of the 18 boats with a description and then their label:]
 
-\*Bermuda rigged sloop: a front and rear triangular sail share a mast.
+[A single triangular sail.]
 
-\*Ketch: two triangular sails as above, with an additional triangular sail on a second rear mast.
+Lateen
 
-\*Gaff rigged sloop: front triangular sail shares mast with rear quadrilateral sail.
+[A front and rear triangular sail share a mast.]
 
-\*Yawl: two triangular sails share front mast and a much smaller aft mast holds a small aft.
+Bermuda rigged sloop
 
-\*Schooner: two triangular front sails share foreward mast with quadrilateral center sail. An aft mast supports a quadrilateral aft sail.
+[Two triangular sails as above, with an additional triangular sail on a second rear mast.]
 
-\*Ketch-rigged gaff: The first fictional rig. Resembles a gaff, with the aft sail reduced and two triangular sails mounted above. The resulting shape resembles a vertical ketch.
+Ketch
 
-\*Kloop-rigged sketch: A mixture of the names of ketch and sloop, poking fun at the unfamiliar names of some rigs.
+[Front triangular sail shares mast with rear quadrilateral sail.]
 
-\*Bunkbed rig: A gaff-rigged sloop is mounted on top of a second hull.
+Gaff rigged sloop
 
-\*Flettner rig: The rectangular outline of a cylinder with motion lines around it, indicating a {{w|Flettner rotor}}.
+[Two triangular sails share front mast and a much smaller aft mast holds a small aft.]
 
-\*Oops, all spinnakers: three masts each with a sail only attached to the top.
+Yawl
 
-\*Keel rig: three sales in a ketch arrangement, but mounted to the keel, which would typically put the \*\*sails underwater\*\*.
+[Two triangular front sails share forward mast with quadrilateral center sail. An aft mast supports a quadrilateral aft sail.]
 
-\*Kite rig: all sails are replaced by two groups of kites, each tied to the mast with an independent line.
+Schooner
 
-\*Longsail rig: bermuda rigged sloop with the aft sail extending ~5 times as far back, well beyond the end of the hull.
+[Resembles a gaff, with the aft sail reduced and two triangular sails mounted above. The resulting shape resembles a vertical ketch.]
 
-\*Deckhand obliterator: all sails replaced by an anchor that swings around the mast on a chain, similar to tetherball. Any deckhands (crew) on the deck could be knocked off or fatally hurt if the anchor passes through their space.
+Ketch-rigged gaff
 
-\*Offset rig: gaff rigged sloop sails are mounted on a mast that is offset (forward) from the hull via an underwater extension of the keel.
+[Includes elements of ketch and sloop.]
 
-\*Mastless rig: a single sail is attached where the mast would normally be mounted, flapping around freely. This provides much less propulsion or steering.
+Kloop-rigged sketch
 
-\*Unclassifiable chaos rig: includes elements of the schooner, yawl, lateen, and possibly others.
+[A gaff-rigged sloop is mounted on top of a second hull.]
+
+Bunkbed rig
+
+[The rectangular outline of a cylinder with motion lines around it.]
+
+Flettner rig
+
+[Three masts each with a sail only attached to the top.]
+
+Oops, all spinnakers
+
+[Three sails in a ketch arrangement, but mounted to the keel.]
+
+Keel rig
+
+[All sails are replaced by two groups of kites, each tied to the mast with an independent line.]
+
+Kite rig
+
+[Bermuda rigged sloop with the aft sail extending ~5 times as far back, well beyond the end of the hull.]
+
+Longsail rig
+
+[All sails replaced by an anchor that swings around the mast on a chain, similar to tetherball.]
+
+Deckhand obliterator
+
+[Gaff rigged sloop sails are mounted on a mast that is offset (forward) from the hull via an underwater extension of the keel.]
+
+Offset rig
+
+[A single sail is attached where the mast would normally be mounted, flapping around freely.]
+
+Mastless rig
+
+[Includes elements of the schooner, yawl, lateen, and possibly others.]
+
+Unclassifiable chaos rig
