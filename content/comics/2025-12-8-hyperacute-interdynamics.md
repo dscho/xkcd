@@ -24,6 +24,6 @@ Miss Lenhart: and Hyperacute Interdynamics, which describes objects 10-30cm in s
 
 Student (off-panel): That last one seems kind of limited.
 
-Miss Lenhart: Yeah, but over it's domain it's ***really*** precise. Absolutely ***nails*** squirrels and grapefruit.
+Miss Lenhart: Yeah, but over its domain it's ***really*** precise. Absolutely ***nails*** squirrels and grapefruit.
 
 Miss Lenhart: Someday we hope to unify it with the other two.
