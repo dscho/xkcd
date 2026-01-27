@@ -8,7 +8,7 @@ img: https://imgs.xkcd.com/comics/double_pronged_extension_cord_2x.png
 ---
 {{incomplete transcript|Don't remove this notice too soon.}}
 
-[Cueball is approaching Ponytail from off, who is sitting at a desk, with a laptop.]
+[Cueball is approaching Ponytail, who is sitting at a desk with a laptop, from off-screen.]
 
 Cueball: Do you have an extension cord with prongs at both ends? Can I borrow it?
 

@@ -8,27 +8,27 @@ img: https://imgs.xkcd.com/comics/real_programmers.png
 ---
 [A Cueball-like man sits at a computer, programming. Cueball stands behind him and looks over his shoulder.]
 
-Cueball: <code>nano</code>? Real Programmers use <code>emacs</code>.
+Cueball: <code>nano</code>? Real programmers use <code>emacs</code>.
 
 [Megan appears behind him.]
 
-Megan: Hey. <u>Real</u> Programmers use <code>vim</code>.
+Megan: Hey. <u>Real</u> programmers use <code>vim</code>.
 
 [A second Cueball-like man appears behind her.]
 
-Ed Cueball: Well, <u>Real</u> Programmers use <code>ed</code>.
+Ed Cueball: Well, <u>real</u> programmers use <code>ed</code>.
 
 [A third Cueball-like man appears behind him.]
 
-Cat Cueball: No, Real Programmers use <code>cat</code>.
+Cat Cueball: No, real programmers use <code>cat</code>.
 
 [Hairbun appears behind him.]
 
-Hairbun: <u>Real</u> Programmers use a magnetized needle and a steady hand.
+Hairbun: <u>Real</u> programmers use a magnetized needle and a steady hand.
 
 [A fourth Cueball-like man enters, facing them all. We see him facing the last two Cueball-like men and Hairbun.]
 
-Butterfly Cueball: Excuse me, but <u>Real</u> Programmers use butterflies.
+Butterfly Cueball: Excuse me, but <u>real</u> programmers use butterflies.
 
 [A Cueball-like programmer is standing much like Butterfly Cueball except for holding out a butterfly in front of his computer. The butterfly flaps its wings.]
 
@@ -38,7 +38,7 @@ Butterfly Cueball (narration within the panel, not diegetic to the scene): They 
 
 Butterfly Cueball (narration above the panels): The disturbances ripple outward, changing the flow of the eddy currents in the upper atmosphere.
 
-Butterfly Cueball (narration below the panels):  These cause momentary pockets of higher-pressure air to form,
+Butterfly Cueball (narration below the panels): These cause momentary pockets of higher-pressure air to form,
 
 [The next two panels are also partial height, leaving room for narration spanning above both panels. The first panel shows the atmosphere, again with clouds, and four parallel lines coming from above, and then they begin to merge, getting quite close at the bottom of the panel. The second panel shows the four lines merging on a driver platter.]
 
