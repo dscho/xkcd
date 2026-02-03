@@ -16,31 +16,33 @@ Cueball: But--
 
 Voice: *NEXT!*
 
+[The remaining five panels are on one separate row.]
+
 [Panel is inverted, white on black background.]
 
-[Two men, played by Cueball-like actors are pointing machine guns at Harriet, played by a Megan-like actress. Harriet points two handguns back at them.]
+[Two men, played by Cueball-like actors are pointing machine guns at a woman, played by a Megan-like actress. The woman points two handguns back at them.]
 
-Harriet: They said if I were captured I should take my own life.
+Woman: They said if I were captured I should take my own life.
 
-Harriet: But I'd just as soon take yours.
+Woman: But I'd just as soon take yours.
 
-[Harriet jumps off a cliff carrying a spiral notebook and a gun, while the cliff explodes behind her. In the background is a helicopter, some mountains, and the sea.]
+[The woman jumps off a cliff carrying a spiral notebook and a gun, while the cliff explodes behind her. In the background is a helicopter, some mountains, and the sea.]
 
 **BOOM**
 
 [Panel is inverted, white and red on black background.]
 
-[A man played by a Cueball-like actor is tied to a chair. Blood is pooling on the ground below. Harriet stands in front, holding a bloody pipe.]
+[A man played by a Cueball-like actor is tied to a chair. Blood is pooling on the ground below. The woman stands in front, holding a bloody pipe.]
 
 Man: Stop! I'll talk!
 
-Harriet: No, I know everything. This is just for fun.
+Woman: No, I know everything. This is just for fun.
 
-[Crosshairs follow a Cueball-like man.]
+[At the top of the panel, crosshairs follow a Cueball-like man. At the bottom of the panel is a closeup on the woman's head and upper body.]
 
-Harriet: I'll be watching.
+Woman: I'll be watching.
 
-[The panel is inverted color, white on black.]
+[The panel is inverted color, white and red on black background.]
 
 Harriet
 

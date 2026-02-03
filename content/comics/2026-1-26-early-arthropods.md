@@ -3,7 +3,7 @@ date: 2026-01-26
 title: "Early Arthropods"
 num: 3199
 alt: >-
-  'Ugh, I'm never going to be like spiders. My descendants will all just be normal arthropods who mind their own busines and don't do anything weird.' --The ancestor of a bunch of eusocial insects
+  'Ugh, I'm never going to be like spiders. My descendants will all just be normal arthropods who mind their own busines [''sic''] and don't do anything weird.' --The ancestor of a bunch of eusocial insects
 img: https://imgs.xkcd.com/comics/early_arthropods_2x.png
 ---
 {{incomplete transcript|Don't remove this notice too soon.}}

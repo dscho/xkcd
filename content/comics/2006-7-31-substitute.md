@@ -12,17 +12,17 @@ Randall: Miss Lenhart couldn't be here today, so she asked me to substitute.
 
 Randall: I've put out your tests. Please get started.
 
-[A student in the first row raises the exam paper and says:]
+[A Kidball student in the first row raises the exam paper and says:]
 
-Student: Mr. Munroe, Miss Lenhart never taught us this.
+Kidball: Mr. Munroe, Miss Lenhart never taught us this.
 
 Randall: That's because Miss Lenhart doesn't understand how important certain kinds of math are.
 
-Student: But this just looks--
+Kidball: But this just looks--
 
 Randall: This material is more vital than anything you've ever learned
 
-Student: But--
+Kidball: But--
 
 Randall: No buts.
 

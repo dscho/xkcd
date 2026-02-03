@@ -6,49 +6,49 @@ alt: >-
   Strip originally conceived in conversation with Jeph Jacques. Soon to be a major motion picture.
 img: https://imgs.xkcd.com/comics/the_man_who_fell_sideways.png
 ---
-[Cueball standing, with a dotted line perpendicular to him and a 30 degree angle going downwards.]
+[Kidball standing, with a dotted line perpendicular to him and a 30 degree angle going downwards.]
 
 From a young age, gravity pulled him wrong.
 
-[Cueball bouncing around his house.]
+[Kidball bouncing around his house.]
 
 Sometimes east, sometimes west. When he was restrained, it grew erratic.
 
 *WHAM WHAM*
 
-[Cueball bouncing/rolling on the ground.]
+[Kidball bouncing/rolling on the ground.]
 
 So he fell.
 
-Cueball: AAAA
+Kidball: AAAA
 
 *THUMPA THUMPA*
 
-[Cueball bouncing/rolling on the ground in a desert.]
+[Kidball bouncing/rolling on the ground in a desert.]
 
 Constantly
 
-Cueball: AAAAAAAAA
+Kidball: AAAAAAAAA
 
-[Cueball bouncing/rolling off a rock on the ground in a desert.]
+[Kidball bouncing/rolling off a rock on the ground in a desert.]
 
 Over land...
 
-Cueball: AAAAA-*THUD*-A
+Kidball: AAAAA-*THUD*-A
 
-[Cueball bouncing/rolling on the ground in the desert.]
+[Kidball bouncing/rolling on the ground in the desert.]
 
-Cueball: AAAAAAAAA
+Kidball: AAAAAAAAA
 
-[Cueball bouncing/rolling on the ground in the desert.]
+[Kidball bouncing/rolling on the ground in the desert.]
 
-Cueball: A-*THUD*-AAAAAA
+Kidball: A-*THUD*-AAAAAA
 
-[Cueball bouncing/rolling on the ground in the desert.]
+[Kidball bouncing/rolling on the ground in the desert.]
 
 Cueball: AA-*THUD*-AAAAA
 
-[Cueball skating the surface of the sea.]
+[Kidball has now grown up into a Cueball. He is skating the surface of the sea.]
 
 And sea.
 
@@ -138,14 +138,14 @@ Megan: !!
 
 Doctor: Whoops!
 
-Baby: Ga! Ga!
+Baby Kidball: Ga! Ga!
 
-[Baby bouncing/rolling out of hospital.]
+[Baby Kidball bouncing/rolling out of hospital.]
 
-Baby: WHEEEEEEEEEEEEE
+Baby Kidball: WHEEEEEEEEEEEEE
 
-[Baby bouncing/rolling in front of a sunset.]
+[Baby Kidball bouncing/rolling in front of a sunset.]
 
-Baby: EEEEEEEEEEEEEEEEEEE
+Baby Kidball: EEEEEEEEEEEEEEEEEEE
 
 The End

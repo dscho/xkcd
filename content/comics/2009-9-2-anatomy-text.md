@@ -8,11 +8,11 @@ img: https://imgs.xkcd.com/comics/anatomy_text.png
 ---
 Plate 15: Female breast
 
-[There is a drawing of a breast, with 'breast', 'areola', and 'nipple' labeled.]
+[There is a picture of part of a woman's torso, with 'breast', 'areola', and 'nipple' labeled.]
 
 Plate 16: External female genitalia
 
-[There is a picture of external female genitalia. 'labia majora', 'labia minora', 'clitoris', 'urethral opening', and 'vagina' are labeled.  Voice #1's speech bubble partly covers the middle of the genitalia.]
+[There is a picture of external female genitalia. 'labia majora', 'labia minora', 'clitoris', 'urethral opening', and 'vagina' are labeled.  Voice #1's speech bubble partly covers the middle of the genitalia and the words 'urethral opening'.]
 
 Voice #1: HEY!
 

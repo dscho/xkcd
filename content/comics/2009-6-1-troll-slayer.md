@@ -18,7 +18,7 @@ LOL face picture: Lol angsty teens.
 
 [Stephenie Meyer is shown sitting facing right and chatting at her computer. She get's a reply from the screen. It looks like she actually speaks the lines of text to someone, but she only types it in via the keyboard. This becomes clear in the next panel where the pimpled boy she talks to obviously types his reply on the keyboard. Across the top border of the frame is a smaller frame with a caption:]
 
-Hours Later:
+Hours later:
 
 Stephenie Meyer (typing): Hi, it's Stephenie Meyer. Fine, you don't like my books. But please leave us alone.
 
@@ -32,33 +32,15 @@ Pimpled boy (typing): And what, call the internet police? You don't get it, do y
 
 Stephenie Meyer (from computer): Okay. Just remember, I gave you a chance. <code>\*Disconnected\*</code>.
 
-[A page from a book is shown lying slanted across the panel. Some of the text is thus cut off at the edges of the frame. The first eight lines can be read clearly, even though the last letter in both the 2nd and sixth line is partly cut-off. Below that there are four incomplete lines, where only the visible part will be transcribed, but a good guess at the missing text is written in square brackets. Across the top border of the frame is a smaller frame with a caption:]
+[A page from a book is shown lying slanted across the panel. Some of the text is thus cut off at the edges of the frame. The first eight lines can be read clearly, even though the last letter in both the 2nd and sixth line is partly cut off. Below that there are four incomplete lines, where only the visible part will be transcribed, but a good guess at the missing text is written in square brackets. Across the top border of the frame is a smaller frame with a caption:]
 
-Six Months Later:
+Six months later:
 
 Vampires! Book VI
 
-Edward ran a pale hand
+Edward ran a pale hand through his perfect golden-bronze hair, then signed on to 4chan.org, the darkest place on the internet, where all his vampire compatriots  spent their time.
 
-through his perfect golden-
-
-bronze hair, then signed
-
-on to 4chan.org, the darkest
-
-place on the internet, where
-
-all his vampire compatriots
-
-spent their time.
-
-Suddenly, there was [a]
-
-[sha]rp knock at the d[oor]
-
-[?] swept in [?]
-
-[?r?]ing [?]
+Suddenly, there was [a] [sha]rp knock at the d[oor] [?] swept in [?] [?r?]ing [?]
 
 [Another list of post comments alongside pictures on the same website as in the first panel.  The first picture shows a man with black hair and a woman with long hair standing with their backs against each other (probably Edward and Bella from the books). The second picture is just a white frame with the text Dawnz. The third picture shows a person from the chest and up. The person has black hair and black clothes, with some kind of collar. The fourth and last picture shows two chess piece a large one in front of the other. The picture is shown completely but the text message seems to be more than two lines long, but only the top two lines are shown. Across the top border of the frame is a smaller frame with a caption:]
 
@@ -74,4 +56,4 @@ Chess piece picture: Any Twilight fans in Dallas want to meet a lonely
 
 [Back to the boy with lots of pimples now sitting resigned at his computer without typing.]
 
-Hairy: Oh... Oh God.
+Pimpled boy: Oh... oh God.

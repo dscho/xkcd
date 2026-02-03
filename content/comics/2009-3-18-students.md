@@ -28,6 +28,4 @@ Cueball (thinking): In fact, I think I remember graduating. What the hell is—
 
 [Caption below the last three panels of the comic:]
 
-Fun Fact: Decades from now, with school a distant
-
-memory, you'll <u>still</u> be having this dream.
+Fun Fact: Decades from now, with school a distant memory, you'll <u>still</u> be having this dream.

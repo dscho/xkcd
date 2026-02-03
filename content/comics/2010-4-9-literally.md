@@ -22,15 +22,15 @@ Crazy man: Eighteen years I've watched you!
 
 Crazy man: Waiting!
 
-[A flashback panel. Four kids are standing around talking to each other. To the left is a girl with a ponytail and in front of her is a kid looking like Cueball - this is the Crazy man as a kid. He speaks to two kids in front of him, the one looking like Cueball, is actually Cueball as a kid, and then another kid with short black hair is standing with him. Above this panels frame, which is not as high as the other panels, there is text narrated by the crazy man. He also narrates a line at the bottom of the panel where the flashback panels frame is cut of at the bottom right.]
+[A flashback panel. Four kids are standing around talking to each other. To the left is Ponytail as a child and in front of her is Kidball - this is the crazy man as a kid. He speaks to two kids in front of him, Kidball as a child, and then Hairy as a child is standing with him. Above this panels frame, which is not as high as the other panels, there is text narrated by the crazy man. He also narrates a line at the bottom of the panel where the flashback panels frame is cut of at the bottom right.]
 
 Crazy man (narrating): Ever since that day in seventh grade when you humiliated me.
 
 Crazy man as a kid: I told him and he literally *exploded!*
 
-Cueball as a kid: Uh, unless he physically *burst*, you mean "figuratively".
+Kidball: Uh, unless he physically *burst*, you mean "figuratively".
 
-Kid with hair: Hah.
+Friend: Hah.
 
 Crazy man (narrating): Remember?
 
