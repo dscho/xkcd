@@ -8,6 +8,8 @@ img: https://imgs.xkcd.com/comics/groundhog_day_meaning_2x.png
 ---
 {{incomplete transcript|Don't remove this notice too soon.}}
 
+[Cueball and Black Hat are standing next to each other, talking. Cueball has one arm up.]
+
 Cueball: Historically, it refers to a ceremony to predict the weather using a rodent.
 
 Cueball: But nowadays people often use it to mean "a time loop experienced by one person."
