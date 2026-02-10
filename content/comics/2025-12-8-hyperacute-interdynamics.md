@@ -6,7 +6,7 @@ alt: >-
   Our models fall apart where the three theories overlap; we're unable to predict what happens when a nanometer-sized squirrel eats a grapefruit with the mass of the sun.
 img: https://imgs.xkcd.com/comics/hyperacute_interdynamics_2x.png
 ---
-[Miss Lenhart is teaching a classroom holding a finger up in front of the class. Two students can be seen sitting at desks in front of her, a Cueball like boy is on the first row and Jill, taking notes, is in the second row.]
+[Miss Lenhart is teaching a classroom holding a finger up in front of the class. Two students can be seen sitting at desks in front of her, Kidball is on the first row and Jill, taking notes, is in the second row.]
 
 Miss Lenhart: Modern physics rests on three main pillars:
 

@@ -6,8 +6,6 @@ alt: >-
   The discovery of a fully typographical star system comes with a big asterisk.
 img: https://imgs.xkcd.com/comics/binary_star_2x.png
 ---
-{{incomplete transcript|Don't remove this notice too soon.}}
-
 [Graphical depiction of a binary star system. The orbits are shown with dashed lines. One star is revolving circularly close to the center of mass and is shown as a filled circle. The other has a very elliptic orbit further out. It is currently close to its furthest point from the other star. This star is depicted as a pentagram.]
 
 [Caption below the image:]
