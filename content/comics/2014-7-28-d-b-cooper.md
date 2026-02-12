@@ -6,7 +6,7 @@ alt: >-
   'Why on Earth would someone commit air piracy just to finance a terrible movie decades later?' 'People are very strange these days.'
 img: https://imgs.xkcd.com/comics/d_b_cooper.png
 ---
-[Cueball is using a baton to point towards a projector.]
+[Cueball is gesturing with a pointer to a board or Powerpoint-type display.]
 
 D.B. Cooper
 

@@ -10,7 +10,7 @@ img: https://imgs.xkcd.com/comics/people_are_stupid.png
 
 White Hat: Well, you know, people are stupid.
 
-Cueball: \*Sigh\*
+Cueball: \**Sigh*\*
 
 [They have moved a little further apart.]
 

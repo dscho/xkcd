@@ -31,3 +31,5 @@ Off-panel: I see a dragon holding a sword in its teeth on the cover of a book th
 Cueball: And? That's a ***classic!***
 
 Off-panel: Just saying, I don't think this is a new development.
+
+Hyperlink from comic image: https://www.newyorker.com/culture/rabbit-holes/the-repressive-authoritarian-soul-of-thomas-the-tank-engine-and-friends
