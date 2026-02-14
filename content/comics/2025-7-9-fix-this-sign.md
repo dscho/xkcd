@@ -26,6 +26,6 @@ $50 fix centering
 
 $100 fix rotation
 
-[Ponytail stands looking at the sign, apparently in the process of using a smartphone:] Grrr...
+[Ponytail stands looking at the sign, apparently in the process of using a smartphone:] *Grrr*...
 
 [Caption below panel:] My new company's business model is based on extorting graphic designers.

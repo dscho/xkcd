@@ -12,8 +12,8 @@ Banner. 10th Annual Symposium on Formal Languages
 
 *Crash*
 
-[Cueball stops in front of Megan spreads out his hands and shouts:]
+[Cueball stops in front of Megan, spreads out his hands, and shouts:]
 
 Cueball: Grammar!
 
-[Cueball then runs off the right side of the panel, so swiftly he leaves a cloud of dust in his wake. Megan at the podium just looks after him silently.]
+[Cueball then runs off the right side of the panel, so swiftly he leaves a cloud of dust in his wake. Megan, still at the podium, just looks after him silently.]
