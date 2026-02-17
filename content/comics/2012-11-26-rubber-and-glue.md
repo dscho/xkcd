@@ -6,17 +6,17 @@ alt: >-
   I'm rubber. You're rubber. We contemplate the reality of our existence in mute, vulcanized horror.
 img: https://imgs.xkcd.com/comics/rubber_and_glue.png
 ---
-[Playground. A girl, with hair similar to Megan's, is balancing on a swing, two Cueball-like kids are swinging and two more kids, a young Cueball and a young Hairy are approaching a reading young Black Hat, whose hat is almost too big for his small head.]
+[Playground. A girl, with hair similar to Megan's, is balancing on a swing, two Kidballs are swinging and two more kids, Kidball a young Hairy are approaching a reading young Black Hat, whose hat is almost too big for his small head.]
 
 Hairy: Whatchya reading, Hatboy?
 
 Black Hat: The CRC Handbook of Chemistry and Physics.
 
-Cueball: You are such a loser, it's *painful*.
+Kidball: You are such a loser, it's *painful*.
 
 Black Hat: I'm rubber, you're glue.
 
-[In a frame-less panel Hairy and Cueball looks down on Black Hat sitting with his book in his lap on the ground between them. He looks back up over his shoulder at Hairy.]
+[In a frame-less panel Hairy and Kidball looks down on Black Hat sitting with his book in his lap on the ground between them. He looks back up over his shoulder at Hairy.]
 
 Hairy: Yeah, well—
 

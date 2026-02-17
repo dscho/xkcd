@@ -72,7 +72,7 @@ Fortunately, the only way they could move was by turning on their vibrate while 
 
 ;Comic #8
 
-[Cueball is reading to his child.]
+[Cueball is reading to his child, Kidball.]
 
 Cueball: And the wolf went to see the 38th little pig, who had built his house out of strontium.
 

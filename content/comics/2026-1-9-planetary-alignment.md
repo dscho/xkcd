@@ -6,8 +6,6 @@ alt: >-
   We're going to need to modify the surface to mount it on the test stand. Which ocean basin do you like the least?
 img: https://imgs.xkcd.com/comics/planetary_alignment_2x.png
 ---
-{{incomplete transcript|Don't remove this notice too soon.}}
-
 [Ponytail is approaching from off-screen, holding a clipboard and some sort of handheld apparatus. She is talking to Cueball, standing to the right.]
 
 Ponytail: The inspection revealed a few problems.

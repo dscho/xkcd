@@ -18,9 +18,9 @@ The malfunction causes a rush of dopamine whenever these trochees are heard or s
 
 The warning signs appear in childhood:
 
-[Jill is sitting in front of a TV.]
+[Kidball is sitting in front of a TV.]
 
-Jill: Yeah! Mighty teenage morphin' ninja power mutant turtle rangers!
+Kidball: Yeah! Mighty teenage morphin' ninja power mutant turtle rangers!
 
 Social reinforcement focuses the fixation on a few dozen words.
 

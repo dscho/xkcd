@@ -28,7 +28,7 @@ Suspension [A bridge deck supported by cables hung from two pillars and going to
 
 Filler [The hole is filled with rocks, which are larger than Cueball at the bottom but diminish in size the further up they are. Cueball is standing a third of the way from the left edge of the hole.]
 
-Budget Overrun [A bridge deck suspended from a single pillar that starts in the bottom left corner of the hole, then angles to the right such that the top of it is above the middle of the deck. Nine support cables are visible, but another one is likely behind the pillar itself. Cueball is standing between the thoitd and fourth cables from the right.]
+Budget Overrun [A bridge deck suspended from a single pillar that starts in the bottom left corner of the hole, then angles to the right such that the top of it is above the middle of the deck. Nine support cables are visible, but another one is likely behind the pillar itself. Cueball is standing between the third and fourth cables from the right.]
 
 Jump [Ramps are present on both sides of the hole. Cueball, riding a skateboard, is in the air approximately a third of the way from the left, indicating that he has jumped off of the left ramp.]
 
