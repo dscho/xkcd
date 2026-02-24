@@ -22,18 +22,18 @@ Cueball: Or that you eliminated one incorrectly?
 
 Cueball: Both of those remain, too.
 
-[Zoom back out to show both parties. Cueball is holding his arms out.]
+[Zoom back out to show both. Cueball holds his arms out.]
 
 White Hat: You're being pedantic.
 
 White Hat: It's just a general rule for deduction.
 
-Cueball: But it's a *bad rule.*
+Cueball: But it's a ***bad rule.***
 
-[Cueball is now holding up one finger.]
+[Cueball holds up one finger.]
 
-Cueball: How often have you thought, "I can't find this thing, and I've searched the whole house. The only place I haven't looked is the car, so it *must* be there."
+Cueball: How often have you thought, "I can't find this thing, and I've searched the whole house. The only place I haven't looked is the car, so it ***must*** be there."
 
-White Hat: ...And then it's never in the car.
+White Hat: ...and then it's never in the car.
 
-Cueball: *It's never in the car!*
+Cueball: ***It's never in the car!***

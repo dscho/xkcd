@@ -12,9 +12,9 @@ img: https://imgs.xkcd.com/comics/metaball.png
 
 [Cueball leaps towards the ball as it falls towards a basketball hoop. Hairbun also stretches her arm up.]
 
-Ponytail (offscreen):***Out!***
+Ponytail (offscreen): ***Out!***
 
-[Ponytail walks toward them consulting a piece of paper divided in sections:]
+[Ponytail walks toward them consulting a large piece of paper divided into sections.]
 
 Megan (offscreen): What do you *mean*, out?!
 
