@@ -10,8 +10,10 @@ My Hobby:
 
 Using the more obscure meanings of "affect" and "effect" to try to trip up amateur grammar Nazis.
 
-Cueball: I think that our foreign policy effects the situation.
+[Cueball is sitting at his desk in front of a computer.]
 
-Grammar Nazi, via Computer: You mean "affects."
+Cueball, via Computer: I think that our foreign policy effects the situation.
+
+Amateur Grammar Nazi, via Computer: You mean "affects."
 
 Cueball: tee hee hee

@@ -8,7 +8,7 @@ img: https://imgs.xkcd.com/comics/map_projections.png
 ---
 What your favorite
 
-**Map Projection**
+[More prominant, larger text] 'Map Projection'
 
 says about you
 
