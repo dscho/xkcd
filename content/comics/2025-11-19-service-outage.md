@@ -12,7 +12,7 @@ img: https://imgs.xkcd.com/comics/service_outage_2x.png
 
 [The productivity line starts at average. A point in time is labelled 'outage begins']
 
-[After that, the line splits into two lines: one labelled "People whose work relies on the service". It goes down over time.]
+[After that, the line splits into two lines: one labelled "People whose work relies on the service". It drops off semi-sharply before leveling out much lower than the starting point.]
 
 [The second line is labelled "People whose work doesn't rely on the service". It jumps a little  and stays roughly constant after.]
 

@@ -12,7 +12,7 @@ img: https://imgs.xkcd.com/comics/double_pronged_extension_cord_2x.png
 
 Cueball: Do you have an extension cord with prongs at both ends? Can I borrow it?
 
-Ponytail: ***No***!!!
+Ponytail: ***No!!!***
 
 [Close up of Ponytail raising her arms in an exasperated fashion]
 
