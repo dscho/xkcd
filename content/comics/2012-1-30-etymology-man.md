@@ -36,10 +36,10 @@ Etymology-man: Remember that until 2004, there weren't any clear photos or video
 
 Of course, in 2004 and 2011, it was made clear to everyone that a tsunami is more like a rapid, turbulent, inrushing tide - exactly what historical accounts describe.
 
-[Water begins to rush in. Etymology-man keeps his pedantic pose.]
+[Water begins to rush in. Etymology-man has dropped his arms by his side.]
 
 Etymology-man: Maybe those writing about Lisbon in 1755 used "tidal wave" not out of scientific confusion, but because it described the wave's form &mdash; a description lost in our rush to expunge "tidal wave" from English.
 
-[The water is now waist-deep. Etymology-man continues to drone on, but the others start to panic.]
+[The water is now waist-deep. Etymology-man resumes his pedantic pose and continues to drone on, but the others start to panic.]
 
 Etymology-man: "Tsunami" is now the standard, and I'm not trying to change that. But let's be a tad less giddy about correcting "tidal wave" - especially when "tsunami" just means "harbor wave", which is hardly...
