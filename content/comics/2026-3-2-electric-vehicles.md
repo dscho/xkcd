@@ -6,7 +6,7 @@ alt: >-
   Now that I've finally gotten an electric vehicle, I'm never going back to an acoustic one.
 img: https://imgs.xkcd.com/comics/electric_vehicles_2x.png
 ---
-[Cueball is standing to the left side of the panel, and [[Megan]] and [[White Hat]] are standing to his right, facing him.]
+[Cueball is standing to the left side of the panel with his arms out, and [[Megan]] and [[White Hat]] are standing to his right, facing him.]
 
 Cueball: I would never get an electric vehicle.
 

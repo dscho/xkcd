@@ -6,9 +6,7 @@ alt: >-
   Unfortunately, my scheme to trick NASA has now taken over a decade longer than planned and has run way over budget.
 img: https://imgs.xkcd.com/comics/cost_savings_2x.png
 ---
-{{incomplete transcript|Don't remove this notice too soon.}}
-
-[Cueball is standing in front of a framed graph on a wall, pointing at it with a short stick. The graph is a bar graph with steadily decreasing bar heights. Hairy and Megan, seated, are looking on from behind a desk.]
+[Cueball is standing in front of a framed graph on a wall, demonstrating towards it with a pointer. The graph is a bar graph with steadily decreasing bar heights. Hairy and Megan, seated, are looking on from behind a desk.]
 
 Cueball: By lowering the planned satellite orbit, we can reduce the size of the launch vehicle required.
 
