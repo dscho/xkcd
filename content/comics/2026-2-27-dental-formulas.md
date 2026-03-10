@@ -16,7 +16,7 @@ along with a drawing of a tooth and some other scribbles.]
 
 Cueball: Do mammologists think these are hard?
 
-Cueball: I mean this one just evaluates to 3/2.
+Cueball: I mean, this one just evaluates to 3/2.
 
 [Caption below the panel:]
 
