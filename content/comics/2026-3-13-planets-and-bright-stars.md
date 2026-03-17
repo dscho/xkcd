@@ -6,32 +6,14 @@ alt: >-
   An old astronomer trick for distinguishing the Sun from other stars is to take multiple photos a few minutes apart and overlay them, making the Sun stand out due to its high proper motion.
 img: https://imgs.xkcd.com/comics/planets_and_bright_stars_2x.png
 ---
-{{incomplete transcript|Don't remove this notice too soon.}}
+[An array of four columns and three rows of white dots are displayed on a black background. Above them there is caption in white text. Below each white dot there is a label in white. The dots are almost identical, slightly fuzzy and 'white'. There may be a slight color hue to some of the dots, and very minor differences in size, but it is not clearly visible.]
 
-[Caption: Planets and bright stars identification chart:]
+[Caption text:] Planets and Bright Stars identification chart
 
-[A 4x3 grid of planets and stars are displayed on a black background. White text below dots of light caption which object it is. Planets and stars are represented by almost-identical slightly fuzzy dots of white light.]
+[Dot labels, in reading order:]
 
-Venus
+[Top row:]&nbsp;&nbsp; Venus&nbsp;&nbsp;&nbsp;&nbsp; Mars&nbsp;&nbsp;&nbsp;&nbsp; Jupiter&nbsp;&nbsp;&nbsp;&nbsp; Saturn
 
-Mars
+[Middle row:]&nbsp;&nbsp; Mercury&nbsp;&nbsp;&nbsp;&nbsp; Sirius&nbsp;&nbsp;&nbsp;&nbsp; Procyon&nbsp;&nbsp;&nbsp;&nbsp; Antares
 
-Jupiter
-
-Saturn
-
-Mercury
-
-Sirius
-
-Procyon
-
-Antares
-
-Altair
-
-Betelgeuse
-
-Vega
-
-Polaris
+[Bottom row:]&nbsp;&nbsp; Altair&nbsp;&nbsp;&nbsp;&nbsp; Betelgeuse&nbsp;&nbsp;&nbsp;&nbsp; Vega&nbsp;&nbsp;&nbsp;&nbsp; Polaris
