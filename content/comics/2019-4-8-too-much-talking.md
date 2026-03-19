@@ -28,7 +28,7 @@ Cueball: Time to hide under my bed and never speak to another human again.
 
 [The bed is shown, presumably with Cueball under it.]
 
-Five minutes later...
+[Caption:] Five minutes later...
 
 [Cueball crawling out from under the bed]
 
