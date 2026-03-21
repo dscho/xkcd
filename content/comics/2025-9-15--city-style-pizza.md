@@ -12,7 +12,7 @@ img: https://imgs.xkcd.com/comics/city_style_pizza_2x.png
 
 [X axis: City size]
 
-[Y axis: Tastiness of "<city>-style pizza"]
+[Y axis: Tastiness of "&lt;city&gt;-style pizza"]
 
 [A shaded region is bounded by a lower bound and an upper bound. The upper bound has a slight peak corresponding to a smallish city, but is otherwise mostly flat. The lower bound appears on the X axis close to the left, evens out to being almost flat in the middle, and rises toward the right.]
 
