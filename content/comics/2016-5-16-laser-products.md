@@ -6,6 +6,8 @@ alt: >-
   ERRORS: HAIR JAM. COLOR-SAFE CONDITIONER CARTRIDGE RUNNING LOW. LEGAL-SIZE HAIR TRAY EMPTY, USING LETTER-SIZE HAIR ONLY.
 img: https://imgs.xkcd.com/comics/laser_products.png
 ---
+{{incomplete transcript | there shouldnt be tables in the transcript}}
+
 [Heading above the table:]
 
 Online Reviews of Laser Products

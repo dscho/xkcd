@@ -12,7 +12,7 @@ Megan: What are you doing?
 
 Black Hat: Making the world a weirder place.
 
-Bobcat: *mrrowlll*
+[Bobcat, in wild, skewed text]: *mrrowlll*
 
 [Black Hat has finished taping the package for shipping.]
 
@@ -20,8 +20,8 @@ Black Hat: Starting with my eBay feedback page.
 
 [Bandaged person at a computer with assorted debris around the floor.]
 
-Screen: comments:
+[Contents of screen, bold header:] **Comments:**
 
-Bandaged person typing: Instead of office chair package contained bobcat.
+[Line of typed text:] Instead of office chair package contained bobcat.
 
-Bandaged person typing: Would not buy again.
+[Line of typed text:] Bandaged person typing: Would not buy again.
