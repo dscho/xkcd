@@ -6,8 +6,6 @@ alt: >-
   Depending what corners of the internet you hang out on, 'regular' may at times awkwardly coexist with 'sexy.'
 img: https://imgs.xkcd.com/comics/inflation_timeline_2x.png
 ---
-{{incomplete transcript|Don't remove this notice too soon.}}
+[Label of timeline]: Timeline of Inflation
 
-[Caption:] Timeline of Inflation
-
-[A log scale timeline marked by "Age of the Universe (Seconds)" at each factor of 10<sup>10</sup>, ranging from 10<sup>-40</sup> to 10<sup>20</sup>. A bar labeled "Cosmic" begins off-panel to the left and continues up to roughly 10<sup>-32</sup> seconds. A second, much thinner bar labeled "Regular" covers another period between roughly 10<sup>16</sup> and 10<sup>18</sup> seconds.]
+[A log-scale timeline labeled "Age of the Universe (seconds)" ranging from 10<sup>-44</sup> to about 10<sup>25</sup>, with labeled tick marks at 10<sup>-40</sup>, 10<sup>-30</sup>, and so on until 10<sup>20</sup> s. An arrow points from the text "Cosmic" to a bar that begins off-panel to the left and continues up to roughly 10<sup>-33</sup> seconds. Another arrow points from the text "Regular" to a second, much thinner bar that covers another period between roughly 10<sup>16.9</sup> and 10<sup>17.3</sup> seconds.]
