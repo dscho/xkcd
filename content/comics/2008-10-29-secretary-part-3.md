@@ -26,7 +26,7 @@ Black Hat: I have evidence! Don't trust the media! Wake up, sheeple!
 
 Senator 4: You were fired from Radio Shack after you built a death ray and vaporized a customer?
 
-Black Hat: I was just testing it! Figures that'd be the one day there was a shopper in the aisle.
+Black Hat: I was just testing it! Figures that'd be the *one* day there was a shopper in the aisle.
 
 Senator 4: And you were thrown out of Microsoft headquarters for... trying to feed a squirrel through a fax machine?
 
@@ -38,7 +38,7 @@ Which I won, by the way.
 
 Senator 2: This is the worst history of vandalism, gleeful mayhem, and general recalcitrance we've seen in a nominee since Ruth Bader Ginsburg.
 
-Senator 2: And this-you stole a nuclear submarine?
+Senator 2: And this–you *stole* a nuclear submarine?
 
 Black Hat: I plead the third.
 
