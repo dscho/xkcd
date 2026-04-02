@@ -6,7 +6,7 @@ alt: >-
   We're working to make sure the images are as up-to-date and accurate as possible, with a minimum number of sponsored galaxies.
 img: https://imgs.xkcd.com/comics/satellite_pollution_2x.png
 ---
-[White Hat and Ponytail are standing on the left, Cueball is on the right, in front of a poster on the wall. The poster has a portion of the Earth at the bottom, with outer space above it. The space scene has lots of stars, along with a few nebulae and galaxies. Part of the space scene is enclosed in a quadrilateral (a slightly skewed rectangle) which is attached to a much smaller satellite. The quadrilateral itself is a picture of the night sky, showing an inaccurate picture of the stars.]
+[White Hat and Ponytail are standing on the left, Cueball is on the right, in front of a poster on the wall. The poster has a portion of the Earth at the bottom, with outer space above it. The space scene has lots of stars, along with a few nebulae and galaxies. Part of the space scene is enclosed in a quadrilateral (apparently a rectangle skewed by perspective) which is attached at the middle of its left side to a much smaller object. Its upper edge shows that it has a little thickness, or at least a parallel stiffening frame, rather than being two-dimensional.]
 
 Ponytail: Aren't you worried these will be disruptive for ground-based astronomy?
 

@@ -6,6 +6,8 @@ alt: >-
   'Barack Obama is much less likely than the average cat to jump in and out of cardboard boxes for fun' is low precision, but I'm not sure about the accuracy.
 img: https://imgs.xkcd.com/comics/precision_vs_accuracy_2x.png
 ---
+{{incomplete transcript|The transcript shouldn’t be a table.}}
+
 [The comic shows a table with 3 rows and 3 columns. Each row and column has a label, and then nine statements are given for the 3x3 grid.]
 
 {| class="wikitable"

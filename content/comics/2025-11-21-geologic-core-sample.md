@@ -6,8 +6,6 @@ alt: >-
   If you drill at the right angle and time things perfectly, your core sample can include a section of a rival team's coring equipment.
 img: https://imgs.xkcd.com/comics/geologic_core_sample_2x.png
 ---
-{{incomplete transcript|Don't remove this notice too soon.}}
-
 [Caption at the top of the panel:] Typical geologic core sample
 
 [Below this is a drawing of a cylindrical core sample with various labels, in order from the top of the panel toward the bottom.]

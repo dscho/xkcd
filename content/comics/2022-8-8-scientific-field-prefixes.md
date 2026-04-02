@@ -6,6 +6,8 @@ alt: >-
   Massage: Theoretical (10), Quantum (6), High-energy (2), Computational (1), Marine (1), Astro- (None)
 img: https://imgs.xkcd.com/comics/scientific_field_prefixes.png
 ---
+{{incomplete transcript|The transcript shouldn’t be a table. }}
+
 [A table is drawn with seven columns and six rows. Above each column and to the left of each row there is a label. All 42 fields are filled out with a number, except when the number is 0, then it says none in a red font. Above the table there is a large header:]
 
 <big>Number of search results on Google Scholar</big>
