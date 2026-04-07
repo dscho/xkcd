@@ -6,7 +6,7 @@ alt: >-
   Sharks can occasionally travel short distances through air when pursuing prey, but their attenuation coefficient is pretty high.
 img: https://imgs.xkcd.com/comics/shielding_chart_2x.png
 ---
-{{incomplete transcript|Don't remove this notice too soon.}}
+{{incomplete transcript|Check if it's complete.}}
 
 [The whole comic is in one panel]
 
