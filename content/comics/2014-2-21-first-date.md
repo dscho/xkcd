@@ -26,7 +26,7 @@ Megan: This plate looks delicious.
 
 Megan: Aaaoogaoag.
 
-[Megan has put the plate down and walked off-panel.]
+[Megan has put the plate down and walked off-panel. Subtly, Cueball's glass is significantly emptier.]
 
 Megan: Bye.
 

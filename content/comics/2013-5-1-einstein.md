@@ -12,7 +12,7 @@ Cueball: I'm currently conducting an experiment which may prove Einstein wrong!
 
 Friend: Ooh, exciting!
 
-1947:
+[Caption: 1947:]
 
 [Einstein and Cueball walking.]
 
