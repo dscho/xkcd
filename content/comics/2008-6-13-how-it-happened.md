@@ -8,7 +8,7 @@ img: https://imgs.xkcd.com/comics/how_it_happened.png
 ---
 [Cueball and his friend standing.]
 
-Cueball: Then she put her hands over mine, grinds against me, leans down and whispers, "After tonight, we go and live our lives, no regrets. But I want this, I want you, one last time."
+Cueball: Then she puts her hand over mine, grinds against me, leans down and whispers, "After tonight, we go and live our lives, no regrets. But I want this, I want you, one last time."
 
 Friend: (Giving a thumbs up, pointing, surrounded by action lines)
 

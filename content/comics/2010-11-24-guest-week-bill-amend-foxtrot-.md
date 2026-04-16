@@ -18,7 +18,7 @@ Jason: Sudo let me draw some strips for you.
 
 [The following are transcripts of three strips.]
 
-[Cueball and Ponytail are looking at each other.]
+[Cueball and Ponytail are looking at each other. Ponytail has some hearts floating next to her head.]
 
 Cueball: I find you more attractive than usual.
 
@@ -34,7 +34,7 @@ Cueball: Just sayin'.
 
 [Two people are in a living room. The woman is looking through a chest of drawers.]
 
-At home with the Heisenbergs
+Caption: At home with the Heisenbergs
 
 Mrs. Heisenberg: I can't find my car keys.
 

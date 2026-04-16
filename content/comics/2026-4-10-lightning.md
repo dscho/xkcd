@@ -8,10 +8,10 @@ img: https://imgs.xkcd.com/comics/lightning_2x.png
 ---
 {{incomplete transcript|Don't remove this notice too soon.}}
 
-[Lightning overhead. Cueball and Ponytail are standing on a hill at night.]
+[Most of the panel is black, with Cueball and Ponytail (holding a walking stick) on the side of a hill shown in all white. A bolt of lighting, also all white, is in the sky above them and accompanied by a booming sound.]
 
-[In the sky, by the lightning:]
+[Lightning:]
 
-BOOOOM
+<big>BOOOOM</big>
 
 Cueball: Don't worry, I'm wearing an anti-static wrist strap

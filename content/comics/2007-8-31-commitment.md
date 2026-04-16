@@ -20,6 +20,6 @@ Cueball: I do.
 
 Megan: Hi.
 
-[Same picture but without the cloud and angels. Cueball's thought is written in a frame with yellow background.]
+[The cloud and angels disappear, and Cueball has let go of blond girl's hand. His thought is written in a frame with yellow background.]
 
 Well, shit.

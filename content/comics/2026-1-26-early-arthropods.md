@@ -18,7 +18,7 @@ Arthropod 2: I'm gonna evolve sharp pincers and use them to crunch stuff!
 
 Arthropod 3: I'm gonna evolve glands to make string from my butt and use it to construct elaborate geometric nets hundreds of times my size to catch other animals.
 
-[Beat panel narrowed in on the arthropods.]
+[Beat panel narrowed in on the arthropods. The arthropod in the center has turned to face the rightmost one.]
 
 [Same scene:]
 
