@@ -3,7 +3,7 @@ date: 2026-04-15
 title: "Make It Myself"
 num: 3233
 alt: >-
-  It's not as big a loss as it looks, because now I have have leftover supplies, which will help me talk myself into doing this all over again with a new project!
+  It's not as big a loss as it looks, because now I have leftover supplies, which will help me talk myself into doing this all over again with a new project!
 img: https://imgs.xkcd.com/comics/make_it_myself_2x.png
 ---
 {{incomplete transcript|Don't remove this notice too soon.}}

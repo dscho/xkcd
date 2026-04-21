@@ -12,8 +12,10 @@ Cueball: In the words of Archimedes,
 
 [Cueball extends his left arm slightly.]
 
-Cueball: Give me a long enough lever and a place to rest it
+Cueball: Give me a long enough lever
 
-[Cueball is now holding a gun in his right hand.]
+Cueball: and a place to rest it
 
-Cueball: Or I will kill one hostage every hour.
+[Cueball is now brandishing a gun in his right hand.]
+
+Cueball: or I will kill one hostage every hour.
