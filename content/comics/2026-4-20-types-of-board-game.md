@@ -6,11 +6,9 @@ alt: >-
   I can't believe Candles of Vienna caved to commercial pressure and added the Goku expansion.
 img: https://imgs.xkcd.com/comics/types_of_board_game_2x.png
 ---
-{{incomplete transcript|Don't remove this notice too soon.}}
-
 Types of Board Game
 
-[Under this header text, the comic contains 8 panels. Each of them is labeled at the top with a short description of the board game being played and features (from left to right) Cueball, Ponytail, Megan, and White Hat sitting on chairs around a counter trying to play it.]
+[Under this header text, the comic contains 8 panels. Each of them is labeled at the top with a short description of the board game being played and features (from left to right) Cueball, Ponytail, Megan, and White Hat sitting on chairs around a table trying to play it.]
 
 Boring
 
@@ -26,7 +24,7 @@ Ponytail: It's October 2, 1814. The Congress of Vienna convenes. You are each in
 
 Overcomplicated
 
-White Hat: It's a cross between \*Twilight Imperium\* and \*Cones of Dunshire,\* but implemented entirely in category theory. Every cone is a monad, and...
+White Hat: It's a cross between *Twilight Imperium* and *Cones of Dunshire*, but implemented entirely in category theory. Every cone is a monad, and...
 
 Cooperative
 
@@ -42,4 +40,4 @@ Ponytail: Each of the cards in your hand has a bad word on it. On the count of t
 
 Social Deduction
 
-Megan: Remember, per our \*Find the Secret Murderer\* house rules from last week, discovering that a player had committed a real-life murder does \*not\* count.
+Megan: Remember, per our *Find the Secret Murderer* house rules from last week, discovering that a player had committed a real-life murder does *not* count.

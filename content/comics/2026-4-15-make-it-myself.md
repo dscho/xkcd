@@ -6,9 +6,7 @@ alt: >-
   It's not as big a loss as it looks, because now I have leftover supplies, which will help me talk myself into doing this all over again with a new project!
 img: https://imgs.xkcd.com/comics/make_it_myself_2x.png
 ---
-{{incomplete transcript|Don't remove this notice too soon.}}
-
-[Cueball and White Hat stand together looking at two boxes on the right side of the frame. Each box has labels saying "Sale" and "$80" on one of the visible sides of the box, and illegible text on the other visible side of the box. Cueball is holding his arms out toward the boxes.]
+[Cueball and White Hat stand together looking at two boxes on the right side of the frame. Each box has labels saying "Sale" and "$80" on one of the visible sides of the box, and 3 boxes of illegible text on the other visible side of the box. Cueball is holding his arms out toward the boxes.]
 
 Cueball: They want $80 for this?
 
