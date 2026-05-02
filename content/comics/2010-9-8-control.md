@@ -10,7 +10,7 @@ img: https://imgs.xkcd.com/comics/control.png
 
 My Hobby:
 
-[Cueball looks down at his arm calmly, while next to him Megan is violently flailing around in terror. In the foreground a Cueball-like guy stands next to Ponytail who is holding a clipboard. They look on in puzzlement.]
+[Cueball looks down at his arm calmly, while next to him Megan is violently flailing around in terror, making it seem as if she has six arms. In the foreground a Cueball-like guy stands next to Ponytail who is holding a clipboard. They look on in puzzlement.]
 
 Cueball: My rash seems to have shrunk by about 20% today.
 

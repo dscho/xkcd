@@ -6,44 +6,48 @@ alt: >-
   ERRORS: HAIR JAM. COLOR-SAFE CONDITIONER CARTRIDGE RUNNING LOW. LEGAL-SIZE HAIR TRAY EMPTY, USING LETTER-SIZE HAIR ONLY.
 img: https://imgs.xkcd.com/comics/laser_products.png
 ---
-{{incomplete transcript | there shouldnt be tables in the transcript}}
-
 [Heading above the table:]
 
 Online Reviews of Laser Products
 
-[A three by three table with one word to the far left, from which three lines split out and goes to three words just left of each of the three rows. Above each column is three other words. Below in the table are nine reviews with star rating on a five star scale. The actual rating is indicated with black stars and also use half filled stars in the rating system. The ratings are written in the table in square brackets.]
+[A three by three table with one word to the far left, from which three lines split out and goes to three words just left of each of the three rows. Above each column is three other words. Below in the table are nine reviews with star rating on a five star scale. The actual rating is indicated with black stars and also use half filled stars in the rating system. The ratings are written in the table in square brackets.  [The nine table entries, flattened into their entry names with their values are listed below:]
 
-{| class="wikitable"
+<dl>
 
-!colspan="2"|
+<dt>Laser...eye...surgery</dt>
 
-! ...surgery
+<dd>[4 1/2 stars] "I don't need glasses anymore!"</dd>
 
-! ...removal
+<dt>Laser...eye...removal</dt>
 
-! ...printer
+<dd>[1/2 star] "Aaaaaaa! Misread the description! Aaaaaaaaaaaa!!"<dd>
 
-|-
+<dt>Laser...eye..printing</dt>
 
-!rowspan="3"|Laser
+<dd>[1 star] "Eww."<dd>
 
-! eye...
+<dt>Laser...jet...surgery</dt>
 
-| [4 1/2 stars]<br>"I don't need<br>glasses anymore!"<br><br> || [1/2 star]<br>"Aaaaaaa! Misread<br>the description!<br>Aaaaaaaaaaaa!!" || [1 star]<br>"Eww."<br><br><br>
+<dd>[1 1/2 stars] "Too nervous to try it."<dd>
 
-|-
+<dt>Laser...jet...removal</dt>
 
-! jet...
+<dd>[2 1/2 stars] "Effective, but the FAA got *really* mad."<dd>
 
-| [1 1/2 stars]<br>"Too nervous<br>to try it."<br><br> || [2 1/2 stars]<br>"Effective, but<br>the FAA got<br>*really* mad." || [4 stars]<br>"Prints great!"<br><br><br>
+<dt>Laser...jet...printing</dt>
 
-|-
+<dd>[4 stars] "Prints great!"<dd>
 
-! hair...
+<dt>Laser...hair...surgery</dt>
 
-| [2 1/2 stars]<br>"Confusing term<br>for haircut.<br>Burning smell." || [4 stars]<br>"Great results!"<br><br><br> || [1/2 star]<br>"Disgusting, won't<br>turn off, jams<br>constantly."<br>
+<dd>[2 1/2 stars] "Confusing term for haircut. Burning smell." <dd>
 
-|-
+<dt>Laser...hair...removal</dt>
 
-|}
+<dd>[4 stars] "Great results!"<dd>
+
+<dt>Laser...hair...printing</dt>
+
+<dd>[1/2 star] "Disgusting, won't turn off, jams constantly."<dd>
+
+</dl>
