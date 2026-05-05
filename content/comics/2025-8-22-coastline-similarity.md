@@ -10,14 +10,14 @@ img: https://imgs.xkcd.com/comics/coastline_similarity_2x.png
 
 Miss Lenhart: People had long noticed that South America and Africa had similarly-shaped coastlines.
 
-[A side view of the classroom. Jill and Cueball are sitting at school desks, looking at Miss Lenhart. The wall map is visible behind Miss Lenhart.]
+[A side view of the classroom. Jill and Kidball are sitting at school desks, looking at Miss Lenhart. The wall map is visible behind Miss Lenhart.]
 
 Miss Lenhart: In the 20<sup><small>th</small></sup> century, geologists finally found the explanation:
 
-[The same scene, with Cueball having his hands on his face.]
+[The same scene, with Kidball having his hands on his face.]
 
-Cueball: ***Plagiaris***--
+Kidball: ***Plagiaris***--
 
 Miss Lenhart: Continental drift.
 
-Cueball: Oh.
+Kidball: Oh.

@@ -8,7 +8,7 @@ img: https://imgs.xkcd.com/comics/simple_machines_2x.png
 ---
 {{incomplete transcript|Don't remove this notice too soon.}}
 
-[A rod with a square cross-section is shown sloping from top-left to bottom-right. At the bottom-right, it has a wedge tip. At the top-left, it is threaded and has a long nut on it. The nut has an eyelet where a rope is connected. The rope travels taut around a wheel on an axle connected near the wedge-end and then lies loose with a hook on the free end.]
+[A rod with a square cross-section is shown sloping from top-left to bottom-right. At the bottom-right, it has a wedge tip. At the top-left, it is threaded left-handed and has a long nut on it. The nut has an eyelet where a rope is connected. The rope travels taut around a wheel on an axle connected near the wedge-end and then lies loose with a hook on the free end.]
 
 [Caption below comic:]
 
