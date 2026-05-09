@@ -10,7 +10,7 @@ img: https://imgs.xkcd.com/comics/good_science_2x.png
 
 Miss Lenhart: I'm supposed to give you the tools to do good science.
 
-[Miss Lenhart is now seen standing in front of Jill and Cueball, who are seated at classroom desks. She is shrugging and has her arms up and looking away from board.]
+[Miss Lenhart is now seen standing in front of Jill and Kidball, who are seated at classroom desks. She is shrugging and has her arms up and looking away from board.]
 
 Miss Lenhart: But what ***are*** those tools?
 
