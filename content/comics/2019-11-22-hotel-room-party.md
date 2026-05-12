@@ -6,7 +6,7 @@ alt: >-
   [proudly greeting the hotel manager at the door] "Did I do a good job?"
 img: https://imgs.xkcd.com/comics/hotel_room_party.png
 ---
-[Hairy, Ponytail, Cueball, White Hat, Megan, and Blondie are standing in a line. Cueball is raising his left hand with his pointer finger extended and is facing his left. He is also pointing to the right. The other five are facing Cueball.]
+[Hairy, Ponytail, Cueball, White Hat, Megan, and Miss Lenhart are standing in a line. Cueball is raising his left hand with his pointer finger extended and is facing his left. He is also pointing to the right. The other five are facing Cueball.]
 
 Cueball: OK everyone, let's break into teams.
 

@@ -22,7 +22,7 @@ Cueball [looking at a phone in his hand]: It's so weird that I can feel the Eart
 
 Computer security
 
-Blondie: I wonder if today will be the day everyone gets hacked and it all finally collapses.
+Miss Lenhart: I wonder if today will be the day everyone gets hacked and it all finally collapses.
 
 Graphic design
 

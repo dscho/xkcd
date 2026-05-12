@@ -22,7 +22,7 @@ More useful
 
 [Megan is awkwardly handling a giant "ℝ" holding it up against White Hat who is holding a "θ" (or "∅"?) with both hands, as a shield.]
 
-[Cueball is holding an "∈" in both hands, with its "tines" pointed towards Blondie, who is swatting at him with a "#".]
+[Cueball is holding an "∈" in both hands, with its "tines" pointed towards Miss Lenhart, who is swatting at him with a "#".]
 
 [Ponytail is leaping at Danish, swinging a "*ρ*" like an axe, while Danish is leaning back and thrusting a "→" back at her.]
 

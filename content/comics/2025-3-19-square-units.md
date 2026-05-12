@@ -42,7 +42,7 @@ Written out of panel: ...a square 80 km wide, or roughly 2,500 square miles...
 
 Written out of panel: ...a 2,500-mile square, or twice the land area of Australia, per day...
 
-[Hairbun is looking at her phone, with White Hat, Danish and Blondie standing next to her.]
+[Hairbun is looking at her phone, with White Hat, Danish, and Miss Lenhart standing next to her.]
 
 Hairbun: Did you hear about this insect that defoliates the entire land area of Australia twice a day?
 
@@ -50,4 +50,4 @@ White Hat: Gosh!
 
 Danish: Wow.
 
-Blondie: I hope at least it's contained there...
+Miss Lenhart: I hope at least it's contained there...

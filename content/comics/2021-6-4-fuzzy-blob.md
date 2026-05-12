@@ -24,18 +24,18 @@ White Hat: How can a giant structure vanish?
 
 Cueball and White Hat: *...Cloaking device?!!*
 
-[Blondie is standing at the front of the panel with a microphone in her hand speaking towards the viewer. Behind her is a close up of the Blob (in black and white) on a screen. To the left of the screen is an almost bald man with hair behind his ears, holding a hand to his chin. To the right is Megan, who is holding one hand out palm up, towards the picture, which they are both looking at.]
+[Miss Lenhart is standing at the front of the panel with a microphone in her hand speaking towards the viewer. Behind her is a close up of the Blob (in black and white) on a screen. To the left of the screen is an almost bald man with hair behind his ears, holding a hand to his chin. To the right is Megan, who is holding one hand out palm up, towards the picture, which they are both looking at.]
 
-Blondie: The fuzzy blob, dubbed "flob" by internet sleuths, has city planners stumped.
+Miss Lenhart: The fuzzy blob, dubbed "flob" by internet sleuths, has city planners stumped.
 
 Man: No, that's not any type of building I'm familiar with.
 
 Megan: Could be an experimental military dome.
 
-[Hairbun is standing on a podium behind a lectern with a microphone on it. She addresses three people in front of the stage, Cueball, Megan and White Hat. Behind them Blondie is turned the other way speaking to a camera, on a tripod. She has a microphone in her hand.]
+[Hairbun is standing on a podium behind a lectern with a microphone on it. She addresses three people in front of the stage, Cueball, Megan and White Hat. Behind them Miss Lenhart is turned the other way speaking to a camera, on a tripod. She has a microphone in her hand.]
 
 Hairbun: The zoning board investigation has found no evidence of a cloaked dome structure.
 
 Hairbun: The historical commission will be joining the research into these domes and other unusual buildings, such as the historic 4th Ave Church...
 
-Blondie: This only raises more questions.
+Miss Lenhart: This only raises more questions.

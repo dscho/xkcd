@@ -14,13 +14,13 @@ Megan: Any questions?
 
 Logo: CDC
 
-[Blondie, Hairy and Megan are seen at the bottom of the panel in three separate rectangular panels with Blondie and Hairy's panels at the left above one another. Those panels are almost square and also smaller than Megan's, more rectangular panel to the right of theirs. This panel is centered at the middle of those two panels to the left, and the logo is still visible. It is also shown that Megan is standing behind a lectern. Blondie, above Hairy, is the one asking questions to Megan.]
+[Miss Lenhart, Hairy and Megan are seen at the bottom of the panel in three separate rectangular panels with Miss Lenhart and Hairy's panels at the left above one another. Those panels are almost square and also smaller than Megan's, more rectangular panel to the right of theirs. This panel is centered at the middle of those two panels to the left, and the logo is still visible. It is also shown that Megan is standing behind a lectern. Miss Lenhart, above Hairy, is the one asking questions to Megan.]
 
-Blondie: If my neighbors and I are all vaccinated, can I visit them unmasked and drink milk straight from the jug in their fridge?
+Miss Lenhart: If my neighbors and I are all vaccinated, can I visit them unmasked and drink milk straight from the jug in their fridge?
 
 Megan: I...You can visit, yes.
 
-Blondie: And the jug thing?
+Miss Lenhart: And the jug thing?
 
 Megan: ...Next question?
 

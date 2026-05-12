@@ -22,6 +22,6 @@ img: https://imgs.xkcd.com/comics/chess_zoo_2x.png
 
 Banner: *Shh! Pawns promoting.*
 
-[Jill near the center, standing in front of Blondie and pointing forward:]
+[Jill near the center, standing in front of Miss Lenhart and pointing forward:]
 
 Jill: Look, mommy! Bishops!

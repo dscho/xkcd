@@ -16,7 +16,7 @@ Cueball and Megan holding each other: You'd think by now I'd have learned never 
 
 ContextBot: (She downloaded a torrent that turned out to be an encrypted .rar and a link to a survey.)
 
-Blondie: I officially give up.
+Miss Lenhart: I officially give up.
 
 ContextBot: (She hit alt-tab to hide Minecraft at work and accidentally dropped a stack of diamond into lava.)
 

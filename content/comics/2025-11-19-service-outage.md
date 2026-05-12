@@ -6,8 +6,6 @@ alt: >-
   Now, if it were the *Canon* wiki, it's possible to imagine someone with a productivity-related reason for consulting it, but no one's job requires them to read that much about Admiral Daala.
 img: https://imgs.xkcd.com/comics/service_outage_2x.png
 ---
-{{incomplete transcript|Don't remove this notice too soon.}}
-
 [A graph of "Productivity when a major internet service goes down" over time]
 
 [The productivity line starts at average. A point in time is labelled 'outage begins']

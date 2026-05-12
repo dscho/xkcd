@@ -22,7 +22,7 @@ Non-nerd 1: Let's get that one.
 
 Non-nerd 2: Okay.
 
-[Above the second team consisting of a Blondie and a Cueball-like guy is written the following text (the first line written with larger letters):]
+[Above the second team consisting of a Miss Lenhart and a Cueball-like guy is written the following text (the first line written with larger letters):]
 
 <big>Good:</big>
 
@@ -30,11 +30,11 @@ Non-nerd + nerd
 
 
 
-Blondie non-nerd: Let's get that one.
+Miss Lenhart non-nerd: Let's get that one.
 
 Cueball nerd: Wait, I think that one might be a better deal.
 
-Blondie non-nerd: Okay, that one.
+Miss Lenhart non-nerd: Okay, that one.
 
 [Above the third team consisting of two Cueball-like guys is written the following text (the first line written with larger letters):]
 
@@ -56,8 +56,8 @@ Two Hours
 
 Later
 
-[The two Cueball-like guys are sitting on the floor in front of the counter, both having their laptops open and with lots of paper sheets spread around them, as well as a pen. Blondie from the second team comes in from the right and raises her arms:]
+[The two Cueball-like guys are sitting on the floor in front of the counter, both having their laptops open and with lots of paper sheets spread around them, as well as a pen. Miss Lenhart from the second team comes in from the right and raises her arms:]
 
 Nerd 1: I think our main problem is our unclear definition of value.
 
-Blondie non-nerd: That is not your main problem!
+Miss Lenhart non-nerd: That is not your main problem!

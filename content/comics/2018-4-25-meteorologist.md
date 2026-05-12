@@ -46,22 +46,22 @@ Cueball: I've asked management, but they've stopped answering my emails, so—Ha
 
 &nbsp;&nbsp;<big><big>4</big></big>
 
-[Blondie now sits at the desk, in the same position as Cueball, but without the graphic. She looks to the right towards a person who speaks to her from outside the panel. This voice is indicated with two square speech bubbles, connected with a double line and with a small arrow pointing to the right off-panel from the top bubble.]
+[Miss Lenhart now sits at the desk, in the same position as Cueball, but without the graphic. She looks to the right towards a person who speaks to her from outside the panel. This voice is indicated with two square speech bubbles, connected with a double line and with a small arrow pointing to the right off-panel from the top bubble.]
 
-Blondie: Sorry about that. Hi, I'm your new meteorologist.
+Miss Lenhart: Sorry about that. Hi, I'm your new meteorologist.
 
 Person off-panel: And you're not a mathematician, right?
 
-Blondie: No. I do have a linguistics degree.
+Miss Lenhart: No. I do have a linguistics degree.
 
 Person off-panel: That's fine.
 
-[Blondie continues in the same position but now looks into the camera at the viewers. The off-panel person only speaks one word, which again is inside a square speech bubble with a small arrow pointing to the right off-panel.]
+[Miss Lenhart continues in the same position but now looks into the camera at the viewers. The off-panel person only speaks one word, which again is inside a square speech bubble with a small arrow pointing to the right off-panel.]
 
-Blondie: It might rain this afternoon.
+Miss Lenhart: It might rain this afternoon.
 
-Blondie: But what is "it" here? Is it a true dummy pronoun, as in the phrase "It's too bad?" Or is the weather an entity?
+Miss Lenhart: But what is "it" here? Is it a true dummy pronoun, as in the phrase "It's too bad?" Or is the weather an entity?
 
-Blondie: Also, what if I say, "It's hot out, and getting bigger?"
+Miss Lenhart: Also, what if I say, "It's hot out, and getting bigger?"
 
 Person off-panel: Security!

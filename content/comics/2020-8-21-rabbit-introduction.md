@@ -12,17 +12,17 @@ Cueball: The US's smallest rabbit species is the pygmy rabbit from the Great Bas
 
 Cueball: We're seeking a grant to introduce them into the east.
 
-[Blondie, White Hat, Megan and Hairy sit behind a long table. Blondie leans both her arms on the table. Hairy has one arm on the table. The other two have their arms down. Cueball replies to Blondie's question from off-panel.]
+[Miss Lenhart, White Hat, Megan and Hairy sit behind a long table. Miss Lenhart leans both her arms on the table. Hairy has one arm on the table. The other two have their arms down. Cueball replies to Miss Lenhart's question from off-panel.]
 
-Blondie: Are they native here?
+Miss Lenhart: Are they native here?
 
 Cueball (off-panel): No.
 
-Blondie: Will they control some invasive pest?
+Miss Lenhart: Will they control some invasive pest?
 
 Cueball (off-panel): Dunno!
 
-Blondie: Then...Why would you do this?
+Miss Lenhart: Then...Why would you do this?
 
 [In a frameless panel Cueball is seen in front of the screen, which is seen from the side. He points to something on the screen with the pointer, while looking over his shoulder.]
 
@@ -34,9 +34,9 @@ Cueball: They're so round!
 
 Cueball: *Those tiny ears!*
 
-[Back to the four people behind the desk. Blondie and White Hat are in the same positions but Megan has both her hands up into her hair, and Hairy has one arm on the table, and the other is held up high with a finger pointing up.]
+[Back to the four people behind the desk. Miss Lenhart and White Hat are in the same positions but Megan has both her hands up into her hair, and Hairy has one arm on the table, and the other is held up high with a finger pointing up.]
 
-Blondie: I see. I'm afraid we'll be denying your grant.
+Miss Lenhart: I see. I'm afraid we'll be denying your grant.
 
 White Hat: Hang on. He ***is*** right about their ears...
 

@@ -22,7 +22,7 @@ Post title: Replies to "Favorite Movie"
 
 Post: Every group has one person who likes that movie, and it's the friend they all secretly hate.
 
-[Blondie as a news anchor behind a desk. A "News4" logo is displayed on the desk. There is a picture of the man with sunglasses with "Arrested" under his name. His picture is next to a picture of a house with "Breaking" above it. Megan's dialogue appears above the picture, but she herself is not shown in this panel.]
+[Miss Lenhart as a news anchor behind a desk. A "News4" logo is displayed on the desk. There is a picture of the man with sunglasses with "Arrested" under his name. His picture is next to a picture of a house with "Breaking" above it. Megan's dialogue appears above the picture, but she herself is not shown in this panel.]
 
 Megan: Then the next week I saw that guy on the news. He was an actual murderer!
 

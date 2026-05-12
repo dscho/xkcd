@@ -42,9 +42,9 @@ Cueball: The dead return!
 
 Cueball: Everyone, quick, get your names on here!
 
-[Cueball stand on the left side of a table looking left over his shoulder. Five people are lining up to sign the paper lying on the right side of the table. The first who signs with a pen is Blondie, then in line follows Megan, a Cueball-like guy, Ponytail and another Cueball-like guy who stand with one hand to his chin looking right, away from the other.]
+[Cueball stand on the left side of a table looking left over his shoulder. Five people are lining up to sign the paper lying on the right side of the table. The first who signs with a pen is Miss Lenhart, then in line follows Megan, a Cueball-like guy, Ponytail and another Cueball-like guy who stand with one hand to his chin looking right, away from the other.]
 
-Blondie: At last!
+Miss Lenhart: At last!
 
 Guy looking right: I hope there's time!
 

@@ -6,15 +6,15 @@ alt: >-
   My Deep Impact/Little Prince crossover fanfic has been poorly received by the community.
 img: https://imgs.xkcd.com/comics/asteroid.png
 ---
-[Blondie as a news anchor is standing in front of a screen pointing to a diagram of an asteroid's trajectory path with Earth in the path. There is a caption below the screen:]
+[Miss Lenhart as a news anchor is standing in front of a screen pointing to a diagram of an asteroid's trajectory path with Earth in the path. There is a caption below the screen:]
 
-Blondie: Astronomers have confirmed that the asteroid is headed for Earth.
+Miss Lenhart: Astronomers have confirmed that the asteroid is headed for Earth.
 
 Caption: Breaking news
 
-[In a frame-less panel Blondie narrates above a picture of a rocket with fire out the end of its two lifter rockets on either side of the central main part of the rocket. It flies up and right. In an inset picture to the right and below the rocket there is an image of a rover with text on it. The rower has two legs and a drill below it, and an antenna above the main body of the rower.]
+[In a frame-less panel Miss Lenhart narrates above a picture of a rocket with fire out the end of its two lifter rockets on either side of the central main part of the rocket. It flies up and right. In an inset picture to the right and below the rocket there is an image of a rover with text on it. The rower has two legs and a drill below it, and an antenna above the main body of the rower.]
 
-Blondie (narrating): NASA has launched a heroic mission to land a rover on the asteroid, drill into it, and destroy it with nuclear bombs.
+Miss Lenhart (narrating): NASA has launched a heroic mission to land a rover on the asteroid, drill into it, and destroy it with nuclear bombs.
 
 Rover: NASA
 

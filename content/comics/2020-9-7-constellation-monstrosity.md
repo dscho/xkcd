@@ -16,13 +16,13 @@ Virgibrascorpleo
 
 [Red lines have been added to link stars in adjacent constellations.]
 
-[ {{w|Pi Scorpii}}(Bottom left connection) is connected to {{w|Upsilon Librae}}]
+[Pi Scorpii (Bottom left connection) is connected to Upsilon Librae]
 
-[...also {{w|Beta Scorpii}}(Top left connection) may be connected to {{w|Theta Librae}}]
+[...also Beta Scorpii (Top left connection) may be connected to Theta Librae]
 
-[ {{w|Alpha Librae}}(Middle connection) is connected to {{w|Mu Virginis}}]
+[Alpha Librae (Middle connection) is connected to Mu Virginis]
 
-[ {{w|Nu Virginis}}(Right connection) is connected to Beta Leonis (better known as {{w|Denebola}})]
+[Nu Virginis (Right connection) is connected to Beta Leonis (better known as Denebola)]
 
 [Caption below the frame]
 

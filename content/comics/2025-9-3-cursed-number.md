@@ -10,7 +10,7 @@ img: https://imgs.xkcd.com/comics/cursed_number_2x.png
 
  💀 > 2.6 x 10<sup>21</sup>
 
-[Cueball is standing to the right of the screen and further right is Blondie. Blondie is standing behind a lectern with a label in front. Hairbun stands further and holds a paper up in front of her using both hands. The paper shows illegible text surrounding what is visibly the same equation as appears on the screen, with a skull, but not the black bar. None of the text can be read and the skull can only be made out as such, knowing what it is from the screen.]
+[Cueball is standing to the right of the screen and further right is Miss Lenhart. Miss Lenhart is standing behind a lectern with a label in front. Hairbun stands further and holds a paper up in front of her using both hands. The paper shows illegible text surrounding what is visibly the same equation as appears on the screen, with a skull, but not the black bar. None of the text can be read and the skull can only be made out as such, knowing what it is from the screen.]
 
 [The lectern reads:]
 

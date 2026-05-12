@@ -16,9 +16,9 @@ The Three Kinds of Scientific Research:
 
 Cueball: We applied a standard theory to novel circumstances and got some surprising results.
 
-[Blondie is pointing to a similar scatter plot.]
+[Miss Lenhart is pointing to a similar scatter plot.]
 
-Blondie: We applied a novel theory to standard circumstances and got some intriguing results.
+Miss Lenhart: We applied a novel theory to standard circumstances and got some intriguing results.
 
 [Hairy, with leaves in their messy hair and on their body, is pointing to another chart that is covered in random dots and unidentifiable shapes, while having both arms raised. Leaves are falling from their body and are scattered on the ground at their feet. A stick is stuck in their hair.]
 

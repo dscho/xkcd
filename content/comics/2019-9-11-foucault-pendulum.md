@@ -24,9 +24,9 @@ Character off-panel 2: Stop him!
 
 Sound: *Grab!*
 
-[Blondie as a news anchor uses her held out hand to indicate Black Hat who is shown on a screen next to her. There is a caption in two lines above it. The first line in normal text, the second line in white in a black rectangle. There are further unreadable text below the picture.]
+[Miss Lenhart as a news anchor uses her held out hand to indicate Black Hat who is shown on a screen next to her. There is a caption in two lines above it. The first line in normal text, the second line in white in a black rectangle. There are further unreadable text below the picture.]
 
-Blondie: The Earth's rotation was briefly halted today until geophysicists wrestled the intruder to the ground...
+Miss Lenhart: The Earth's rotation was briefly halted today until geophysicists wrestled the intruder to the ground...
 
 Breaking
 

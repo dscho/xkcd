@@ -6,29 +6,29 @@ alt: >-
   That helmet won't save him.
 img: https://imgs.xkcd.com/comics/secretary_part_2.png
 ---
-[Blondie as a news anchor sitting behind a desk is reading from a paper she holds in her hands. There is a picture of Black Hat on a screen behind her. There is a caption below the picture.]
+[Miss Lenhart as a news anchor sitting behind a desk is reading from a paper she holds in her hands. There is a picture of Black Hat on a screen behind her. There is a caption below the picture.]
 
-Blondie: Breaking news—the President has made a nomination to the new post of Internet Secretary. We know little about the man, shown here.
+Miss Lenhart: Breaking news—the President has made a nomination to the new post of Internet Secretary. We know little about the man, shown here.
 
 Caption: Possibly a haberdasher?
 
-[Blondie keeps talking over a scene showing her standing with a microphone in front of a water-filled moat that has been dug between the road and a house. A small stair up to the house is just on the other side of the moat. Behind her is Cueball with a large TV camera on his shoulder pointing towards her and the house.]
+[Miss Lenhart keeps talking over a scene showing her standing with a microphone in front of a water-filled moat that has been dug between the road and a house. A small stair up to the house is just on the other side of the moat. Behind her is Cueball with a large TV camera on his shoulder pointing towards her and the house.]
 
-Blondie (narrating): Attempts to reach the nominee at home were unsuccessful.
+Miss Lenhart (narrating): Attempts to reach the nominee at home were unsuccessful.
 
-Blondie: What the hell kind of apartment has a moat?
+Miss Lenhart: What the hell kind of apartment has a moat?
 
-[Back to Blondie behind her desk, the paper is gone, and she leans one arm on the desk. There is no screen behind her.]
+[Back to Miss Lenhart behind her desk, the paper is gone, and she leans one arm on the desk. There is no screen behind her.]
 
-Blondie: To understand the culture from which he came — and which he may soon administer — we sent a reporter to what we're told is the source of that culture.
+Miss Lenhart: To understand the culture from which he came — and which he may soon administer — we sent a reporter to what we're told is the source of that culture.
 
-Blondie: Tom?
+Miss Lenhart: Tom?
 
-[This panel is much larger than the three previous panels and partly hidden behind the last. Tom, looking like Cueball with a military helmet with camouflage marks strapped under his chin, holds a large microphone in front of him while standing in front of a large screen. The screen shows a message board with four picture posts. Each picture has a text to the right, but those are unreadable scribbles. The top drawing is of a man with wild hair who holds out his hands with thumbs up. The next is text. Then there is a circle with a smaller circle in the middle and at the bottom what appears to be a Cueball-like man with a fencing mask. Blondie still speaks to him from off-panel left.]
+[This panel is much larger than the three previous panels and partly hidden behind the last. Tom, looking like Cueball with a military helmet with camouflage marks strapped under his chin, holds a large microphone in front of him while standing in front of a large screen. The screen shows a message board with four picture posts. Each picture has a text to the right, but those are unreadable scribbles. The top drawing is of a man with wild hair who holds out his hands with thumbs up. The next is text. Then there is a circle with a smaller circle in the middle and at the bottom what appears to be a Cueball-like man with a fencing mask. Miss Lenhart still speaks to him from off-panel left.]
 
 Tom: I'm coming to you live from the 4chan /b/ board. Despite the tube cloggage, nascent memes are flying fast and furious.
 
-Blondie (off-panel): Why are you wearing a helmet, Tom?
+Miss Lenhart (off-panel): Why are you wearing a helmet, Tom?
 
 Tom: I'm not sure.
 

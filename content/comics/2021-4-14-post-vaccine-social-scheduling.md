@@ -6,7 +6,7 @@ alt: >-
   As if these problems weren't NP-hard enough.
 img: https://imgs.xkcd.com/comics/post_vaccine_social_scheduling.png
 ---
-[From top to bottom, eleven people are standing on the left side of the image: Danish, Cueball #1, Hairbun #1, Black Hat, Ponytail, Hairbun #2, White Hat, Hairy, Blondie, Cueball #2, and Megan, with even-numbered characters standing slightly further to the left. Each character’s first and second doses of the vaccine are labeled ① and ②, respectively. The time before each character’s first dose is drawn with a grey solid line; the time between their first dose and after they are fully vaccinated (two weeks after their second dose) is drawn with a grey dashed line; the time after they are fully vaccinated is drawn with a black solid line. Black Hat, Hairbun #2, Blondie, Cueball #2, and Megan have all received their first doses before the comic’s time frame. Social activities are drawn with an ellipse around the top and bottom members, and each participating character is identified with a large filled-in circle on their timeline. The ellipses are labeled :]
+[From top to bottom, eleven people are standing on the left side of the image: Danish, Cueball #1, Hairbun #1, Black Hat, Ponytail, Hairbun #2, White Hat, Hairy, Miss Lenhart, Cueball #2, and Megan, with even-numbered characters standing slightly further to the left. Each character’s first and second doses of the vaccine are labeled ① and ②, respectively. The time before each character’s first dose is drawn with a grey solid line; the time between their first dose and after they are fully vaccinated (two weeks after their second dose) is drawn with a grey dashed line; the time after they are fully vaccinated is drawn with a black solid line. Black Hat, Hairbun #2, Miss Lenhart, Cueball #2, and Megan have all received their first doses before the comic’s time frame. Social activities are drawn with an ellipse around the top and bottom members, and each participating character is identified with a large filled-in circle on their timeline. The ellipses are labeled :]
 
  DINNER   GAMES   MOVIE   BIRTHDAY   DINNER   CABIN
 
@@ -14,7 +14,7 @@ img: https://imgs.xkcd.com/comics/post_vaccine_social_scheduling.png
 
 \* Cueball #1 receives his first dose;
 
-\* Blondie receives her second dose;
+\* Miss Lenhartreceives her second dose;
 
 \* Ponytail receives her first dose;
 
@@ -26,7 +26,7 @@ img: https://imgs.xkcd.com/comics/post_vaccine_social_scheduling.png
 
 \* Black Hat receives his second dose;
 
-\* Blondie is fully vaccinated;
+\* Miss Lenhart is fully vaccinated;
 
 \* Hairbun #2 receives her second dose;
 
@@ -40,7 +40,7 @@ img: https://imgs.xkcd.com/comics/post_vaccine_social_scheduling.png
 
 \* Black Hat is fully vaccinated;
 
-\* Black Hat and Blondie go to dinner;
+\* Black Hat and Miss Lenhart go to dinner;
 
 \* Danish receives her second dose;
 
@@ -56,7 +56,7 @@ img: https://imgs.xkcd.com/comics/post_vaccine_social_scheduling.png
 
 \* White Hat receives his second dose;
 
-\* Hairbun #2, Blondie, Cueball #2, and Megan play games;
+\* Hairbun #2, Miss Lenhart, Cueball #2, and Megan play games;
 
 \* Ponytail is fully vaccinated;
 
@@ -76,7 +76,7 @@ img: https://imgs.xkcd.com/comics/post_vaccine_social_scheduling.png
 
 \* Hairbun is fully vaccinated;
 
-\* Hairbun and Blondie go to dinner;
+\* Hairbun and Miss Lenhart go to dinner;
 
 \* Black Hat, Hairbun #2, White Hat, Hairy, and Cueball #2 go to a cabin.
 
