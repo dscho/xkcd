@@ -14,7 +14,7 @@ img: https://imgs.xkcd.com/comics/alignment_chart_alignment_chart.png
 
 Soil Chart
 
-[The diagram is a triangle split into several sections. The left side of the triangle is labeled "Clay" going up, the right side is labeled "Silt" going down, and the bottom is labeled "Loam" going left. The sections are labeled as follows, going left to right, top to bottom:]
+[The diagram is a triangle split into several sections. The left side of the triangle is labeled "Clay" going up (indicating that the top corner of the triangle is pure clay), the right side is labeled "Silt" going down (indicating that the bottom right corner of the triangle is pure silt), and the bottom is labeled "Sand" going left (indicating that the bottom left corner of the triangle is pure sand). The sections are labeled as follows, going left to right, top to bottom:]
 
 \* Clay
 
@@ -36,6 +36,8 @@ Soil Chart
 
 \* [unintelligible, probably "Loamy Sand"]
 
+\* Sandy Loam
+
 \* Silt
 
 Lawful Good
@@ -52,7 +54,33 @@ Neutral Good
 
 IPA Vowel Chart
 
-[describe this chart here]
+[A trapezoid with 4 rows and 3 columns. The top and bottom edges are perfectly horizontal. the right edge is perfectly vertical. The left edge/column slopes downward, making the trapezoid wider on the top and narrower on the bottom. The center column also slopes down but more steeply (as it approaches verticality), and again the right column is perfectly straight. The vowels aligned on the 4x3 trapezoid grid are as follows, going left to right, top to bottom (3 entries per row):]
+
+\* i•y
+
+\* ɨ•ʉ
+
+\* ɯ•u
+
+\* e•ø
+
+\* ɘ•ɵ
+
+\* ɤ•o
+
+\* ɛ•œ
+
+\* ɜ•ɞ
+
+\* ʌ•ɔ
+
+\* a•ɶ
+
+\* ä•(no rounded version)
+
+\* ɑ•ɒ
+
+[there are also vowels in between the main vowels aligned with the trapezoid grid. TODO: ADD IN BETWEEN VOWELS.]
 
 Chaotic Good
 
@@ -68,7 +96,7 @@ Lawful Neutral
 
 Alignment Chart
 
-[A 3×3 grid of nine empty squares, each with an unreadable label below it.]
+[A 3×3 grid of nine empty squares, each with a squiggly line below it imitating an unreadable caption. Almost a recursion of this comic.]
 
 True Neutral
 
@@ -104,7 +132,7 @@ Lawful Evil
 
 QAPF Rock Diagram
 
-[The diagram is a rhombus with each corner labeled: ‘Q’ at the top, ‘A’ at the left, ‘P’ at the right, and ‘F’ at the bottom. The diagram is divided into trapezoids and triangles, each with labels. The writing in most subdivisions are unreadable. The readable subdivisions:]
+[The diagram is a rhombus with each corner labeled: ‘Q’ at the top, ‘A’ at the left, ‘P’ at the right, and ‘F’ at the bottom. The diagram is divided into trapezoids and triangles, each with labels. The writing in most subdivisions are unreadable (squiggly lines). The readable subdivisions:]
 
 \* Granite [around the top left]
 
@@ -118,6 +146,6 @@ Neutral Evil
 
 Omnispace Classifier
 
-[describe this chart here]
+[This one is a recursion of the comic, but the charts that were in separate cells of the 3x3 grid have now been liquid resized and mushed together with no space in between. If all the charts were squares, then it would have looked like nothing changed in this recursion, but since we have some irregular shapes, then distortion is present. The triangular soil chart in the top left has been glued to it's neighbors, which have to warp to accommodate the triangle. The bottom of the triangle is glued to the top edge of the square phase diagram below it. The CIE Chromaticity diagram in the middle right, which originally an upside down parabola, now appears more triangular; with the left side of the triangle glued to the center chart, and the right side of the triangle glued to the IPA chart above. The IPA chart above (in the top right), which was an upside down trapezoid, now has been distorted into a parallelogram. The QAPF Rock Diagram, in the bottom middle, which originally was a diamond rhombus taller than it was wide, still somewhat maintains its aspect ratio, but it has been rotated clockwise 45 degrees, and the obtuse angle which was its left corner has been forced square by its square neighbors: the alignment chart above, the Political Compass to its left, and the phase diagram a diagonal away, all three working together to force the rhombus corner square. The Omnispace Classifier itself is not depicted in its recursion, so the recursion is not infinite. There are only 8 diagrams within the omnispace classifier, i.e. the other 8 diagrams in the alignment chart.]
 
 Chaotic Evil

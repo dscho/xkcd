@@ -6,8 +6,6 @@ alt: >-
   "How does the spring not run out almost immediately?" "We pull it back REALLY far."
 img: https://imgs.xkcd.com/comics/pullback_drive_2x.png
 ---
-{{incomplete transcript|Don't remove this notice too soon.}}
-
 [Hairy and Cueball are standing to the right of a medium-size car. Hairy has raised one hand slightly to point to the car.]
 
 Hairy: You won't have to worry about gas prices ***or*** electricity prices with our new pullback drive model.
