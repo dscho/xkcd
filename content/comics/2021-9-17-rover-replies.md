@@ -28,7 +28,7 @@ Just collected a sample!
 
 [Hairy]: Did you find any skeletons yet
 
-[Blondie]: I hope your helicopter comes back!
+[Miss Lenhart]: I hope your helicopter comes back!
 
 [Caption below frame:]
 

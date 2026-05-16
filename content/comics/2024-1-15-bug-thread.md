@@ -18,7 +18,7 @@ Commenter #4 (icon is a portrait of Megan's head): +1. So frustrating.
 
 Commenter #5 (icon is a full-body picture of Hairy left of a horizontal line above an unintelligible shape and a small scribble): I'm still having this. Did you all ever figure out a fix?
 
-Commenter #6 (icon is a forward-facing bust of Blondie): Same problem as everyone. I tried the steps in the posts <u>here</u>, <u>here</u>, and <u>here</u>. Nothing.
+Commenter #6 (icon is a forward-facing bust of Miss Lenhart): Same problem as everyone. I tried the steps in the posts <u>here</u>, <u>here</u>, and <u>here</u>. Nothing.
 
 Commenter #7 (icon is a pure black square with a white circle in the center): Add me to the list.
 

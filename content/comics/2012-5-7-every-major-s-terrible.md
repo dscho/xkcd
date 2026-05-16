@@ -104,7 +104,7 @@ As Pratchett said,
 
 Pratchett: "Geography's just physics slowed with trees on top."
 
-[Panel 19: A man with black hair plays on brown bongo drums while Blondie and Megan lean into the frame and look at him from left and right respectively.]
+[Panel 19: A man with black hair plays on brown bongo drums while Miss Lenhart and Megan lean into the frame and look at him from left and right respectively.]
 
 Though physics seems to promise you a Richard Feynman-like career,
 

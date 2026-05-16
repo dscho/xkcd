@@ -3,7 +3,7 @@ date: 2018-02-21
 title: "Self-Driving Issues"
 num: 1958
 alt: >-
-  If most people turn into murderers all of a sudden, we'll need to push out a firmware update or something.
+  If most people turn into mu<!--
 img: https://imgs.xkcd.com/comics/self_driving_issues.png
 ---
 [Cueball is speaking while standing alone in a slim panel.]

@@ -10,7 +10,7 @@ img: https://imgs.xkcd.com/comics/results_age_2x.png
 
 Implications of the age of the posts you see when you Google an error message
 
-[A search engine prompt field is shown, containing part of an error code message (beginning with E-21 & what looks like a 9 & 3 next to it). Below this are search results shown as obscured text, except for a the phrase '3 years ago' in the first heading. This is expanded into an ellipse that obscures the rest of the search field.]
+[A search engine prompt field is shown, containing part of an error code message (beginning with E-21, and what looks like a 9 and 3 next to it). Below this are search results shown as obscured text, except for a the phrase '3 years ago' in the first heading. This is expanded into an ellipse that obscures the rest of the search field.]
 
 [A table, with 3 columns, labelled "Age of post", "What it means", and "Probability of a fix"]
 
