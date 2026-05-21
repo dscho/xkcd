@@ -8,4 +8,4 @@ img: https://imgs.xkcd.com/comics/curse_levels.jpg
 ---
 My hobby: mixing curse levels
 
-Cueball: What a gosh-darned cunt.
+Randall: What a gosh-darned cunt.

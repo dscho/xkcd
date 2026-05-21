@@ -6,7 +6,7 @@ alt: >-
   Please, we need your help. Our research suggests you're the last living descendant of the person who knew how to format this config file.
 img: https://imgs.xkcd.com/comics/results_age_2x.png
 ---
-{{incomplete transcript|Don't remove this notice too soon.}}
+[Large heading, centered.]
 
 Implications of the age of the posts you see when you Google an error message
 

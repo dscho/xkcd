@@ -14,4 +14,4 @@ Megan [filming herself with her smart-phone]: I'm doing an art project where I t
 
 Ponytail [pointing to her face with both hands]: I'm doing an art project where you can come to my house and watch my actual face age in real time.
 
-Girl with long black hair [holding a burrito]: I'm doing an art project where you all do those things while I eat a burrito.
+Danish [holding a burrito]: I'm doing an art project where you all do those things while I eat a burrito.
