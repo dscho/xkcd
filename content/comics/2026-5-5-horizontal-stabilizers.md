@@ -6,8 +6,6 @@ alt: >-
   It started as a mistake that everyone was afraid to admit to, and then it stuck because removing it 'looks silly.'.
 img: https://imgs.xkcd.com/comics/horizontal_stabilizers_2x.png
 ---
-{{incomplete transcript|Don't remove this notice too soon.}}
-
 [Cueball and Ponytail are standing, looking up at an airplane in the sky. Cueball is pointing at the airplane.]
 
 Cueball: What's with the little wings on the tails of the airplanes? Do they really need them?

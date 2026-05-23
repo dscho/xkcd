@@ -8,6 +8,8 @@ img: https://imgs.xkcd.com/comics/typical_seating_chart_2x.png
 ---
 {{incomplete transcript|Do NOT delete this tag too soon.}}
 
+[A gray diagram of a typically passenger plane with seats throughout the cabin and on the wings and tail. There is a large hole in the middle of the plane, a cowcatcher on the front, and a smaller fighter jet down and to the right with more seats.]
+
 Typical Airliner Seating Chart
 
 [Labeled items of a plane from front to back:]

@@ -156,7 +156,7 @@ Randall: I am!
 
 [Randall's wife is leaning against a tree and Randall is lying down on the grass looking up towards the sky.]
 
-Randall's wife: Fifteen years. No signs of cancer.
+Randall's wife: Fifteen years. No sign of the cancer.
 
 [Zoom in of Randall's wife's face.]
 

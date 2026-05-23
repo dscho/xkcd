@@ -6,86 +6,359 @@ alt: >-
   Below the Web, and the Dark Web, a shadowy parallel world of Cybiko users trade messages on the Translucent Neon Plastic Web.
 img: https://imgs.xkcd.com/comics/feature_comparison_v3.png
 ---
-{{incomplete transcript|[[explain xkcd:Editor FAQ#Tables\_are\_so\_cool.21\_Can\_I\_use\_them\_everywhere.3F|The transcript should not use a table.]]|target=2699: Feature Comparison}}
+[An 8 by 10 table with checkmarks to indicate which features various messaging services have. By column, its goes Twitter, Discord, Mastadon, FB, Slack, Signal, IRC, Tumblr, Reddit, SMS, and Cybiko® Wireless Computer For Teens (2000). The Cybiko® has an arrow pointing to a drawing of the device. By row, it goes Direct Messages, Group Chats, File Transfer, Built-In Games, User-Run Instances, Doesn't Require Central Server, Mesh Networking, and Wireless Message Delivery Works Without Internet.]
 
-[A table with checkmarks to indicate which features various messaging services have. Each column is labeled with a service name and its logo beneath, except that for the last column, the device's longer name is written higher than all the other services' names, with an arrow pointing to a drawing of the device below it.]
+[Table]
 
-{| class="wikitable"
+[Twitter x Direct Messages]
 
-|-
+✓
 
-!
+[Twitter x Group Chats]
 
-! Twitter
+✓
 
-! Discord
+[Twitter x File Transfer]
 
-! Mastodon
+⠀
 
-! FB
+[Twitter x Built-In Games]
 
-! Slack
+⠀
 
-! Signal
+[Twitter x User-Run Instances]
 
-! IRC
+⠀
 
-! Tumblr
+[Twitter x Doesn't Require Central Server]
 
-! Reddit
+⠀
 
-! SMS
+[Twitter x Mesh Networking]
 
-! Cybiko® wireless<br>handheld computer<br>for teens (2000)
+⠀
 
-|-
+[Twitter x Wireless Message Delivery Works Without Internet]
 
-! Direct messages
+⠀
 
-| ✓ || ✓ || ✓ || ✓ || ✓ || ✓ || ✓ || ✓ || ✓ || ✓ || ✓
+[Discord x Direct Messages]
 
-|-
+✓
 
-! Group chats
+[Discord x Group Chats]
 
-| ✓ || ✓ || ✓ || ✓ || ✓ || ✓ || ✓ ||   || ✓ ||   || ✓
+✓
 
-|-
+[Discord x File Transfer]
 
-! File transfer
+✓
 
-|   || ✓ || ✓ || ✓ || ✓ || ✓ || ✓ ||   ||   ||   || ✓
+[Discord x Built-In Games]
 
-|-
+✓
 
-! Built-in games
+[Discord x User-Run Instances]
 
-|   || ✓ ||   || ✓ ||   ||   ||   ||   ||   ||   || ✓
+✓
 
-|-
+[Discord x Doesn't Require Central Server]
 
-! User-run instances
+⠀
 
-|   || ✓ || ✓  ||   || ✓ ||   || ✓ ||   || ✓ ||   || ✓
+[Discord x Mesh Networking]
 
-|-
+⠀
 
-! Doesn't require central server
+[Discord x Wireless Message Delivery Works Without Internet]
 
-|   ||   || ✓ ||   ||   ||   || ✓ ||   ||   ||   || ✓
+⠀
 
-|-
+[Mastadon x Direct Messages]
 
-! Mesh networking
+✓
 
-|   ||   ||   ||   ||   ||   ||   ||   ||   ||   || ✓
+[Mastadon x Group Chats]
 
-|-
+✓
 
-! Wireless message delivery works without internet
+[Mastadon x File Transfer]
 
-|   ||   ||   ||   ||   ||   ||   ||   ||   || ✓ || ✓
+✓
 
-|-
+[Mastadon x Built-In Games]
 
-|}
+⠀
+
+[Mastadon x User-Run Instances]
+
+✓
+
+[Mastadon x Doesn't Require Central Server]
+
+✓
+
+[Mastadon x Mesh Networking]
+
+⠀
+
+[Mastadon x Wireless Message Delivery Works Without Internet]
+
+⠀
+
+[FB x Direct Messages]
+
+✓
+
+[FB x Group Chats]
+
+✓
+
+[FB x File Transfer]
+
+✓
+
+[FB x Built-In Games]
+
+✓
+
+[FB x User-Run Instances]
+
+⠀
+
+[FB x Doesn't Require Central Server]
+
+⠀
+
+[FB x Mesh Networking]
+
+⠀
+
+[FB x Wireless Message Delivery Works Without Internet]
+
+⠀
+
+[Slack x Direct Messages]
+
+✓
+
+[Slack x Group Chats]
+
+✓
+
+[Slack x File Transfer]
+
+✓
+
+[Slack x Built-In Games]
+
+⠀
+
+[Slack x User-Run Instances]
+
+✓
+
+[Slack x Doesn't Require Central Server]
+
+⠀
+
+[Slack x Mesh Networking]
+
+⠀
+
+[Slack x Wireless Message Delivery Works Without Internet]
+
+⠀
+
+[Signal x Direct Messages]
+
+✓
+
+[Signal x Group Chats]
+
+✓
+
+[Signal x File Transfer]
+
+✓
+
+[Signal x Built-In Games]
+
+⠀
+
+[Signal x User-Run Instances]
+
+⠀
+
+[Signal x Doesn't Require Central Server]
+
+⠀
+
+[Signal x Mesh Networking]
+
+⠀
+
+[Signal x Wireless Message Delivery Works Without Internet]
+
+⠀
+
+[IRC x Direct Messages]
+
+✓
+
+[IRC x Group Chats]
+
+✓
+
+[IRC x File Transfer]
+
+✓
+
+[IRC x Built-In Games]
+
+⠀
+
+[IRC x User-Run Instances]
+
+✓
+
+[IRC x Doesn't Require Central Server]
+
+✓
+
+[IRC x Mesh Networking]
+
+⠀
+
+[IRC x Wireless Message Delivery Works Without Internet]
+
+⠀
+
+[Tumblr x Direct Messages]
+
+✓
+
+[Tumblr x Group Chats]
+
+⠀
+
+[Tumblr x File Transfer]
+
+⠀
+
+[Tumblr x Built-In Games]
+
+⠀
+
+[Tumblr x User-Run Instances]
+
+⠀
+
+[Tumblr x Doesn't Require Central Server]
+
+⠀
+
+[Tumblr x Mesh Networking]
+
+⠀
+
+[Tumblr x Wireless Message Delivery Works Without Internet]
+
+⠀
+
+[Reddit x Direct Messages]
+
+✓
+
+[Reddit x Group Chats]
+
+✓
+
+[Reddit x File Transfer]
+
+⠀
+
+[Reddit x Built-In Games]
+
+⠀
+
+[Reddit x User-Run Instances]
+
+✓
+
+[Reddit x Doesn't Require Central Server]
+
+⠀
+
+[Reddit x Mesh Networking]
+
+⠀
+
+[Reddit x Wireless Message Delivery Works Without Internet]
+
+⠀
+
+[SMS x Direct Messages]
+
+✓
+
+[SMS x Group Chats]
+
+⠀
+
+[SMS x File Transfer]
+
+⠀
+
+[SMS x Built-In Games]
+
+⠀
+
+[SMS x User-Run Instances]
+
+⠀
+
+[SMS x Doesn't Require Central Server]
+
+⠀
+
+[SMS x Mesh Networking]
+
+⠀
+
+[SMS x Wireless Message Delivery Works Without Internet]
+
+✓
+
+[Cybiko® Wireless Computer For Teens (2000) x Direct Messages]
+
+✓
+
+[Cybiko® Wireless Computer For Teens (2000) x Group Chats]
+
+✓
+
+[Cybiko® Wireless Computer For Teens (2000) x File Transfer]
+
+✓
+
+[Cybiko® Wireless Computer For Teens (2000) x Built-In Games]
+
+✓
+
+[Cybiko® Wireless Computer For Teens (2000) x User-Run Instances]
+
+✓
+
+[Cybiko® Wireless Computer For Teens (2000) x Doesn't Require Central Server]
+
+✓
+
+[Cybiko® Wireless Computer For Teens (2000) x Mesh Networking]
+
+✓
+
+[Cybiko® Wireless Computer For Teens (2000) x Wireless Message Delivery Works Without Internet]
+
+✓
+
