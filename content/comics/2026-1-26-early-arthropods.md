@@ -6,8 +6,6 @@ alt: >-
   'Ugh, I'm never going to be like spiders. My descendants will all just be normal arthropods who mind their own busines and don't do anything weird.' --The ancestor of a bunch of eusocial insects
 img: https://imgs.xkcd.com/comics/early_arthropods_2x.png
 ---
-{{incomplete transcript|Don't remove this notice too soon.}}
-
 [Wide panel with three small arthropods standing on the ocean floor. Two of the creatures are facing the leftmost one. Small bubbles and particles float around them.]
 
 Arthropod 1: Now that we're multicellular, what are your plans?

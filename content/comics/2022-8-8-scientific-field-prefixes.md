@@ -6,139 +6,101 @@ alt: >-
   Massage: Theoretical (10), Quantum (6), High-energy (2), Computational (1), Marine (1), Astro- (None)
 img: https://imgs.xkcd.com/comics/scientific_field_prefixes.png
 ---
-{{incomplete transcript|The transcript shouldn’t be a table. }}
-
 [A table is drawn with seven columns and six rows. Above each column and to the left of each row there is a label. All 42 fields are filled out with a number, except when the number is 0, then it says none in a red font. Above the table there is a large header:]
 
 <big>Number of search results on Google Scholar</big>
 
-{|class="wikitable"
+[The columns are labeled:]
 
-|
+Physics, Chemistry, Biology, Engineering, Psychology, Theology, Dentistry
 
-| Physics
+[The rows are labeled:]
 
-| Chemistry
+Theoretical, Quantum, High-Energy, Computational, Marine, Astro
 
-| Biology
+[The list of numbers of results, read in columns, are as follows:]
 
-| Engineering
+Theoretical Physics: 3,990,000 results
 
-| Psychology
+Quantum Physics: 478,000 results
 
-| Theology
+High-Energy Physics: 844,000 results
 
-| Dentistry
+Computational Physics: 510,000 results
 
-|-
+Marine Physics: 3,920 results
 
-| Theoretical
+Astrophysics: 2,010,000 results
 
-| 3,990,000
+Theoretical Chemistry: 445,000 results
 
-| 445,000
+Quantum Chemistry: 740,000 results
 
-| 553,000
+High-Energy Chemistry: 9,600 results
 
-| 2,460
+Computational Chemistry: 599,000 results
 
-| 15,500
+Marine Chemistry: 136,000 results
 
-| 726
+Astro-Chemistry: 20,600 results
 
-| 41
+Theoretical Biology: 553,000 results
 
-|-
+Quantum Biology: 7,620 results
 
-| Quantum
+High-Energy Biology: 3 results
 
-| 478,000
+Computational Biology: 2,910,000 results
 
-| 740,000
+Marine Biology: 945,000 results
 
-| 7,620
+Astro-Biology: 226,000
 
-| 21,100
+Theoretical Engineering: 2,460 results
 
-| 699
+Quantum engineering: 21,100 results
 
-| 447
+High-Energy Engineering: 119 results
 
-| <span style="color:red">*None*</span><br>
+Computational Engineering: 67,400
 
-|-
+Astro-Engineering: 430 results
 
-| High-Energy
+Theoretical Psychology: 15,500 results
 
-| 844,000
+Quantum Psychology: 699 results
 
-| 9,600
+High-Energy Psychology: 1 result
 
-| 3
+Computational Psychology: 4,620 results
 
-| 119
+Marine Psychology: 35 results
 
-| 1
+Astro-Psychology: 64 results
 
-| <span style="color:red">*None*</span><br>
+Theoretical Theology: 726 results
 
-| <span style="color:red">*None*</span><br>
+Quantum Theology: 447 results
 
-|-
+High-Energy Theology: <span style="color:red">*no results*</span><br>
 
-| Computational
+Computational Theology: 40 results
 
-| 510,000
+Marine Theology: 6 results
 
-| 599,000
+Astro-Theology: 580 results
 
-| 2,910,000
+Theoretical Dentistry: 41 results
 
-| 67,400
+Quantum Dentistry: <span style="color:red">*no results*</span><br>
 
-| 4,620
+High-Energy Dentistry: <span style="color:red">*no results*</span><br>
 
-| 40
+Computational Dentistry: 11 results
 
-| 11
+Marine Dentistry: 1 result
 
-|-
-
-| Marine
-
-| 3,920
-
-| 136,000
-
-| 945,000
-
-| 108,000
-
-| 35
-
-| 6
-
-| 1
-
-|-
-
-| Astro-
-
-| 2,010,000
-
-| 20,600
-
-| 226,000
-
-| 430
-
-| 64
-
-| 580
-
-| <span style="color:red">*None*</span><br>
-
-|}
+Astro-Dentistry: <span style="color:red">*no results*</span><br>
 
 [Caption below the panel:]
 
