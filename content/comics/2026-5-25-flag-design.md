@@ -12,15 +12,15 @@ img: https://imgs.xkcd.com/comics/flag_design_2x.png
 
 [From left to right, top to bottom, in order labels:]
 
-[Label:]CIE 1931 Chromaticity Diagram, to ensure flag color fidelity. [Icon]
+[Label:] CIE 1931 Chromaticity Diagram, to ensure flag color fidelity [Icon]
 
 
 
-[Label:] We can't agree what animal this is, so we put it on our flag to spark national debate. [Icon:] An equine creature of some sorts.
+[Label:] We can't agree what animal this is, so we put it on our flag to spark national debate [Icon:] A stylised and basically-drawn outline of a quarupedal creature of some sort; appearing to have a reptilian-like head, a possible hairy back, a tail that that may be feathered and its four otherwise featureless 'legs' being akin to a plesiosaur's flippers.
 
 
 
-[Label:] National Flag. [Icon:] A miniature version of the flag, however it is missing a miniature version of itself.
+[Label:] National flag [Icon:] A miniature version of the flag, however it is missing a miniature version of itself.
 
 
 
@@ -28,31 +28,31 @@ img: https://imgs.xkcd.com/comics/flag_design_2x.png
 
 
 
-[Label:] Tap here to pay taxes. [Icon:] 4 sequential curves, a shape commonly used on NFC scanners to read a credit or debit card to encat payment.
+[Label:] Tap here to pay taxes [Icon:] 4 sequential curves, a shape commonly used on NFC scanners to read a credit or debit card to encat payment.
 
 
 
-[Label:] Tan and white stars on beige field. [Icon:] 32 stars in a rectangle surrounding all the previously mentioned icons, save for the tax payment NFC scanner.
+[Label:] Tan and white stars on beige field [Icon:] 32 stars in a rectangle surrounding all the previously mentioned icons, save for the tax payment NFC scanner.
 
 
 
-[Label:] Jaunty angle. [Icon] Instead of a icon on the flag, the label notes the fact that the flags left edge is not at a 90 degree angle with the top and bottom edges.
+[Label:] Jaunty angle [Icon] Instead of an icon on the flag, the label notes the fact that the flag's left edge is not at a 90 degree angle with the top and bottom edges.
 
 
 
-[Label:]  Tribute to topology [Icon:] Instead of a icon on the flag, the label notes the fact that the right edge of the flag is separated from the rest of the flag in the middle and twisted one half turn to make the flag into a Möbius strip.
+[Label:] Tribute to topology [Icon:] Instead of an icon on the flag, the label notes the fact that the right edge of the flag is separated from the rest of the flag in the middle and twisted one half turn to make the flag into a Möbius strip.
 
 
 
-[Label:] Eurion Anti-counterfeit mark. [Icon:] A set of EURion dots, in the shape of the constellation Orion, commonly used on currency to prevent the use of printers to copy and mass produce counterfeit money.
+[Label:] Eurion anti-counterfeit mark [Icon:] A set of EURion dots, in the shape of the constellation Orion, commonly used on currency to prevent the use of printers to copy and mass produce counterfeit money.
 
 
 
-[Label:] Rounded corners. [Icon:] Instead of a icon on the flag, the label notes the fact that the flags corners are rounded.
+[Label:] Rounded corners [Icon:] Instead of an icon on the flag, the label notes the fact that the flags corners are rounded.
 
 
 
-[Label:] Interested in citizenship? Take one! [Icon:] Instead of a icon on the flag, the label notes the fact that one who wishes to sign up for citizenship of this fictional nation, can tear off a strip and contact the person on it, referencing posters one can find around a residential areas in a similar format.
+[Label:] Interested in citizenship? Take one! [Icon:] Instead of a icon on the flag, the label notes the fact that one who wishes to sign up for citizenship of this fictional nation, can tear off a strip and contact the person on it, referencing posters one can find around a residential areas in a similar format. There were originally 14 strips with illegible printing on them, that looks like it might include a phone number with an area code in parentheses; the fourth, ninth, tenth and thirteenth strips, however, have been torn away; while still completely present, the eighth stops short and omits some of the otherwise presumed identical text/telephone number.
 
 
 
@@ -62,4 +62,4 @@ img: https://imgs.xkcd.com/comics/flag_design_2x.png
 
 [Caption below flag:]
 
-I think our flag design committee really knocked it out of the park
+I think our flag design committee really knocked it out of the park.
