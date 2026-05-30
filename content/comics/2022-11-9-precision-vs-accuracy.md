@@ -6,32 +6,30 @@ alt: >-
   'Barack Obama is much less likely than the average cat to jump in and out of cardboard boxes for fun' is low precision, but I'm not sure about the accuracy.
 img: https://imgs.xkcd.com/comics/precision_vs_accuracy_2x.png
 ---
-{{incomplete transcript|The transcript shouldn’t be a table.}}
+[A square table is drawn with three columns and three rows. In each field there is a statement of varying accuracy and precision. Above each column and to the left of each row there is a label. The columns are labeled:]
 
-[The comic shows a table with 3 rows and 3 columns. Each row and column has a label, and then nine statements are given for the 3x3 grid.]
+High Precision, Medium Precision, Low Precision
 
-{| class="wikitable"
+[The rows are labeled:]
 
-|-
+High Accuracy, Medium Accuracy, Low Accuracy
 
-| || High<br>accuracy || Medium<br>accuracy || Low<br>accuracy
+[The fields, read in Rows, are as follows:]
 
-|-
+[High Precision, High Accuracy:] Barack Obama was president for 70,128 hours
 
-| High<br>precision
+[High Precision, Medium Accuracy:] Barack Obama weighs as much as 17.082 cats
 
-|Barack Obama was president for 70,128 hours||Barack Obama weighs as much as 17.082 cats||Barack Obama is 70.128 feet tall
+[High Precision, Low Accuracy:] Barack Obama is 70.128 feet tall
 
-|-
+[Medium Precision, High Accuracy:] Most cats have 4 legs
 
-| Medium<br>precision
+[Medium Precision, Medium Accuracy:] Barack Obama is 6 foot 11 inches
 
-|Most cats have 4 legs||Barack Obama is 6'1"||Barack Obama has 4 legs
+[Medium Precision, Low Accuracy:] Barack Obama has 4 legs
 
-|-
+[Low Precision, High Accuracy:] Most cats have legs
 
-| Low<br>precision
+[Low Precision, Medium Accuracy:] Barack Obama has fewer legs than your cat
 
-|Most cats have legs||Barack Obama has fewer legs than your cat||Barack Obama's cat has hundreds of legs
-
-|}
+[Low Precision, Low Accuracy:] Barack Obama's cat has hundreds of legs

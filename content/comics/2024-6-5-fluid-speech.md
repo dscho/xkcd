@@ -6,8 +6,6 @@ alt: >-
   Thank you to linguist Gretchen McCulloch for teaching me about phonetic assimilation, and for teaching me that if you stand around in public reading texts from a linguist and murmuring example phrases to yourself, people will eventually ask if you're okay.
 img: https://imgs.xkcd.com/comics/fluid_speech_2x.png
 ---
-{{incomplete transcript|A description of the path of the sound.}}
-
 [Above the panel:]
 
 Fun fact: Experienced speakers constantly merge, drop, and alter sounds when talking at normal conversational speed to optimize for efficient mouth movement.

@@ -40,6 +40,6 @@ How thick the shells around various worlds would be if their moon(s) were conver
 
 [Eris' armor is about 1.3 times the height of Salacia's.]
 
-[Earth's armor is about 4 times the height of Eris'.]
+[Earth's armor is about 4 times the height of Eris'. Includes Mount Everest inside the bar for scale, which is about 1/5 of the bar's height.]
 
 [Pluto's armor is about 1.05 times the height of Earth's.]

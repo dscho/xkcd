@@ -6,7 +6,7 @@ alt: >-
   It's possible to do sea navigation without a compass, but you'll have to get some spoilers from the Polynesians.
 img: https://imgs.xkcd.com/comics/time_machine_conversation_2x.png
 ---
-[1st Panel. Cueball is on the left with a ghostly halo around him. Hairbun is on the right, holding a hoe vertically.]
+[Cueball is on the left with a ghostly halo around him. Hairbun is on the right, holding a hoe vertically.]
 
 Cueball: Oh hi! Guess my time machine works. How's life in the Iron Age?
 
@@ -16,13 +16,13 @@ Cueball: Cool.
 
 Hairbun: And my brother was just lost at sea.
 
-[2nd Panel. Only Cueball is shown, with Hairbun out of the panel.]
+[Only Cueball is shown, with Hairbun out of the panel.]
 
 Cueball: I'm sorry.
 
 Hairbun [from outside the right side]: It's OK. I think sea navigation is probably impossible.
 
-[3rd Panel. Cueball and Hairbun are both shown again.]
+[Cueball and Hairbun are both shown again.]
 
 Cueball: Oh yeah, you don't have the compass, right?
 
@@ -32,7 +32,7 @@ Cueball: The weird rock that always points north?
 
 Hairbun: What are you **talking** about?
 
-[4th Panel. Cueball and Hairbun are both shown. Cueball holds his hand to his chin.]
+[Cueball and Hairbun are both shown. Cueball holds his hand to his chin.]
 
 Cueball: It **does** sound ridiculous when I say it out loud. Anyway, spoilers for the magnetic compass. Sorry.
 
