@@ -10,4 +10,4 @@ img: https://imgs.xkcd.com/comics/aperiodic_table_2x.png
 
 The Aperiodic Table of the Elements
 
-[Rectangles showing the atomic symbols and atomic numbers from H (1) through Og (118) are arranged in a serpentine chain. Each rectangle has the atomic number in small numerals at the upper left and the atomic symbol in large letters. The color of each rectangle matches the pattern of a similarly keyed standard periodic table. For example, the noble gases all have a red background.]
+[Rectangles showing the atomic symbols and atomic numbers from H (1) through Og (118) are arranged in order in a serpentine chain. Each rectangle has the atomic number in small numerals at the upper left and the atomic symbol in large letters. The color of each rectangle matches the pattern of a similarly keyed standard periodic table. For example, the noble gases all have a red background.]

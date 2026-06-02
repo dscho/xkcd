@@ -14,13 +14,13 @@ We believe this resolves all remaining questions on this topic. No further resea
 
 References
 
-1.[unreadable text]
+1. [unreadable text]
 
-2.[unreadable text]
+2. [unreadable text]
 
-3.[unreadable text]
+3. [unreadable text]
 
-4.[unreadable text]
+4. [unreadable text]
 
 [Caption below the panel:]
 

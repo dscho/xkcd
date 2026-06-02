@@ -6,9 +6,7 @@ alt: >-
   'Oh, and can I borrow 50 sacks of loose flour, a pile of lithium-ion batteries, a bucket of bleach, and a bucket of vinega--' 'NO!!!!!!'
 img: https://imgs.xkcd.com/comics/double_pronged_extension_cord_2x.png
 ---
-{{incomplete transcript|Don't remove this notice too soon.}}
-
-[Cueball is approaching Ponytail, who is sitting at a desk with a laptop, from off-screen.]
+[Cueball is approaching Ponytail, who is sitting at a desk with a laptop, turning around to face Cueball.]
 
 Cueball: Do you have an extension cord with prongs at both ends? Can I borrow it?
 

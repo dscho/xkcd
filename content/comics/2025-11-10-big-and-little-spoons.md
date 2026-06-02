@@ -6,8 +6,6 @@ alt: >-
   Are you the annoying spoon or the sleepy spoon?
 img: https://imgs.xkcd.com/comics/big_and_little_spoons_2x.png
 ---
-{{incomplete transcript}}
-
 [Close up shot of Cueball's head and neck. Cueball is facing the left and has his arm raised.]
 
 Cueball: Some people like to be the big spoon.
@@ -24,7 +22,7 @@ And some brave truth-tellers point out that the metaphor makes no sense because 
 
 Cueball: ...and apparently ***we*** sleep on the couch.
 
-[Voice from outside the panel:]
+[Voice from outside the panel, presumably Megan:]
 
 Voice: Why are you ***still*** going on about the spoon thing?
 

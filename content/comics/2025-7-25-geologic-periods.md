@@ -6,11 +6,9 @@ alt: >-
   Geologists claim it's because the earlier Cenozoic used to be called the Tertiary, but that's just a ruse to hide the secret third geologic period, between the Neogene and the Quaternary, that they won't tell us about.
 img: https://imgs.xkcd.com/comics/geologic_periods_2x.png
 ---
-{{incomplete transcript|Don't remove this notice too soon.}}
-
 [A table with 3 columns, labelled: "Period", "My favorite part" and "My biggest complaint". There are 13 rows below the labels]
 
-[Row 1: Period:] *Precambrian*
+[Row 1: Period, italicized:] *Precambrian*
 
 [My favorite part:] Life develops
 
@@ -86,4 +84,4 @@ img: https://imgs.xkcd.com/comics/geologic_periods_2x.png
 
 [My favorite part:] Burrito invented
 
-[My biggest complaint:] Whoever picked the name for the third period of the Cenozoic
+[My biggest complaint:] Whoever picked this name for the third period of the Cenozoic

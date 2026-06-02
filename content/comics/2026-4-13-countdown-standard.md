@@ -6,15 +6,13 @@ alt: >-
   Anyone who is caught counting 'three ... two ... one ... zero ... GO!' will be punished with a lifetime of eating only ISO standard food samples.
 img: https://imgs.xkcd.com/comics/countdown_standard_2x.png
 ---
-{{incomplete transcript|Don't remove this notice too soon.}}
-
 [The comic shows three different ways of counting down]
 
 One ... Two ... ***Three!***  [red X, followed by red text] Deprecated
 
 One ... Two ... Three ... ***Go!***  [red X, followed by red text] Deprecated
 
-[These first two both followed by a red curly bracket followed by red text:] Too easy to mix up
+[These first two both connected by a red curly bracket on the right followed by red text:] Too easy to mix up
 
 Three ... Two ... One ... ***Go!***  [green tickmark, followed by green text] ISO Standard
 

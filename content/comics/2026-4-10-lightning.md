@@ -6,11 +6,9 @@ alt: >-
   Maybe you should wear one too? I guess I'm taller than you, so as long as I have one we're fine.
 img: https://imgs.xkcd.com/comics/lightning_2x.png
 ---
-{{incomplete transcript|Don't remove this notice too soon.}}
+[Ponytail (who is holding a walking stick) and Cueball are on the side of a hill, looking at a bolt of lightning very close by. The sky is shown as black, with the rest of the panel being a white silhouette.]
 
-[Most of the panel is black, with Cueball and Ponytail (holding a walking stick) on the side of a hill shown in all white. A bolt of lighting, also all white, is in the sky above them and accompanied by a booming sound.]
-
-[Lightning:]
+[The lightning is accompanied by this word:]
 
 <big>BOOOOM</big>
 
