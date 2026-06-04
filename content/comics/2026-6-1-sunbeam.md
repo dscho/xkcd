@@ -6,7 +6,9 @@ alt: >-
   While weather control is typically thought of as a superpower, the unconscious ability of astronomers and astrophotographers to summon clouds is more properly classified as a curse.
 img: https://imgs.xkcd.com/comics/sunbeam_2x.png
 ---
-{{incomplete transcript|Don't remove this notice too soon.}}
+{{incomplete transcript|Don't remove this notice too soon.
+
+ NOTE: This transcript is good enough that it could possibly warrant the removal of this notice, but I will let a more experienced editor decide when to remove it.}}
 
 [Cueball, Megan, and White Hat are in a large dark room, presumably a restaurant, with two tables and a large window, with 4 panels and a topsection. The window is casting a large sunbeam between the two tables.]
 
