@@ -12,4 +12,6 @@ Megan: Wanna go for a bike ride?
 
 Cueball: Nah, I hate 3D stuff. It gives me a headache.
 
+[Caption below the comic:]
+
 When you think about it, this excuse can get you out of almost anything.
