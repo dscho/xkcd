@@ -8,11 +8,10 @@ img: https://imgs.xkcd.com/comics/nostalgia_content_2x.png
 ---
 {{incomplete transcript|Don't remove this notice too soon.}}
 
-[Cueball is standing, with his arms out, in front of a prototaxite (incorectly refered to in this comic as a "parataxtite') towering over a mossy landscape. To his right, a Tamagotchi, and milk-caps (refered to in this comic as "pogs"), appear.]
+[Cueball is standing, with his arms out, in front of a Prototaxite structure towering over a mossy landscape. To his right, a Tamagotchi (bottom-left) and bottle-cap-like Pogs (top-left) appear. The three pogs that can be seen show a skull with a snake through its eyeball, a figure 8 and a star (three more pogs are also shown, but have obscured pictures).]
 
-Cueball: Who else rembembers pogs? Tamagotchis? Vast forests of Parataxites towering over the mossy landscape as armored fish stir in the deep?
+Cueball: Who else remembers pogs? Tamagotchis? Vast forests of <em>Prototaxites</em> towering over the mossy landscape as armored fish stir in the deep?
 
 [Caption below the panel:]
 
-Due to a database error, Millenial nostalgia now includes a portion of the early Devonian.
-
+Due to a database error, millennial nostalgia now includes a portion of the early Devonian.
