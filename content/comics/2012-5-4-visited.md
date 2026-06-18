@@ -6,7 +6,7 @@ alt: >-
   I hate when I read something like '... tension among the BASE jumpers nearly led to wingsuit combat ...', and I get excited because 'wingsuit combat' is underlined, only to find that it's just separate links to the 'wingsuit' and 'combat' articles.
 img: https://imgs.xkcd.com/comics/visited.png
 ---
-[The following is in the standard format of a Wikipedia article, modified to reflect the content of the comic. The First and Last paragraph was partially cutoff]
+[The following is in the standard format of a Wikipedia article, modified to reflect the content of the comic. The first and last paragraph are incomplete.]
 
 ...and was a pioneer of literary <u>social realism</u>[link not clicked].
 
