@@ -6,8 +6,6 @@ alt: >-
   Luckily, the range is limited by the fact that the square boundary lines follow great circles.
 img: https://imgs.xkcd.com/comics/chessboard_alignment_2x.png
 ---
-{{incomplete transcript|Don't remove this notice too soon.}}
-
 [An aerial view of three chess-games, with six players shown, in each case with white at the near-side of board (towards the bottom of the comic panel) and each having reasonably developed game positions.<!-- which I won't describe, both for brevity and for possible misrecognition of the low-detail depiction of each piece-->]
 
 [The middle board has yellow highlight on the squares from white's King's Bishop's original position, diagonally forward-right to the respective edge square of the board, then four more squares in the gap between boards until ending on the black Queen's Rook square of the right-hand board, which appears now to have three white bishops, one of them on this rook's starting square.
