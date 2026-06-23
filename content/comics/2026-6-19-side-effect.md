@@ -16,6 +16,10 @@ Ponytail: Oh yeah, that's a common ...wait, what was that last part?
 
 Beret Guy: Here comes one now!
 
-[Over three panels, Beret Guy is stretched out in height, then he gets shorter and wider, then stretched out again.]
+[Ponytail stands facing Beret Guy, who is stretched out in height.]
 
-[Last Panel:]Beret Guy: *WHEEE!*
+[Ponytail stands facing Beret Guy, who is now shorter and wider than he was originally.]
+
+[Ponytail stands facing Beret Guy, who is now stretched out in height again as he was in the third panel.]
+
+Beret Guy: *WHEEE!*
