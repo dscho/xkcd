@@ -8,7 +8,7 @@ img: https://imgs.xkcd.com/comics/sports_commentary_2x.png
 ---
 {{incomplete transcript|Don't remove this notice too soon.}}
 
-[Cueball and Ponytail are sitting at a table, looking at the wall behind them. On the wall is a screen showing a soccer field with some unreadable score information above it.]
+[Cueball and Ponytail are sitting at a table, looking at the wall behind them. On the wall is a screen showing a soccer field with some mostly unreadable score information above it. The only readable information is that the score is 2-1.]
 
 Cueball: They could be in trouble. Over the last 36 years, they've gone 0 for 2 when they've scored in the 37th minute to lead 2-1 against a team whose country comes before theirs alphabetically.
 
