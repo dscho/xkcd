@@ -14,7 +14,7 @@ Cueball: So you're the creator of the universe?<br>
 
 Creator of the Universe: That's me! So, got any questions?
 
-[Cueball is putting his hand to his face as he floats upright.]<br>
+[Cueball puts his hand to his face as he floats upright.]<br>
 
 Cueball: Oh man, so many. What's the reason for baryon asymmetry? Why is most of the universe matter and not antimatter?
 
