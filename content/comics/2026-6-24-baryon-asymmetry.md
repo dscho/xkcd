@@ -6,8 +6,6 @@ alt: >-
   Wait, what do you mean, 'dark matter'? It's not dark, it interacts with high-energy gamma rays ... right? Oh jeez, did I forget to make it interact?
 img: https://imgs.xkcd.com/comics/baryon_asymmetry_2x.png
 ---
-{{incomplete transcript|Don't remove this notice too soon.}}
-
 [Cueball is floating in a void. He is speaking with the creator of the universe, who appears as a black sun symbol.]<br>
 
 Cueball: So you're the creator of the universe?<br>
