@@ -6,8 +6,6 @@ alt: >-
   Although it was a setback for physics, I'm glad the particle naming rights issue led to the cancelation of Pizza Hut's Superconducting Super Collider in the early 90s, so the Double Stuffed Extra Cheese Topping Quark ended up just being named 'top quark.'
 img: https://imgs.xkcd.com/comics/airport_meeting_2x.png
 ---
-{{incomplete transcript|Don't remove this notice too soon.}}
-
 [Cueball and Ponytail are standing together and talking to each other. Cueball holds a black briefcase, while Ponytail has a grey briefcase in front of her.]
 
 Cueball: I do restaurant analysis for a beverage company.

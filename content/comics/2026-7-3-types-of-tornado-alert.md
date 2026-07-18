@@ -6,8 +6,6 @@ alt: >-
   I hate the unearthly sound my phone makes when the weather service issues a tornado harbinger.
 img: https://imgs.xkcd.com/comics/types_of_tornado_alert_2x.png
 ---
-{{incomplete transcript|Don't remove this notice too soon.}}
-
 <!--stolen from 2843-->[There are multiple panels showing different scenes, prefixed by some label beginning with "Tornado" and followed by a description.]
 
 Tornado warning

@@ -6,8 +6,6 @@ alt: >-
   The research was overseen by the Institutional Review Board, which is what I named my surfboard.
 img: https://imgs.xkcd.com/comics/planetary_science_2x.png
 ---
-{{incomplete transcript|Don't remove this notice too soon.}}
-
 [An article from a journal is shown.]
 
 [Title of journal article:] Evidence for Liquid Water on the Surface of a Terrestrial Planet in the Habitable Zone

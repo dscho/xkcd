@@ -14,7 +14,7 @@ Cueball: We all hate springing forward,
 
 Cueball: but we love falling back.
 
-[Zoomed out view. Cueball is on a raised podium behind a lectern, and Hairy, another Cueball, and Hairbun are standing in front of Cueball (to the panel's left).]
+[Zoomed out view. Cueball is on a raised podium behind a lectern, and Hairy, another Cueball, and Hairbun are standing in front of Cueball (to the panel's left), looking at him.]
 
 Cueball: Therefore, we are abolishing the ***spring*** time change ***only.***
 
