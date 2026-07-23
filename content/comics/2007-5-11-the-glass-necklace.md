@@ -64,7 +64,7 @@ Detach
 
 Open
 
-[Scene 13: Cueball puts his hands into the cylinder and removes a piece of glass with a zigzag shape. Leftover sand pouts out as he draws it out of the open cylinder.]
+[Scene 13: Cueball puts his hands into the cylinder and removes a piece of glass with a zigzag shape. Leftover sand pours out as he draws it out of the open cylinder.]
 
 Remove
 

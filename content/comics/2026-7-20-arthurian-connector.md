@@ -6,7 +6,7 @@ alt: >-
   Most coffee shops have a descendant of Sophia of Hanover on staff for this, but just as I was about to ask for help, a previously unknown heir of Uther Pendragon who was ordering a muffin tripped on my laptop cord.
 img: https://imgs.xkcd.com/comics/arthurian_connector_2x.png
 ---
-[Above the drawing there is a header in two lines. Below the header, a cable plug shaped like a sword in a scabbard/hilt design is shown above a socket shaped like an anvil mounted on a block. Beneath the drawing there is an explanation in brackets.]
+[Above the drawing there is a header in two lines. Below the header, a cable plug shaped like an unsheathed sword is shown above a socket-hole in an object shaped like an anvil mounted on a block, with both items having a cable running away from them (from the 'sword' hilt and sideways from the 'anvil' base). Beneath the drawing there is an explanation in brackets.]
 
 Cursed Connectors #158:
 
