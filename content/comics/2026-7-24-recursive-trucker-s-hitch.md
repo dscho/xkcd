@@ -8,23 +8,27 @@ img: https://imgs.xkcd.com/comics/recursive_truckers_hitch_2x.png
 ---
 {{incomplete transcript|Don't remove this notice too soon.}}
 
-FUSION CAPSULE
+[A winch arm is shown (labelled 'Plunger'), with a small circle within it labelled 'Fusion Capsule' and a string attached to the arm and attaching to the base, which is then continually knotted in a block and tackle system until it reaches the end of the string, labelled as F<sub>in</sub>.]
 
-PLUNGER
 
-n = NUMBER OF LAYERS
 
-[A box within the panel shows the following equation:]
+[Below is a box within the panel shows the following equation:]
 
-Mechanical advantage = F<sub>OUT</sub>/F<sub>IN</sub> = 1/3 \* (2<sup>(2n+1)</sup> + 1) ~ 2/3 \* 4<sup>n</sup>
+<math>{Mechanical~advantage} = \frac{F\_{out}}{F\_{in}} = \frac{1}{3} \Bigl( 2^{(2n+1)}+1 \Bigr) \approx \frac{2}{3}4^n</math>
 
-MA(1) = 3:1
 
-MA(5) = 683:1
 
-MA(20) = 733,007,751,851:1
+[After the box, more text is shown, as follows:]
 
-MA(50) = 845,100,400,152,152,934,331,135,470,251:1
+<math>{MA}(1) = 3:1</math>
+
+<math>{MA}(5) = 683:1</math>
+
+<math>{MA}(20) = 733,007,751,851:1</math>
+
+<math>{MA}(50) = 845,100,400,152,152,934,331,135,470,251:1</math>
+
+
 
 [Caption below the panel:]
 

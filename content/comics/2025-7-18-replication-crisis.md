@@ -18,6 +18,6 @@ Ponytail: Over a decade into the replication crisis, we wanted to see if today's
 
 Ponytail: Unfortunately, our replication analysis has found exactly the same problems that those 2010s researchers did.
 
-[This panel shows a newspaper, with title "NEWS" surrounded by flourishes. There is a photo of the panel #2 without the text.  There is much illegible text around the picture. The headline reads:]
+[This panel shows a newspaper, with title "NEWS" surrounded by flourishes. There is a photo of Megan, Ponytail, and Cueball standing as in panel #2. There is much illegible text around the picture. The headline reads:]
 
 **REPLICATION CRISIS SOLVED**
