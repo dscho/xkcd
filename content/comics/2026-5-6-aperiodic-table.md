@@ -6,15 +6,13 @@ alt: >-
   Scientists occasionally invent alternative periodic table layouts, which is usually a sign that they don't have enough enrichment in their enclosures.
 img: https://imgs.xkcd.com/comics/aperiodic_table_2x.png
 ---
-{{incomplete transcript|Don't remove this notice too soon. All 118 elements and their number should be included in a full transcript.}}
-
 The Aperiodic Table of the Elements
 
 [Rectangles showing the atomic symbols and atomic numbers from H (1) through Og (118) are arranged in order in a serpentine chain. Each rectangle has the atomic number in small numerals at the upper left and the atomic symbol in large letters. The color of each rectangle matches the pattern of a similarly keyed standard periodic table. For example, the noble gases all have a red background.]
 
-List of Elements:
+[List of Elements:]
 
-<table>
+<table style="margin-left: 30px">
 
 <tr><td>1 </td><td>H </td><td>Hydrogen </td></tr>
 
@@ -176,7 +174,7 @@ List of Elements:
 
 <tr><td>80 </td><td>Hg </td><td>Mercury</td></tr>
 
-<tr><td>81 </td><td>Tl (error: Randall puts "Ti" instead of "Tl"</td><td>Thallium</td></tr>
+<tr><td>81 </td><td>Tl (error: Randall puts "Ti" instead of "Tl") </td><td>Thallium</td></tr>
 
 <tr><td>82 </td><td>Pb </td><td>Lead </td></tr>
 

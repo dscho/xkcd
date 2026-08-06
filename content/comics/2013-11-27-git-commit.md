@@ -6,6 +6,8 @@ alt: >-
   Merge branch 'asdfasjkfdlas/alkdjf' into sdkjfls-final
 img: https://imgs.xkcd.com/comics/git_commit.png
 ---
+[A table is shown with three columns. The first shows a git commit history graph that goes down chronologically.]
+
 {| class="wikitable"
 
 !&nbsp;

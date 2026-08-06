@@ -8,4 +8,12 @@ img: https://imgs.xkcd.com/comics/bad_map_projection_zero_declination.png
 ---
 {{incomplete transcript|Don't remove this notice too soon.}}
 
-[An outline map of the world is shown, with all landmasses  rotated and extended about - shown by sets of three red arrows around each change. A title on top of the map reads as follows: 'Bad Map Projection #216:', then below that: 'zero declination', and finally below that 'A cylindrical projection distorted so up is magnetic north'.]
+[Title, in three rows (second line is largest):]
+
+Bad Map Projection #216:
+
+Zero Declination
+
+A cylindrical projection distorted so up is **magnetic** north
+
+[A Eurocentric outline map of the world is shown, with all landmasses distorted and stretched about. Sets of three red arrows are drawn on various parts of the map, near the land borders, showing the direction in which the land masses were stretched in contrast to a standard world map.]

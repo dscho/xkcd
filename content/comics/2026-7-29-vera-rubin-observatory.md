@@ -14,7 +14,7 @@ Vera Rubin Observatory discoveries
 
 Bingo card
 
-[A bingo card is shown, with 25 squares. They are as follows:]
+[A 5-by-5 bingo card is shown. They are as follows, left to right, by each row:]
 
 Black hole tidally disrupting a star
 
