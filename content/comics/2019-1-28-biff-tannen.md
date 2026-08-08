@@ -4,7 +4,7 @@ title: "Biff Tannen"
 num: 2104
 alt: >-
   I can't help myself; now I want to read a bunch of thinkpieces from newspapers in Biff's 1985 arguing over whether the growth of the region into a corporate dystopia was inevitable.
-img: https://imgs.xkcd.com/comics/biff_tannen.png
+img: https://imgs.xkcd.com/comics/biff_tannen_2x.png
 ---
 [Cueball talks while walking up behind White Hat, who is reading in an armchair.]
 

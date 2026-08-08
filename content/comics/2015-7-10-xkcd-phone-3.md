@@ -4,7 +4,7 @@ title: "xkcd Phone 3"
 num: 1549
 alt: >-
   If you're not completely satisfied with the phone after 30 days, we will return you to your home at no cost.
-img: https://imgs.xkcd.com/comics/xkcd_phone_3.png
+img: https://imgs.xkcd.com/comics/xkcd_phone_3_2x.png
 ---
 [An image of a smartphone lying down, with many labels pointing to it. There is a black stripe across the top left corner of the phone. At the top right something is protruding from the side, like a volume control. There is a wrist band (only partly shown) attached to the middle of each side of the phone. Above the screen are several small features, below only a central square and on the bottom a socket. Clockwise from the top left the labels read:]
 

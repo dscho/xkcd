@@ -12,7 +12,7 @@ Megan: An apple a day keeps the doctor away.
 
 Megan: Or at least, it used to.
 
-[The comic zooms out revealing that Megan and the lectern are standing on a podium. Megan is pointing behind her, with a stick, to at a poster prominently featuring Doctor Ponytail with three apples over her head.]
+[The comic zooms out revealing that Megan and the lectern are standing on a podium. Megan is pointing behind her, with a stick, to at a poster prominently featuring doctor Ponytail with three apples over her head.]
 
 Megan: Over time, some doctors have developed a resistance to apples. Keeping them away takes two or three apples instead of one.
 

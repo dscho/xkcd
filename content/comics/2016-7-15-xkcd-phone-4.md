@@ -4,7 +4,7 @@ title: "xkcd Phone 4"
 num: 1707
 alt: >-
   The SpaceX system carefully guides falling phones down to the surface, a process which the phones increasingly often survive without exploding.
-img: https://imgs.xkcd.com/comics/xkcd_phone_4.png
+img: https://imgs.xkcd.com/comics/xkcd_phone_4_2x.png
 ---
 [An image of a smartphone featuring wings is shown. Clockwise from the top left the labels read:]
 

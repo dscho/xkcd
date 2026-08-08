@@ -12,7 +12,7 @@ img: https://imgs.xkcd.com/comics/fifteen_years_2x.png
 
 **From [[1141: Two Years]]**
 
-[Randall (drawn as Cueball) and Randall's fiancée (drawn as Megan) sit on a bed, Randall's fiancée is talking on the phone. The person she is talking to, a doctor holding a clipboard, is shown inset.]
+[Randall (drawn as Cueball) and Randall's fiancée (drawn as Megan) sit on a bed, Randall's fiancée is talking on the phone. The person she is talking to, a [[:Category:Doctor Ponytail|doctor Ponytail]] holding a clipboard, is shown inset.]
 
 Randall's fiancée: Oh god.
 

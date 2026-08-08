@@ -4,7 +4,7 @@ title: "Captain Speaking"
 num: 1660
 alt: >-
   Oh dang, you have to pay? Hey, has anyone else paid already? If so, can I borrow your phone for a sec?
-img: https://imgs.xkcd.com/comics/captain_speaking.png
+img: https://imgs.xkcd.com/comics/captain_speaking_2x.png|_imagesize_=_279x315px
 ---
 [The text is written above a Boeing 737 Next Generation seen from below as it turns left. The text emanates from the cockpit.]
 

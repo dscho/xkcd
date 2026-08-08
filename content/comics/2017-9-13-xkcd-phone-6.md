@@ -4,7 +4,7 @@ title: "xkcd Phone 6"
 num: 1889
 alt: >-
   We understand your privacy concerns; be assured that our phones will never store or transmit images of your face.
-img: https://imgs.xkcd.com/comics/xkcd_phone_6.png
+img: https://imgs.xkcd.com/comics/xkcd_phone_6_2x.png
 ---
 [A smartphone is shown, the screen is slightly wider than the case, in the middle is a photo lens, and at the right bottom a small extra part is added to the screen.]
 

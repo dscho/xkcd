@@ -4,7 +4,7 @@ title: "Chernobyl"
 num: 2163
 alt: >-
   You know when you can't hear your speakers, and you keep turning various volume controls up higher and higher in confusion, and then someone hits the mute button and there's a deafening blast of sound? That's basically what happened at Chernobyl.
-img: https://imgs.xkcd.com/comics/chernobyl.png
+img: https://imgs.xkcd.com/comics/chernobyl_2x.png
 ---
 [Ponytail and White Hat facing each other.]
 
