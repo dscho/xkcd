@@ -17,3 +17,5 @@ The math department team's opponents hate it when Banach passes to Tarski.
 [[Category:Soccer]]
 
 [[Category:Math]]
+
+[[Category:Banned from conferences]]
