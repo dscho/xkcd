@@ -8,17 +8,17 @@ img: https://imgs.xkcd.com/comics/accretionary_arc_2x.png
 ---
 {{incomplete transcript|Don't remove this notice too soon.}}
 
-[Cueball and Ponytail are running to the right.]
+[Cueball and Ponytail are running to the right. Cueball is looking back over his shoulder.]
 
 Cueball: They're right behind us!
 
 Ponytail: It's OK! I have a plan.
 
-[The field of view widens, showing an angry horde of people with weapons chasing Cueball and Ponytail.]
+[The field of view widens, showing an angry horde of people with weapons (consisting of Black Hat waving a spear, in the lead, two Cueballs behind him, waving an axe and a sword, and a fourth figure which is obscured) chasing Cueball and Ponytail, who in turn are running towards a control panel.]
 
 Ponytail: This part of the continent used to be an island arc before it collided with North America.
 
-[Close up on Cueball and Ponytail. Cueball looks back to the left, toward the mob, while Ponytail pushes buttons on a control panel about waist-high which has some dirt and plants covering it.]
+[Close up on Cueball and Ponytail. Cueball looks back to the left, toward the mob while Ponytail pushes buttons on a control panel about waist-high which has some dirt and plants covering it.]
 
 Ponytail: I just gotta access the control panel...
 

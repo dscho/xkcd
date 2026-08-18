@@ -6,8 +6,6 @@ alt: >-
   'Spurious signals from the kitchen' is harder for an optical telescope than a radio one, but with enough determination and creativity, I believe it's possible.
 img: https://imgs.xkcd.com/comics/vera_rubin_observatory_2x.png
 ---
-{{incomplete transcript|Don't remove this notice too soon.}}
-
 [Title:]
 
 Vera Rubin Observatory discoveries
