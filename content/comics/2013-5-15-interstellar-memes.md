@@ -4,7 +4,7 @@ title: "Interstellar Memes"
 num: 1212
 alt: >-
   The strongest incentive we have to develop faster-than-light travel is that it would let us apologize in advance.
-img: https://imgs.xkcd.com/comics/interstellar_memes.png
+img: https://imgs.xkcd.com/comics/interstellar_memes_2x.png
 ---
 [On a black background yellow circles and white bubbles are shown. Caption above the picture:]
 

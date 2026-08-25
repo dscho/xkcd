@@ -8,7 +8,7 @@ img: https://imgs.xkcd.com/comics/archery_feat_2x.png
 ---
 {{incomplete transcript|Don't remove this notice too soon.}}
 
-[Cueball aims a drawn bow-and-arrow through a line of 12 axes, over a boy with an apple on his head, and at a target where an arrow in the bullseye has been split by another, later-arriving arrow.]
+[Cueball aims a drawn bow-and-arrow through a line of 12 axes, over a seated Hairy-like boy with an apple on his head, and at a target where an arrow in the bullseye has been split by another, later-arriving arrow.]
 
 [Caption below the panel:]
 
