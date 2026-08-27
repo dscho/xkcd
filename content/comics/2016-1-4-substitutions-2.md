@@ -4,7 +4,7 @@ title: "Substitutions 2"
 num: 1625
 alt: >-
   Within a few minutes, our roads will be full of uncontrollably-swerving cars and our skies full of Amazon delivery dogs.
-img: https://imgs.xkcd.com/comics/substitutions_2.png
+img: https://imgs.xkcd.com/comics/substitutions_2.png_2x.png
 ---
 [Caption above the panel:]
 
