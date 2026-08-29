@@ -22,6 +22,6 @@ img: https://imgs.xkcd.com/comics/the_difference.png
 
 Cueball (thinking): I guess I shouldn't do that.
 
-[An arrow labelled "scientist" points to a panel of Cueball about to pull the level again.]
+[An arrow labelled "scientist" points to a panel of Cueball about to pull the lever again.]
 
 Cueball (thinking): I wonder if that happens every time.

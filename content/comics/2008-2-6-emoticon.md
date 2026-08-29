@@ -6,7 +6,7 @@ alt: >-
   U+FDD0 is actually Unicode for the eye of the basilisk, though for safety reasons no font actually renders it.
 img: https://imgs.xkcd.com/comics/emoticon.png
 ---
-[Cueball sits at computer, typing.]
+[Cueball sits at computer, typing. The computer screen reads as follows:]
 
 ~!~ Opening Chat with BSLSK05
 
@@ -14,16 +14,14 @@ img: https://imgs.xkcd.com/comics/emoticon.png
 
 <NICKM> A/S/L?
 
-[Next unframed panel]
+[The next panel is unframed, with two smaller frames within it.]
 
 <BSLSK05> :)
 
-[Two smaller panels where the smiley appears bigger]
-
 [Cueball looks stunned, flies backward.]
 
-[Two smaller frames focus in on BSLSK05's emoticon, implying rotation to show a smile and two open eyes.]
+[The two smaller frames focus in on BSLSK05's emoticon, implying rotation to show a smile and two open eyes.]
 
 [Cueball at computer slouches in chair, dead, crossbones above his head.]
 
-[At the remote computer, a basilisk is looking at its screen.]
+[At the remote computer, a basilisk is looking at its screen, pleased with its endeavours.]
