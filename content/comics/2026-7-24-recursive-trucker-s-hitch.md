@@ -6,8 +6,6 @@ alt: >-
   As if the americium smoke detector incident wasn't enough, now nuclear regulators have ANOTHER reason to worry about the Boy Scouts.
 img: https://imgs.xkcd.com/comics/recursive_truckers_hitch_2x.png
 ---
-{{incomplete transcript|Don't remove this notice too soon.}}
-
 [A winch arm is shown (labelled 'Plunger'), with a small circle within it labelled 'Fusion Capsule' and a string attached to the arm and attaching to the base, which is then continually knotted in a block and tackle system until it reaches the end of the string, labelled as F<sub>in</sub>.]
 
 

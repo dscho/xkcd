@@ -6,8 +6,6 @@ alt: >-
   Once we've fully explored this space, we can start varying the number of princesses.
 img: https://imgs.xkcd.com/comics/the_princess_and_the_pea_2x.png
 ---
-{{incomplete transcript}}
-
 [At the top of the panel is a gradated line with arrows at both ends indicating that it extends indefinitely. The middle gradation is a thick line labelled:] 1:1 mattress-to-pea ratio
 
 [Label at the left of the line:] Many mattresses per pea

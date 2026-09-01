@@ -6,8 +6,6 @@ alt: >-
   The late Triassic rifting was caused by a dinosaur trying to use the control panel to escape a predator, but it was eaten before the continent could fully separate.
 img: https://imgs.xkcd.com/comics/accretionary_arc_2x.png
 ---
-{{incomplete transcript|Don't remove this notice too soon.}}
-
 [Cueball and Ponytail are running to the right. Cueball is looking back over his shoulder.]
 
 Cueball: They're right behind us!
