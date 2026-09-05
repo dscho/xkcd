@@ -4,7 +4,7 @@ title: "Password Strength"
 num: 936
 alt: >-
   To anyone who understands information theory and security and is in an infuriating argument with someone who does not (possibly involving mixed case), I sincerely apologize.
-img: https://imgs.xkcd.com/comics/password_strength.png
+img: https://imgs.xkcd.com/comics/password_strength_2x.png
 ---
 [The password "Tr0ub4dor&3" is shown in the center of the panel. In this panel and multiple others, a set of squares is used to indicate how many bits of entropy a section of the password provides. A line from each annotation indicates the word section the comment applies to.]
 

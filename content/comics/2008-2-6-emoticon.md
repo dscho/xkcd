@@ -8,7 +8,7 @@ img: https://imgs.xkcd.com/comics/emoticon.png
 ---
 [Cueball sits at computer, typing. The computer screen reads as follows:]
 
-~!~ Opening Chat with BSLSK05
+-!- Opening Chat with BSLSK05
 
 <NICKM> Hi!
 

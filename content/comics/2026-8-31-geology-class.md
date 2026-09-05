@@ -6,8 +6,6 @@ alt: >-
   The rise of AI review bombing tools threatens to take away a crucial source of experience for geology undergraduates.
 img: https://imgs.xkcd.com/comics/geology_class_2x.png
 ---
-{{incomplete transcript|Don't remove this notice too soon.}}
-
 [Ponytail is teaching a class to Cueball and Megan. Ponytail is holding a pointer.]
 
 Ponytail: Welcome to Geology 201.
