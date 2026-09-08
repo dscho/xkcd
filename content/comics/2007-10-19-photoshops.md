@@ -6,7 +6,7 @@ alt: >-
   When I look into your eyes, I see JPEG artifacts. I can tell by the pixels that we're wrong for each other.
 img: https://imgs.xkcd.com/comics/photoshops.png
 ---
-[Megan holds a sword while Cueball looks on.]
+[Megan holds a sword, handle outward, to Cueball. A dark blotch is on the center of the blade, and hangs off it slightly.]
 
 My hobby: Insisting that real-life objects are photoshopped.
 

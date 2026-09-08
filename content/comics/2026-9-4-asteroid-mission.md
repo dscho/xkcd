@@ -8,13 +8,13 @@ img: https://imgs.xkcd.com/comics/asteroid_mission_2x.png
 ---
 {{incomplete transcript|Don't remove this notice too soon.}}
 
-[A news reporter is standing in front of an image of a rocket.]
+[Miss Lenhart, as a news anchor, sits at a desk, with an image of a rocket behind her.]
 
-Reporter: The asteroid is headed for Earth, but a mission has been launched to intercept it.
+Miss Lenhart: The asteroid is headed for Earth, but a mission has been launched to intercept it.
 
-[Cueball and Megan are walking off a lander with some equipment.]
+[Cueball and Megan, wearing space helmets, are walking from a lander on a rocky asteroid, carrying some equipment.]
 
-[A laptop is on the ground, and Megan plugs a peripheral from the laptop to the asteroid.]
+[A laptop is on the ground, and Megan plugs a cable from the laptop into the asteroid.]
 
 [Cueball types into the laptop.]
 

@@ -4,7 +4,7 @@ title: "Average Familiarity"
 num: 2501
 alt: >-
   "How could anyone consider themselves a well-rounded adult without a basic understanding of silicate geochemistry? Silicates are everywhere! It's hard to throw a rock without throwing one!"
-img: https://imgs.xkcd.com/comics/average_familiarity.png
+img: https://imgs.xkcd.com/comics/average_familiarity_2x.png
 ---
 [Ponytail and Cueball are talking. Ponytail has her hand raised, palm up, towards Cueball.]
 
