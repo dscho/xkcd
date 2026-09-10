@@ -164,4 +164,4 @@ Motto:
 
 [Alaska contains a bear with a jet pack and a ray gun.]
 
-[Hawaii contains a snowball on the island of Hawaii. The smaller islands are small bits of snow.
+[Hawaii contains a snowball on the island of Hawaii. The smaller islands are small bits of snow.]

@@ -22,4 +22,4 @@ Gyroscope: zzzzzz
 
 [The gyroscope moves away from Cueball, still spinning.]
 
-Gyroscope: G<big><sub>R</sub></big>E<big><sub>E</sub></big>T<big><sub>I</sub></big>N<big><sub>G</sub></big>S, H<big><sub>U</sub></big>M<big><sub>A</sub></big>N.
+Gyroscope (in a blocky font): G<big><sub>R</sub></big>E<big><sub>E</sub></big>T<big><sub>I</sub></big>N<big><sub>G</sub></big>S, H<big><sub>U</sub></big>M<big><sub>A</sub></big>N.

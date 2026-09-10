@@ -6,6 +6,12 @@ alt: >-
   Remember, meteors always hit the tallest object around.
 img: https://imgs.xkcd.com/comics/meteor_showers.png
 ---
+{{incomplete transcript|
+
+In the transcript section, tables should never be used as they are less accessible to users of screen readers. The table below should be rewritten using words. <small>[[EX:FAQ#tables|Learn more in the editor FAQ]].</small>
+
+}}
+
 [A list of 16 meteor showers, with a caption above, labels on the three columns and then every other row in gray, beginning with a gray row beneath the line below the column labels.]
 
 {| border="1" cellpadding="1" cellspacing="1" class="wikitable" style="width: 60%; text-align: left;"
