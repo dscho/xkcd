@@ -6,8 +6,6 @@ alt: >-
   Lander, this is Houston. There's been a request that you turn clipping back on and instead set the mass to 1kg. The theorists believe that will be pretty funny.
 img: https://imgs.xkcd.com/comics/asteroid_mission_2x.png
 ---
-{{incomplete transcript|Don't remove this notice too soon.}}
-
 [Miss Lenhart, as a news anchor, sits at a desk, with an image of a rocket behind her.]
 
 Miss Lenhart: The asteroid is headed for Earth, but a mission has been launched to intercept it.
