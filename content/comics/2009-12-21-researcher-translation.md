@@ -6,6 +6,8 @@ alt: >-
   A technology that is '20 years away' will be 20 years away indefinitely.
 img: https://imgs.xkcd.com/comics/researcher_translation.png
 ---
+(A table. The top row of the table does not have a border.)
+
 {| class="wikitable"
 
 !If a researcher says a cool<br>new technology should be<br>available to consumers in...
