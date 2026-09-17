@@ -6,42 +6,28 @@ alt: >-
   A technology that is '20 years away' will be 20 years away indefinitely.
 img: https://imgs.xkcd.com/comics/researcher_translation.png
 ---
-(A table. The top row of the table does not have a border.)
+[A two-column table with five standard rows. The headers to each column are written above the actual bordered table]
 
-{| class="wikitable"
+[Column 1 header:] If a researcher says a cool new technology should be< available to consumers in...
 
-!If a researcher says a cool<br>new technology should be<br>available to consumers in...
+[Column 2 header:] What they mean is...
 
-!What they mean is...
+[Row 1, column 1:] The fourth quarter of next year
 
-|-
+[Row 1, column 2:] The project will be canceled<!-- US spelling --> in six months.
 
-|The fourth quarter<br>of next year
+[Row 2, column 1:] Five years
 
-|The project will be<br>canceled in six months.
+[Row 2, column 2:] I've solved the interesting research problems. The rest is just business, which is easy, right?
 
-|-
+[Row 3, column 1:] Ten years
 
-|Five years
+[Row 3, column 2:] We haven't finished inventing it yet, but when we do, it'll be awesome.
 
-|I've solved the interesting<br>research problems. The rest is<br>just business, which is easy, right?
+[Row 4, column 1:] 25+ years
 
-|-
+[Row 4, column 2:] It has not been conclusively proven impossible.
 
-|Ten years
+[Row 5, column 1:] We're not really looking at market applications right now.
 
-|We haven't finished inventing it<br>yet, but when we do, it'll be awesome.
-
-|-
-
-|25+ years
-
-|It has not been conclusively<br>proven impossible.
-
-|-
-
-|We're not really<br>looking at market<br>applications right now.
-
-|I like being the only<br>one with a hovercar.
-
-|}
+[Row 5, column 2:] I like being the only >one with a hovercar.

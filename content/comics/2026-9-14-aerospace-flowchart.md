@@ -6,9 +6,7 @@ alt: >-
   Someday, we will find the problem that goes with this solution.
 img: https://imgs.xkcd.com/comics/aerospace_flowchart_2x.png
 ---
-{{incomplete transcript|Don't remove this notice too soon.}}
-
-[At the top:]
+[At the top of the panel:]
 
 Aerospace engineer problem-solving flowchart
 
@@ -16,12 +14,12 @@ Aerospace engineer problem-solving flowchart
 
 Start
 
-[Arrow pointing downward to a flowchart diamond below that:]
+[Arrow pointing downward to a flowchart diamond:]
 
 Could we solve this problem by building giant airships again?
 
-[Arrow labeled "No" pointing downward to another flowchart box:]
+[The only arrow from the diamond is labeled "No", pointing downward to another flowchart box:]
 
 Try other solutions
 
-[Four arrows point out the box to bottom of the comic]
+[Four arrows pointing out of the box to the bottom of the panel.]
