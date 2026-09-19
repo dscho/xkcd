@@ -8,7 +8,7 @@ img: https://imgs.xkcd.com/comics/recent_searches.png
 ---
 [Colored and styled as the real logo:]
 
-GOOGLE
+Google
 
 [Google Search bar, with a drop down box with faded text, implying recent searches.]
 

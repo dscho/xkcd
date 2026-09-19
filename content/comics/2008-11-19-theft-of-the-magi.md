@@ -10,6 +10,6 @@ img: https://imgs.xkcd.com/comics/theft_of_the_magi.png
 
 Black Hat: Hey. I sold your Roomba on Craigslist so I could buy myself *Left 4 Dead*.
 
-Danish: But I eBayed your XBox so I could get this dueling harness for my Roomba!
+Danish: But I eBayed your Xbox so I could get this dueling harness for my Roomba!
 
 Black hat and Danish at the same time: Aww.
