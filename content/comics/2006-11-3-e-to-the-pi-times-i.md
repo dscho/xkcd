@@ -12,6 +12,6 @@ Cueball: Numbers of the form n√-1 are "imaginary," but can still be used in eq
 
 Friend: Okay.
 
-Cueball: And e^(π√-1)=-1.
+Cueball: And e^(π√-1) = 1.
 
 Friend: Now you're just fucking with me.

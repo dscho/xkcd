@@ -8,4 +8,4 @@ img: https://imgs.xkcd.com/comics/eternal_flame.gif
 ---
 {{incomplete transcript}}
 
-[Two people before a memorial with an eternally spinning wait cursor. They contemplate silently on an influential life. Goodbye, Steve.]
+[Two people before a memorial with an eternally spinning wait cursor. They contemplate silently on an influential life.]

@@ -10,7 +10,7 @@ The **United Shapes**
 
 A map of things states are shaped like
 
-[Each state has some item wedged to stay inside its borders]]
+[Each state has some item wedged to stay inside its borders]
 
 [Washington contains a whale.]
 
@@ -104,9 +104,9 @@ NB - There are several chemicals such as {{w|Pentaborane(9)}}(reacts with water)
 
 [Oregon contains a steam locomotive.]
 
-[Wyoming contains the back side of a white envelope, sealed with red wax, with a black heart next to a signature in the lower left corner. ]
+[Wyoming contains the back side of a white envelope, sealed with red wax, with a black heart next to a signature in the lower left corner.]
 
-[Nebraska contains a blue VW type 2 with mattresses sticking out of the back.	]
+[Nebraska contains a blue VW type 2 with mattresses sticking out of the back.]
 
 [Iowa contains a tomato, lettuce, cold cut and cheese sandwich.]
 

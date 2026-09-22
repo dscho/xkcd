@@ -6,8 +6,6 @@ alt: >-
   Many of the smaller dinosaurs seem to have largely preyed on housecats.
 img: https://imgs.xkcd.com/comics/tyrannosaurus_2x.png
 ---
-{{incomplete transcript|Don't remove this notice too soon.}}
-
-[Miss Lenhart points at a poster which has two lines of illegible text above silhouettes of a Tyrannosaurus rex and a human.]
+[Miss Lenhart uses a stick to point at a poster behind her. On the poster there are two lines of illegible text above silhouettes of a *Tyrannosaurus rex* and a human right in front of the dinosaur.]
 
 Miss Lenhart: We now believe the primary prey of *Tyrannosaurus rex* was these humans who kept standing next to it for scale.
