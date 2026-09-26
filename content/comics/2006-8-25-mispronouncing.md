@@ -22,4 +22,4 @@ Cueball: Wobsite.
 
 Friend: ... I think you mean "website."
 
-Cueball: Why don't you write about it in your blag?
+Cueball: Why don't you write about it in your *blag*?
