@@ -8,10 +8,10 @@ img: https://imgs.xkcd.com/comics/e_to_the_pi_times_i.png
 ---
 [Two Cueballs are standing at a board with writing on. One Cueball is pointing at the board.]
 
-Cueball: Numbers of the form n√-1 are "imaginary," but can still be used in equations.
+Cueball: Numbers of the form <math>n\sqrt{-1}</math> are "imaginary," but can still be used in equations.
 
 Friend: Okay.
 
-Cueball: And e^(π√-1) = 1.
+Cueball: And <math>e^{\pi\sqrt{-1}}=-1</math>.
 
 Friend: Now you're just fucking with me.

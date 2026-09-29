@@ -36,6 +36,6 @@ Left: Quantum
 
 Right: Regular
 
-[Cueball is beamed up in classic Star Trek fashion.]
+[Cueball is beamed up in classic Star Trek fashion, fading away with several vertical lines obscuring his figure.]
 
 *Vrmmm*

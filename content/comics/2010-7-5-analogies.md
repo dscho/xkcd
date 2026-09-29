@@ -8,7 +8,7 @@ img: https://imgs.xkcd.com/comics/analogies.png
 ---
 [Megan stands by a TV set and addresses Cueball in the couch and his Cueball-like friend who sits in front of the TV on the floor.]
 
-Megan: While I'm up does anyoné want a sandwich?
+Megan: While I'm up, does anyone want a sandwich?
 
 Cueball: Is "sandwich" a metaphor?
 
