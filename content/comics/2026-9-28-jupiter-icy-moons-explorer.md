@@ -6,8 +6,6 @@ alt: >-
   "I did briefly visit Venus in August 2025, but I figured out the mistake on my own because it didn't have any moons."
 img: https://imgs.xkcd.com/comics/jupiter_icy_moons_explorer_2x.png
 ---
-{{incomplete transcript|Don't remove this notice too soon.}}
-
 [Panel labeled "April 2023". Earth is shown, and the JUICE space probe is flying away from it, with dotted lines showing its path since liftoff.]
 
 Mission Control: We have liftoff!
@@ -16,7 +14,7 @@ Mission Control: *JUICE* is en route to explore the icy moons of Jupiter!
 
 JUICE: Wheee!
 
-[Panel labeled "August 2024". Two images of JUICE are shown, with dotted lines showing its path through space. One is to the left of Earth, the other to the right, and the path goes below Earth.]
+[Panel labeled "August 2024". Two images of JUICE are shown, with dotted lines showing its path through space. One is to the left of Earth, the other to the right, and the path goes below Earth. The path curves, indicating the effect of Earth's gravity.]
 
 JUICE: ...So which planet was I visiting again? I got distracted.
 
@@ -24,7 +22,7 @@ MC: Jupiter!
 
 JUICE: Right, OK.
 
-[Panel labeled "September 2026". Two images of JUICE again, this time the path goes above Earth.]
+[Panel labeled "September 2026". Two images of JUICE again on its path, with the path going above Earth this time. Again the path curves.]
 
 JUICE: Is Jupiter the one with all the rings? Or...
 

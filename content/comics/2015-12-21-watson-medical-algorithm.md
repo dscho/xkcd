@@ -6,6 +6,12 @@ alt: >-
   Due to a minor glitch, 'discharge patient' does not cause the algorithm to exit, but instead leads back to 'hunt down and capture patient'.
 img: https://imgs.xkcd.com/comics/watson_medical_algorithm.png
 ---
+{{incomplete transcript|
+
+In the transcript section, tables should never be used as they are less accessible to users of screen readers. The table below should be rewritten using words. <small>[[EX:FAQ#tables|Learn more in the editor FAQ]].</small>
+
+}}
+
 Heading: A guide to the medical diagnostic and treatment system used by IBM's **Watson** system
 
 [A flowchart with the following steps is shown, starting from "start":]
@@ -34,23 +40,23 @@ Draw Blood
 
 |   |
 
-Record patient’s name
+Record patient's name
 
 |-
 
 |   |
 
-Record patient’s name
+Record patient's name
 
 |   |
 
-Measure Patient’s height and Weight
+Measure Patient's height and Weight
 
 |-
 
 |   |
 
-Measure Patient’s height and Weight
+Measure Patient's height and Weight
 
 |     |
 

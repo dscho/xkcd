@@ -12,7 +12,7 @@ Cueball: Any plans for Halloween?
 
 Beret Guy: Me and my friends are gonna check out a slab graveyard!
 
-[The next panel is only in the bottom half, compared with the other panels. In it, there is a diagram showing a portion of the Earths crust. It shows a subduction, where the seafloor, under water, is pushed into the mantle as it moves under the mountains on the continental plate. Portions of the crust is shown falling down into the mantle, and at the bottom it piles up on the top of the core. There are clouds above the surface. Cueball and Beret Guy's voices come from off-panel and is written in a frame-less section above this half height panel. Their voices emanating left and right from two starbursts.]
+[The next panel has no characters and the art is only in the bottom half, compared with the other panels. In it, there is a diagram showing a portion of the Earths crust. It shows a subduction, where the seafloor, under water, is pushed into the mantle as it moves under the mountains on the continental plate. Portions of the crust is shown falling down into the mantle, and at the bottom it piles up on the top of the core. There are clouds above the surface. Cueball and Beret Guy's voices come from off-panel and is written in a frame-less section above this half height panel. Their voices emanating left and right from two starbursts.]
 
 Cueball (off-panel): What's that?
 

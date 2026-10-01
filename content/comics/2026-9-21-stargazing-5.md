@@ -6,8 +6,6 @@ alt: >-
   The sun and the moon appear the same size in the sky, even though in real life the sun is more than twice as big. Some call this lucky alignment coincidence; others say it's proof that sometimes things can be the same size.
 img: https://imgs.xkcd.com/comics/stargazing_5_2x.png
 ---
-{{incomplete transcript|Don't remove this notice too soon.}}
-
 [Megan is standing in the foreground with her arms raised. Behind her on the left are Cueball and Ponytail, on the right are White Hat and Hairbun. They appear to be looking at her. The background is black.]
 
 Megan: Welcome to Stargazing!
