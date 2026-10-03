@@ -8,4 +8,4 @@ img: https://imgs.xkcd.com/comics/eternal_flame.gif
 ---
 {{incomplete transcript}}
 
-[A sitting women, possibly Megan and a standing Cueball look upon a spinning multi-colored ball. They are on a bricked pathway, and the cursor is located on an altar surrounded by stones with a path leading up to it. In the background there is a lake reflecting the surrounding mountainside. The two contemplate silently on an influential life.]
+[A sitting woman, possibly Megan and a standing Cueball look upon a spinning multi-colored ball. They are on a bricked pathway, and the cursor is located on an altar surrounded by stones with a path leading up to it. In the background there is a lake reflecting the surrounding mountainside. The two contemplate silently on an influential life.]

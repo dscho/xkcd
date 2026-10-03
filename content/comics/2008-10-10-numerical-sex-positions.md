@@ -32,7 +32,7 @@ Narrator: 34
 
 Cueball: Uh.
 
-Narrator: √<span style="text-decoration: overline">8</span>
+Narrator: <math>\sqrt{8}</math>
 
 [Cueball and Megan are staring at each other.]
 
