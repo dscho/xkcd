@@ -6,8 +6,6 @@ alt: >-
   "Want to feel old?" "Yes."
 img: https://imgs.xkcd.com/comics/fifteen_years_2x.png
 ---
-{{incomplete transcript|Don't remove this notice too soon.}}
-
 [The panels from the older strips are presented in gray.]
 
 **From [[1141: Two Years]]**

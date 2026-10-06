@@ -16,4 +16,6 @@ Zero Declination
 
 A cylindrical projection distorted so up is **magnetic** north
 
-[A Eurocentric outline map of the world is shown, with all landmasses distorted and stretched about. Sets of three red arrows are drawn on various parts of the map, near the land borders, showing the direction in which the land masses were stretched in contrast to a standard world map.]
+[A Eurocentric outline map of the world is shown, with all landmasses distorted and stretched about. Sets of three red arrows are drawn on various parts of the map, near the land borders, showing the direction in which the land masses were stretched in contrast to a standard world map.
+
+For example, New Zealand is shown almost completely as vertically oriented islands, with red arrows showing the counterclockwise rotation that happened to it.]
