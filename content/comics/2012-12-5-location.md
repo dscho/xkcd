@@ -6,11 +6,11 @@ alt: >-
   Ingress: Foursquare With Space Noises.
 img: https://imgs.xkcd.com/comics/location.png
 ---
-[Three people around a computer. One of them is typing.]
+[Three people, a Cueball, another Cueball, and Ponytail, around a computer. One of them, a Cueball, is typing.]
 
-Typing: Hey, party tonight?
+Cueball Typing: Hey, party tonight?
 
-Typing: We'd all love to come see your new place!
+Cueball Typing: We'd all love to come see your new place!
 
 Reply (through monitor): Wait, what?
 
@@ -22,18 +22,18 @@ Guy typing: We're not, like, good friends.
 
 Reply (through the guy's monitor): I know, but we were thinking about it and we really like you!
 
-[Cut back to the three friends.]
+[Cut back to the three friends, the two Cueballs and Ponytail.]
 
-Typing: You should have us over tonight!
+Cueball Typing: You should have us over tonight!
 
-Typing: For, like, an hour.
+Cueball Typing: For, like, an hour.
 
-Typing: It'll be fun!
+Cueball Typing: It'll be fun!
 
 Reply (through monitor): Well, uh, sure.
 
 [Cut to color-inverted image of the guy's house. Four Enlightened-controlled Ingress portals are in the guy's back yard.]
 
-Friends (off-screen): *YESSSS!*
+Friends (two Cueballs and Ponytail, off-screen): *YESSSS!*
 
 Guy (from inside his house): I still don't get why you're suddenly so excited to hang out.
