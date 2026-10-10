@@ -12,7 +12,7 @@ Mission Control: We have liftoff!
 
 Mission Control: *JUICE* is en route to explore the icy moons of Jupiter!
 
-JUICE: Wheee!
+JUICE: *Wheee!*
 
 [Panel labeled "August 2024". Two images of JUICE are shown, with dotted lines showing its path through space. One is to the left of Earth, the other to the right, and the path goes below Earth. The path curves, indicating the effect of Earth's gravity.]
 
