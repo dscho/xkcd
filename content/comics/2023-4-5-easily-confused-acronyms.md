@@ -20,7 +20,7 @@ Microwave Amplification by the Stimulated Emission of Radiation
 
 Sonar
 
-Sound Omplification by the Nimulated Emission of Radiation
+Sound Omplification by the Nimulated Amission of Radiation
 
 Radar
 

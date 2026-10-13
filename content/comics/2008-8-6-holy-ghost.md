@@ -6,26 +6,26 @@ alt: >-
   Okay, everyone, cross yourselves, then cross the streams.
 img: https://imgs.xkcd.com/comics/holy_ghost.png
 ---
-[The Pope stands behind a table.]
+[The Pope stands behind a lectern.]
 
 Pope: This is a disaster.
 
-Ghostbuster (off-screen): Is it really that bad?
+Off-panel voice: Is it really that bad?
 
 [The Pope seen from the side in white on a black background. The text is in white:]
 
 Pope: Do you know how much scripture we'll have to revise?
 
-Ghostbuster (off-screen): Look, we've apologized –
+Off-panel voice: Look, we've apologized –
 
 [Zoom out from the pope]
 
-Pope: I mean, we can't have a trinity with just a Father and a Son!
+Pope: I mean, we can't have a Trinity with just a Father and a Son!
 
-Ghostbuster (off-screen): Again we're sorry.
+Off-panel voice: Again we're sorry.
 
-[The four Cueball-like Ghostbusters with their proton packs.]
+[Four Cueball-like Ghostbusters are shown with their proton packs.]
 
-Pope (off-screen): Sorry's not enough. Guards, take their proton packs.
+Pope (off-panel): Sorry's not enough. Guards, take their proton packs.
 
 Ghostbuster: Hey, we were just doing our jobs!
