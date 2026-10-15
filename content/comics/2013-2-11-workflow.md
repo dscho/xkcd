@@ -4,7 +4,7 @@ title: "Workflow"
 num: 1172
 alt: >-
   There are probably children out there holding down spacebar to stay warm in the winter! YOUR UPDATE MURDERS CHILDREN.
-img: https://imgs.xkcd.com/comics/workflow.png
+img: https://imgs.xkcd.com/comics/workflow_2x.png
 ---
 [Changelog for version 10.17 of a piece of software.]
 

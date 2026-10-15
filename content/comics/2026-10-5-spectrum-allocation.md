@@ -6,8 +6,6 @@ alt: >-
   Rumor has it that they're finally auctioning off the zeppelin navigation bands, but everyone is worried that the scary boat captains will express interest.
 img: https://imgs.xkcd.com/comics/spectrum_allocation_2x.png
 ---
-{{incomplete transcript|Don't remove this notice too soon.}}
-
 [A pillar segmented into varyingly-sized sections shaded in contrasting shades of grey, displaying the delineation of various bands of the electromagnetic spectrum, with no units or values to indicate exactly what extent or orientation these bands represent. There are rough edged unlabelled additional bands on both top and bottom of the diagram, indicating continuation beyond the slices shown.]
 
 [From top to bottom, and positioned arbitrarily either to the left or the right of the diagram, the the labels pointing at each complete section are:]
@@ -50,7 +48,7 @@ Ham radio
 
 *Choosing Texas* 24/7
 
-Boat captains say they need this for something and we don't ask what because their scary
+Boat captains say they need this for something and we don't ask what because they’re scary
 
 The secret radio waves that make planes stay up
 
