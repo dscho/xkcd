@@ -12,7 +12,7 @@ img: https://imgs.xkcd.com/comics/recursive_truckers_hitch_2x.png
 
 [Below is a box within the panel shows the following equation:]
 
-<math>{Mechanical~advantage} = \frac{F\_{out}}{F\_{in}} = \frac{1}{3} \Bigl( 2^{(2n+1)}+1 \Bigr) \approx \frac{2}{3}4^n</math>
+<math>\text{Mechanical advantage} = \frac{F\_\text{out}}{F\_\text{in}} = \frac{1}{3} \Bigl( 2^{(2n+1)}+1 \Bigr) \approx \frac{2}{3}4^n</math>
 
 
 

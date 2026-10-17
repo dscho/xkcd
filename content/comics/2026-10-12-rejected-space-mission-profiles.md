@@ -6,8 +6,6 @@ alt: >-
   Although NASA agreed that Voyager 2 'seemed lonely' they decided against launching a companion orbiter mission after further measurements indicated that the spacecraft actually preferred the peace and quiet.
 img: https://imgs.xkcd.com/comics/rejected_space_mission_profiles_2x.png
 ---
-{{incomplete transcript|Don't remove this notice too soon.}}
-
 [Caption above the panels:]
 
 Rejected Space Mission Profiles
