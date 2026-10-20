@@ -6,8 +6,6 @@ alt: >-
   Atmospheric transmission spectroscopy has revealed that the sunsets from the observatory are really pretty.
 img: https://imgs.xkcd.com/comics/planet_database_2x.png
 ---
-{{incomplete transcript|Don't remove this notice too soon.}}
-
 [Megan is sitting at her desk looking at a laptop. Cueball stands behind her.]
 
 Megan: I'm browsing the list of potentially habitable planets.

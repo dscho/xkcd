@@ -10,7 +10,7 @@ img: https://imgs.xkcd.com/comics/correlation.png
 
 Cueball: I used to think correlation implied causation.
 
-[Cueball lift his hand while continuing to talk to Megan.]
+[Cueball raises his hand while continuing to talk to Megan.]
 
 Cueball: Then I took a statistics class. Now I don't.
 

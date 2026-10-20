@@ -6,8 +6,6 @@ alt: >-
   People out here catching strays out here catching strays
 img: https://imgs.xkcd.com/comics/dogcatcher_2x.png
 ---
-{{incomplete transcript|Don't remove this notice too soon.}}
-
 [Ponytail, Cueball and Megan are seated at a table.]
 
 Ponytail: Once we break this story, he won't be able to get elected ***dogcatcher***.

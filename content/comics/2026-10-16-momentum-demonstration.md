@@ -18,7 +18,7 @@ Beret Guy: But if I pull them in, I spin faster, due to conservation of angular 
 
 [Beret Guy is spinning much faster, and his chair is moving upwards, tilting slightly to the left with beams blasting out. Hairbun and Cueball are backing away.]
 
-Beret Guy: Now, to help shed momentum, I form an axial jet!
+Beret Guy: Now, to help shed angular momentum, I form an axial jet!
 
 [Beret Guy's chair continues moving upwards and tilting to the left, and fire and smoke are spreading around his jet. Hairbun is covering her eyes and running away, and Cueball is holding his hands out.]
 
