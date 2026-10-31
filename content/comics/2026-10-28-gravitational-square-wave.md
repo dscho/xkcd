@@ -8,7 +8,7 @@ img: https://imgs.xkcd.com/comics/gravitational_square_wave_2x.png
 ---
 {{incomplete transcript|Don't remove this notice too soon.}}
 
-[A diagram is pictured, showing a sine wave progressively being modified into a square wave using progressively smaller pairs of black holes, then neutron stars.]
+[A diagram shows a sinusoidal gravitational wave emitted by two merging black holes being progressively modified into a square wave using a line of progressively smaller pairs of merging black holes and neutron stars. After the wave has become a square wave, a diagram is shown of six alternately 90°-turned flat rectangular blocks, presumably showing the square gravitational wave propagating through space. Then the wave reaches Earth, where people are puzzled by it, as indicated by "???!".]
 
 [Caption below the panel:]
 

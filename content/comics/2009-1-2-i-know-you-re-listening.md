@@ -12,7 +12,7 @@ Now and then, I announce "I know you're listening" to empty rooms.
 
 [Cueball is sitting in an armchair, reading. He murmurs something unreadable.]
 
-[A second Cueball-like surveillance man with headphones seems to have gotten up from his office chair so fast that is has fallen over and lies behind him. He is now standing in front of a large computer terminal with two screens. He can hear Cueball's mumble as it is shown as coming from one of the screens. The surveillance man is leaning back away from the terminal while holding a hand to his headphones.]
+[A second Cueball-like surveillance man with headphones seems to have gotten up from his office chair so fast that the chair has fallen over and now lies behind him. He is now standing in front of a large computer terminal with two screens. He can hear Cueball's mumble as it is shown as coming from one of the screens. The surveillance man is leaning back away from the terminal while holding a hand to his headphones.]
 
 [Caption below the panels:]
 
