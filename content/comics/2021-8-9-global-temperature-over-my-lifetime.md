@@ -4,7 +4,7 @@ title: "Global Temperature Over My Lifetime"
 num: 2500
 alt: >-
   I was really impressed by the accuracy of some of the report's predictions about fossil fuel consumption. Then I realized, oh, right, of course.
-img: https://imgs.xkcd.com/comics/global_temperature_over_my_lifetime.png
+img: https://imgs.xkcd.com/comics/global_temperature_over_my_lifetime_2x.png
 ---
 [Graph of temperature over time, titled:]
 

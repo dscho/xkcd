@@ -8,7 +8,7 @@ img: https://imgs.xkcd.com/comics/siege_engine_2x.png
 ---
 {{incomplete transcript|Don't remove this notice too soon.}}
 
-[A large structure on wheels is moving towards a castle.]
+[A large barrel-vaulted structure with a door and a dark interior is moving towards a castle on many wheels. The castle is dwarfed by the structure's massive size.]
 
 *RUMBLE*
 

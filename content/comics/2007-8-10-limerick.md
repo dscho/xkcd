@@ -8,7 +8,7 @@ img: https://imgs.xkcd.com/comics/limerick.png
 ---
 [Cueball sits at a computer, typing.]
 
-Cueball (typing): I used to find slashdot delightful,
+Cueball (typing): I used to find Slashdot delightful,
 
 Cueball (typing): but my feelings of late are more spiteful;
 
