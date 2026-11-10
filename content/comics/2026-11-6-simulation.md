@@ -8,7 +8,7 @@ img: https://imgs.xkcd.com/comics/simulation_2x.png
 ---
 {{incomplete transcript|Don't remove this notice too soon.}}
 
-[A graph showing "Cataclysmic asteroid impact rate" on the Y-axis, with an unlabeled X-axis. The Y-axis is labeled "Rare" at the bottom, with an arrow pointing up towards "Constant" at the top. A point on the graph, horizontally aligned with "Rare", is labeled "Real Earth". A box with whiskers is positioned slightly below "Constant", with a whisker above "Constant", and is labeled "Earth in the average install of *Universe Sandbox*". The box is directly above the point.]
+[A graph showing "Cataclysmic asteroid impact rate" on the Y-axis, with an unlabeled X-axis. The Y-axis is labeled "Rare" at the bottom, with an arrow pointing up towards "Constant" at the top. A point on the graph, horizontally aligned with "Rare", is labeled "Real Earth". A box with whiskers is positioned directly above the point, far above the level marked "Rare" and slightly below the level marked "Constant", with a whisker above "Constant", and is labeled "Earth in the average install of *Universe Sandbox*".]
 
 [Caption below the panel:]
 

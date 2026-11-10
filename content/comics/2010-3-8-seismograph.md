@@ -8,7 +8,7 @@ img: https://imgs.xkcd.com/comics/seismograph.png
 ---
 [Cueball is standing over another man, who is strapped into a chair with wires attached to his head and arms. The wires lead to a large lie detector on a stand next to him, which has jagged lines drawn across it.]
 
-Cueball: *IS THERE AN EARTHQUAKE HAPPENING?!*
+Cueball: <big><big>***IS THERE AN EARTHQUAKE HAPPENING?!***</big></big>
 
 Sitting man: No!
 

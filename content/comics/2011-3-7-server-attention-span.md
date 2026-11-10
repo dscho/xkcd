@@ -14,13 +14,23 @@ Server: Hi! I'm a server! Who are you?
 
 Browser: I'm a browser. I'd like to see this article.
 
+[Closeup on the server speaking.]
+
 Server: Oh boy! I can help! Let me get it for— ...Whoa! You're a *smartphone* browser?
 
-Browser: Yeah.
+[Another view of the same server.]
 
-Server: Cooool! Hey, I've got this new mobile version of my site! Check it out! Isn't it pretty?
+Browser [off-panel]: Yeah.
+
+Server: Cooool! Hey, I've got this new mobile version of my site! Check it out!
+
+Server:Isn't it pretty?
+
+[The mobile device is shown, now with content on the screen.]
 
 Browser: Sure, but this is just your mobile site's main page. Where's the article I wanted?
+
+[The server in its rack, shown at another angle.]
 
 Server: What article?
 
