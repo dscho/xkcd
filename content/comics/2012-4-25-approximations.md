@@ -6,6 +6,8 @@ alt: >-
   Two tips: 1) 8675309 is not just prime, it's a twin prime, and 2) if you ever find yourself raising log(anything)^e or taking the pi-th root of anything, set down the marker and back away from the whiteboard; something has gone horribly wrong.
 img: https://imgs.xkcd.com/comics/approximations.png
 ---
+{{incomplete transcript|transcripts shouldn't be in tables}}
+
 **A table of slightly wrong equations and identities useful for approximations and/or trolling teachers.**
 
 (Found using a mix of trial-and-error, *Mathematica*, and Robert Munafo's *Ries* tool.)
