@@ -50,4 +50,4 @@ Introducing
 
 <big><big>The xkcd Phone 3</big></big>
 
-We made another one®©™
+We made another one<sup>®©</sup>™
