@@ -38,9 +38,7 @@ Store sign: Pet Store
 
 My hobby: Going out at night and adding "all-you-can-eat" to every store's sign
 
-**Click** to expand a detailed image description:
-
-<div class="mw-collapsible mw-collapsed leftAlign" style="width:100%">
+{{cot|**Click** to expand a detailed image description:|left=1|width=100%}}
 
 <br>
 
@@ -52,6 +50,6 @@ My hobby: Going out at night and adding "all-you-can-eat" to every store's sign
 
 [Fourth store from the left has a window to the left. Behind the window is a flat surface on which two rectangular structures are standing on their long sides. Over the lowest to the left there is sign with unreadable text. Below the window there is a thin sign with more text. The normal sized door has a window from below the middle and up. There are three several signs up the left sign, and possible another three small signs at the bottom of the window. The top right corner has a curved line around the corner. No text is visible on the door. Next to the door is another square. It could be a window of a place to post things. There are one large posters to the left with unreadable text and to the top right another smaller white rectangle. Below along the bottom of the square there are three small rectangles shown in full, and two more is only partly shown, which could indicate that it is a window and that they are inside the store. On the stores sign the top line of text, with the name of the store, is obscured by the white sign. The name is just a bit longer than the white sign, and as the letters are a bit higher than in store two it can be deduced that it says "Kevin's".]
 
-</div>
+{{cob}}
 
 <br>

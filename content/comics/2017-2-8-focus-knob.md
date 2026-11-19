@@ -24,9 +24,7 @@ Right section: <span style="color: gray;">Panic and existential paralysis</span>
 
 Small section: <span style="color: gray;">Healthy balance</span>
 
-\***Click** to expand for a more detailed image description without any more text:
-
-<div class="mw-collapsible mw-collapsed leftAlign" style="width:100%">
+{{cot|**Click** to expand for a more detailed image description without any more text:|left=1|width=100%}}
 
 <br>
 
@@ -34,6 +32,6 @@ Small section: <span style="color: gray;">Healthy balance</span>
 
 [Above and all along the black semi circle with the range, another set of arcs are drawn in light gray. These has been divided into three sections, with two large sections left and right forming most of the major arc, which here consist of two double ended arrows pointing to four stopping lines orthogonal to the gray arrows pointing at them. The left and right stopping lines are above the larger left and right end ticks below. The other two stops are very near each other, the left just slightly past the 24th tick (from left) and the next is just short of the next 25th tick (but not as near as the other line was to the 24th tick). There is no line or arrow between these two very close stopping lines. There are three labels. The labels for the first section (spanning slightly more than 24 ticks) and the second section (spanning a bit more 13 ticks) have their labels written next to the arrows, which has been broken in order to have the text written next to the black arc. The remaining small space lies between the 24th and 25th tick, and it thus have no possible settings within it - i.e. no tick is inside this section, and it is the only part not encompassed by the two double arrows. It is labeled to the right of it, and a line goes from the label down to indicate this small section. All the above including the text is drawn in the same light gray color.]
 
-</div>
+{{cob}}
 
 <br>

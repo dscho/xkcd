@@ -6,6 +6,12 @@ alt: >-
   My country's World Cup win was exciting and all, but c'mon, what if the players wore nylon wings and COULD LITERALLY FLY?
 img: https://imgs.xkcd.com/comics/solar_system_questions.png
 ---
+{{incomplete transcript|
+
+In the transcript section, tables should never be used as they are less accessible to users of screen readers. The table below should be rewritten using words. <small>[[EX:FAQ#tables|Learn more in the editor FAQ]].</small>
+
+}}
+
 **Questions I have**
 
 **about the solar system**

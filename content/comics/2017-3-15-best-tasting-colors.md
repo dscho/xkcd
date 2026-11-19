@@ -38,9 +38,7 @@ Good
 
 10. Black <span style="color:grey;">- Licorice</span>
 
-\***Click** to expand for a more detailed description:
-
-<div class="mw-collapsible mw-collapsed leftAlign" style="width:100%">
+{{cot|**Click** to expand for a more detailed explanation:|left=1|width=100%}}
 
 <br>
 
@@ -56,6 +54,6 @@ Good
 
 [Third there is a point that is outside the black arrow for yellow on the gray line for popcorn. That is the only place where the gray line exceeds any black markings as it is only broken by the dot and then continues further to the arrow.]
 
-</div>
+{{cob}}
 
 <br>

@@ -50,9 +50,7 @@ based on its time zone(<small>s</small>)
 
 <span style="color: gray;">\*=Half-hour offset</span>
 
-\***Click** to expand for a more detailed description:
-
-<div class="mw-collapsible mw-collapsed leftAlign" style="width:100%">
+{{cot|**Click** to expand for a more detailed explanation:|left=1|width=100%}}
 
 <br>
 
@@ -62,6 +60,6 @@ based on its time zone(<small>s</small>)
 
 [Most countries over a certain size have their name listed in a gray font. Small countries like Ireland and Haiti has their name listed in the oceans around them. Most other countries have the name inside the country, but if there is not enough room abbreviations are used. There are also a few specialties mentioned when time zones are not divided in full hours, for instance a footnote regarding time zones with a half hour offset.]
 
-</div>
+{{cob}}
 
 <br>
